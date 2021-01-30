@@ -1,0 +1,69 @@
+#Intro1 (pick one line from each Intro section at random)
+Yoooooooooooooooo please help.
+Hay hay hay! I mean, hey hey hey!
+What's up!
+
+#Intro2
+Crazy thing right, my <object> went missing around here. Have you got it?
+<object>. Ring any bells?
+Can you do us a solid and see if you've got my <object>.
+
+#Intro3
+If you've got it, please give it me back. I'm losing my marbles here. Oh, metaphor, not looking for those as well.
+I could do with you checking quickly, I've got a date tonight.
+Please be quick, I'm on the run.
+
+#Weight
+Uhhhhhh maybe <weight>? I think? 
+#Size
+Definitly <size>. That should be obvious.
+#ColourPositive
+It's <colour_1>, but they're <colour_2> that colour.
+#ColourNegative
+Uhhhhh pass.
+#FlammablePositive
+Not like I've tried, but yes it is.
+#FlammableNegative
+The only thing fire here is me.
+#LivingPositive
+I sure hope so.
+#LivingNegative
+It is not. Not any mor-I mean no never.
+#EdgesPositive
+It has more edges than an angry echidna.
+#EdgesNegative
+No...not really edgy.
+#DensityPositive
+Yes, it's putting you to shame!
+#DensityNegative
+No, not really. You've got it beat for sure.
+#Feel
+I'd describe it as <feel>. Please don't judge me.
+#EdiblePositive
+Well, yes you can eat it, but please don't. It's mine.
+#EdibleNegative
+I wouldn't want to try and eat it to be honest. Both in terms of edibility and in terms of don't. 
+#Value
+It's <value>, but I didn't tell you that.
+#Temperature
+Lovely and <temperature> as long as you've been treating it right.
+#RecyclablePositive
+If it wasn't mine, yes. However, it's mine, so don't.
+#RecyclableNegative
+If it wasn't mine, no. Since it's mine, also no.
+#Mouthfeel
+...I don't think I've ever put it in my mouth. Maybe <mouthfeel>? That sounds about right.
+#BlendPositive
+Yes it can. So can your hand.
+#BlendNegative
+No, but your hand can. Choose carefully.
+#Shape
+It is <shape>-shaped, as you should expect.
+#CustomsPositive
+Yeah, customs would take it off me, but I have a license.
+#CustomsNegative
+No, I have the right to bear <object>s. Customs shouldn't bat an eyelid.
+#MagneticPositive
+Well, yeah it's magnetic. Of course it is. That might help you find it quicker.
+#MagneticNegative
+Nope, though that could be fun. 
