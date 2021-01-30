@@ -1,0 +1,94 @@
+#Intro1 (pick one line from each Intro section at random)
+So, like, is this the Lost and Found?
+So, like, I lost my thing.
+Hey, like, you there.
+
+#Intro2
+So, like, I had this <object>...
+So, like, do you have my thing?
+
+#Intro3
+So, like, can you help me or something?
+So, like, can you have look?
+
+#OutroPositive1
+So this is, like, so sweet. That's totally my <object>!
+So, like, that's totally my <object>!
+
+#OutroPositive2
+So, like, totally thanks!
+So, you, like, totally rock!
+So, like, cool!
+
+#OutroNegative1
+This is, like, totally not my thing.
+So, like, why are you giving me this?
+So, like, totally urgh!
+
+#OutroNegative2
+So, like, keep your <object>
+You, like, totally suck.
+Urgh, you, like, totally, totally blow.
+
+#OutroNoItem1
+So, like, bummer.
+So, like, major bad vibes.
+
+#OutroNoItem2
+I guess you're, like, cool though.
+So I guess, like, thanks anyway.
+
+#Weight
+It's so, like, totally <weight>.
+#Size
+It's like, so totally <size> that it makes me laugh.
+#ColourPositive
+It's soooooo <colour_1>, but, like, that's totally <colour_2> like that.
+#ColourNegative
+Like, colour? Are you totally, like, stupid?
+#FlammablePositive
+It's, like, totally a fire hazard.
+#FlammableNegative
+So, like, I don't know who'd even try to set it on, like, fire.
+#LivingPositive
+So it's, like, totally alive.
+#LivingNegative
+That's so, like, L-O-L that you'd think it's living.
+#EdgesPositive
+It's, like, edgier than one of those goth kids.
+#EdgesNegative
+It's, like, totally got no edges.
+#DensityPositive
+It's, like, denser than my Uncle Mike, and my Uncle Mike is, like, stupider than me.
+#DensityNegative
+It's, like, so not dense.
+#Feel
+It's, like, so <feel> that I totally can't get enough of it.
+#EdiblePositive
+It's, like, totally munchable.
+#EdibleNegative
+Oh, that's, like, so R-O-F-L that you'd even ask.
+#Value
+It's, like, totally <value>, at least compared to, like, my pocket money.
+#Temperature
+It's kinda <temperature>, you, like, know?
+#RecyclablePositive
+It's, like, totally save the earth, yeah?
+#RecyclableNegative
+Like, no.
+#Mouthfeel
+Like, are you a sicko? I guess it's <mouthfeel>?
+#BlendPositive
+Like, I've totally blended one of these before.
+#BlendNegative
+So, like, totally no.
+#Shape
+It's, like, totally <shape>. I, like, so totally can't get enough of how <shape> it is.
+#CustomsPositive
+Like, don't be a narc, you, like, know what I'm saying.
+#CustomsNegative
+Like, totally no.
+#MagneticPositive
+Like, it's so magnetic it'd wipe my credit cards, you know?
+#MagneticNegative
+Like, L-O-L, it's why would you even ask that? It's not, like, magnetic at, like, all.
