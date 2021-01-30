@@ -1,0 +1,83 @@
+#Intro1
+greetings, meatbag.
+bleep bloop hello.
+
+#Intro2
+I need my <object> please.
+
+#Intro3
+it is very important that I get to see my <object>.
+the lease for my wavelength on the dark fiber rail is ending soon, I need to visually inspect my <object> before then.
+
+#OutroPositive1
+thank you.
+
+#OutroPositive2
+have a satisfactory day.
+
+#OutroNegative1
+performance is not satisfactory.
+
+#OutroNegative2
+this incident will be reported.
+
+#OutroNoItem1
+that is unfortunate, but thank you for attempting.
+
+#OutroNoItem2
+here's my UUID should you find it.
+
+#Weight
+<object> is <weight>.
+#Size
+<object> is <size>.
+#ColourPositive
+<object> <Colour_2> reflects <Colour_1> wavelengths.
+#ColourNegative
+the human visible spectrum does not interact with <object>.
+#FlammablePositive
+<object> is capable of combustion.
+#FlammableNegative
+<object> is not capable of combustion.
+#LivingPositive
+<object> is capable of cytokinesis.
+#LivingNegative
+<object> is not capable of cytokinesis.
+#EdgesPositive
+<object> has vertices.
+#EdgesNegative
+<object> does not have vertices.
+#DensityPositive
+<object> is buoyant.
+#DensityNegative
+<object> is not buoyant.
+#Feel
+my durometer says <object> should feel <feel>.
+#EdiblePossible
+<object> can be digested by organic beings.
+#EdibleNegative
+<object> can not be digested by organic beings.
+#Value
+the monetary is <value>.
+#Temperature
+my thermometer puts the object in the <temperature> range.
+#RecycleablePositive
+<object> is recycleable.
+#RecyclableNegative
+<object> is not recycleable.
+#Mouthfeel
+organic beings say <object> is <mouthfeel>.
+#BlendPositive
+<object> can be pulverized.
+#BlendNegative
+<object> can not be pulverized.
+#Shape
+<object> is <shape>.
+#CustomsPositive
+<object> is contraband.
+#CustomsNegative
+<object> is not contraband.
+#MagneticPositive
+<object> reacts to magnetic fields.
+#MagneticNegative
+<object> does not react to magnetic fields.
