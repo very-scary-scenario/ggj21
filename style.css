@@ -11,7 +11,7 @@
 }
 
 body {
-  background-image: url(tile.png);
+  background-image: url(tile.svg);
   animation: tokimeki-memorial 2s linear infinite;
 }
 
