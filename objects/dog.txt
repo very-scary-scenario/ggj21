@@ -1,13 +1,13 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Cat
+Dog
 #FlavourText
-Meows occasionally. Pleasant to the touch.
+If you throw something, it might bring it back. It's wild!
 #Weight (Light/Medium/Heavy)
 Medium
 #Size (Small/Medium/Big)
 Medium
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
-Orange/Sometimes
+Brown/Sometimes
 #Flammable (Yes/No)
 Yes
 #Living (Yes/No) 
@@ -15,7 +15,7 @@ Yes
 #Edges (Yes/No)
 No
 #Density/Would it sink in water (Yes/No)
-Yes
+No
 #Feel (Rough/Smooth/Sharp/Furry/Weird)
 Furry
 #Edible (Yes/No)

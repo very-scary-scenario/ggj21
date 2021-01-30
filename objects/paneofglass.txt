@@ -1,38 +1,38 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Cat
+Pane of Glass
 #FlavourText
-Meows occasionally. Pleasant to the touch.
+Made with 99% invisible.
 #Weight (Light/Medium/Heavy)
-Medium
+Heavy
 #Size (Small/Medium/Big)
 Medium
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
-Orange/Sometimes
+None
 #Flammable (Yes/No)
-Yes
-#Living (Yes/No) 
-Yes
-#Edges (Yes/No)
 No
-#Density/Would it sink in water (Yes/No)
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+Yes
+#Buoyant (Yes/No)
 Yes
 #Feel (Rough/Smooth/Sharp/Furry/Weird)
-Furry
+Smooth
 #Edible (Yes/No)
-Yes
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Priceless
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Warm
-#Recyclable (Yes/No)
 No
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Expensive
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Cold
+#Recyclable (Yes/No)
+Yes
 #Mouthfeel (Good/Bad)
-Good
+Bad
 #Will it blend (Yes/No)
 Yes
 #Shape (Square/Round/Bumpy/Abstract)
-Abstract
+Square
 #Customs (Yes/No)
-Yes
+No
 #Magnetic
 No

@@ -1,38 +1,38 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Cat
+Roomba
 #FlavourText
-Meows occasionally. Pleasant to the touch.
+Only rarely poops on your carpet.
 #Weight (Light/Medium/Heavy)
 Medium
 #Size (Small/Medium/Big)
 Medium
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
-Orange/Sometimes
+Black/Sometimes
 #Flammable (Yes/No)
-Yes
+No
 #Living (Yes/No) 
-Yes
+No
 #Edges (Yes/No)
 No
 #Density/Would it sink in water (Yes/No)
 Yes
 #Feel (Rough/Smooth/Sharp/Furry/Weird)
-Furry
+Smooth
 #Edible (Yes/No)
-Yes
+No
 #Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Priceless
+Expensive
 #Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Warm
+Cold
 #Recyclable (Yes/No)
 No
 #Mouthfeel (Good/Bad)
 Good
 #Will it blend (Yes/No)
-Yes
-#Shape (Square/Round/Bumpy/Abstract)
-Abstract
-#Customs (Yes/No)
-Yes
-#Magnetic
 No
+#Shape (Square/Round/Bumpy/Abstract)
+Round
+#Customs (Yes/No)
+No
+#Magnetic
+Yes

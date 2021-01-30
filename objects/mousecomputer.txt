@@ -1,27 +1,27 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Cat
+Computer Mouse
 #FlavourText
-Meows occasionally. Pleasant to the touch.
+Place in a cage and feed regularly to amusing effect.
 #Weight (Light/Medium/Heavy)
-Medium
+Light
 #Size (Small/Medium/Big)
-Medium
+Small
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
-Orange/Sometimes
+White/Sometimes
 #Flammable (Yes/No)
-Yes
+No
 #Living (Yes/No) 
-Yes
+No
 #Edges (Yes/No)
 No
 #Density/Would it sink in water (Yes/No)
-Yes
+No
 #Feel (Rough/Smooth/Sharp/Furry/Weird)
-Furry
+Smooth
 #Edible (Yes/No)
-Yes
+No
 #Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Priceless
+Cheap
 #Temperature (Freezing/Cold/Warm/Hot/Boiling)
 Warm
 #Recyclable (Yes/No)
@@ -31,8 +31,8 @@ Good
 #Will it blend (Yes/No)
 Yes
 #Shape (Square/Round/Bumpy/Abstract)
-Abstract
+Round
 #Customs (Yes/No)
-Yes
+No
 #Magnetic
 No

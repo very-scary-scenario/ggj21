@@ -1,37 +1,37 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Cat
+Poké Ball
 #FlavourText
-Meows occasionally. Pleasant to the touch.
+Warps space to carry monsters in your pocket
 #Weight (Light/Medium/Heavy)
-Medium
+Light
 #Size (Small/Medium/Big)
-Medium
+Small
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
-Orange/Sometimes
+Red/Always
 #Flammable (Yes/No)
-Yes
+No
 #Living (Yes/No) 
-Yes
+No
 #Edges (Yes/No)
 No
 #Density/Would it sink in water (Yes/No)
 Yes
 #Feel (Rough/Smooth/Sharp/Furry/Weird)
-Furry
+Smooth
 #Edible (Yes/No)
-Yes
+No
 #Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Priceless
+Affordable
 #Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Warm
+Cold
 #Recyclable (Yes/No)
 No
 #Mouthfeel (Good/Bad)
 Good
 #Will it blend (Yes/No)
-Yes
+No
 #Shape (Square/Round/Bumpy/Abstract)
-Abstract
+Round
 #Customs (Yes/No)
 Yes
 #Magnetic
