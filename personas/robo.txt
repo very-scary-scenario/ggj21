@@ -13,6 +13,33 @@ You must comply.
 Attempts to refuse will be met with robo-disappointment.
 ...please.
 
+#OutroPositive1
+Task completed successfully.
+Correct <object> identified.
+Beep I mean object <object> located.
+
+#OutroPositive2
+Your assistance is appreciated. Perhaps we can go obtain alcoholic beverages.
+Kiosk operative, appreciation is being shown to you.
+Your successful retrieving of the item has been noted.
+
+#OutroNegative1
+Scanning...object does not match expected parameters.
+Negative identification. Incorrect object provided.
+Abort. Abort. Abort. Object incorrect.
+
+#OutroNegative2
+Human I must take my leave. Object must be elsewhere.
+Object reclaiming aborted.
+
+#OutroNoItem1
+Lack of object identified. 
+Error. Error. Error. I mean, oh no. Oh no. Oh no. I must leave.
+
+#OutroNoItem2
+External searching will resume.
+Now leaving establishment. Good bye.
+
 #Weight
 Average weight for object is <weight>.
 #Size
