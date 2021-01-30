@@ -1,0 +1,90 @@
+#Intro1 (pick one line from each Intro section at random)
+Pleased to meet you.
+Pleasure to make your acquaintance.
+
+#Intro2
+One appears to have misplaced their <object> within the vicinity.
+One's <object> would seem to have absconded one's person.
+
+#Intro3
+Mayhaps a fine person such as yourself will assist me in locating it?
+One humbly requests you peruse your stores of misplaced nick-nacks with the hope of locating it.
+
+#OutroPositive1
+Fabulous news my fine fellow. One is most greatful for your thorough service.
+Terrific news, old pal. One was beginning to think it would remain absent from my person. 
+
+#OutroPositive2
+Cheerio old chum.
+Toodlepip.
+
+#OutroNegative1
+Surely you jest? One would never allow such an object to grace one's possession.
+Perhaps you are engaging in lark? One is not amused, however.
+
+#OutroNegative2
+One will become angry forthwith.
+Good day to you.
+
+#OutroNoItem1
+Alas. One had hoped dearly that my <object> was in your possession.
+Disappointing news, certainly. One is certain that one's <object> is weeping, verily.
+
+#OutroNoItem2
+One will continue one's search forthwith.
+One is greatful for your assistance nonetheless. Cheerio.
+
+#Weight
+The weight? One would estimate it is <weight>, indeed. 
+#Size
+One is perplexed by which scale you may be requesting, but if one must choose, one would say <size>.
+#ColourPositive
+One's item is <colour_1>. One believes they're <colour_2> that colour, too.
+#ColourNegative
+One would say that it indeed would be a perilous task to label one's item with a colour.
+#FlammablePositive
+One would dare say that it would prove itself incompatible with fire, yes.
+#FlammableNegative
+One's possession is expertly crafted and thus not subject to fire in the same way other items may be.
+#LivingPositive
+Indeed it is, my good fellow. What a terribly silly question to present.
+#LivingNegative
+Living? Nay, it would be far from an accurate description. Surely my good fellow is jesting?
+#EdgesPositive
+One's missing item is indeed graced with edges, as one would expect.
+#EdgesNegative
+There is nary an edge on the thing. Perhaps it is due to the fine craft on mine?
+#DensityPositive
+One's item would hide itself beneath the surface, were one to be careless enough to introduce it to water.
+#DensityNegative
+One's item is of such extravagance and fine craft that it would rise itself out of the water, bobbing around until one reclaimed it.
+#Feel
+One would say it is very <feel>, old pal. Perhaps the most <feel>, even.
+#EdiblePositive
+Should one get peckish, it could indeed serve to satiate oneself for a moment. Indeed.
+#EdibleNegative
+One has not heard of items such as mine being an edible meal, nay. 
+#Value
+Despite one's appearance, my item is fairly <value>. Exceedingly prudent for someone of one's stature, certainly.
+#Temperature
+One has not measured with the appropriate apparatus, but one would estimate it is <temperature>.
+#RecyclablePositive
+Given the quality of the materials with which one's item is crafted, it would be trivial to recycle it efficiently.
+#RecyclableNegative
+Nay, one would like to ensure you are aware that one paid good money to ensure it was as unrecyclable as possible.
+#Mouthfeel
+A person of my stature? Engage in mouthfeel? Surely you jest? One's item has <mouthfeel> mouthfeel, but surely you jest?
+#BlendPositive
+It would be but a trivial task for a blender worthy of one's ownership to make short work of even my prized possession.
+#BlendNegative
+One's possession would never find its way into the jaws of said blender. But if that were to be the case, one's possession would be the victor.
+#Shape
+Verily, one would agree that it is <shape>-shaped. Verily.
+#CustomsPositive
+While an ordinary officer may find a problem with said item, one is not ordinary and thus does not have to deal with said officer.
+#CustomsNegative
+Nay, one's item would not prove to be a hinderance in such a scenario, unless it is recognised and fawned over for its inherent beauty. 
+#MagneticPositive
+One's possession attracts both persons and magnets, indeed.
+#MagneticNegative
+One's possession is of such worth that it has likely decided to reject the likes of the simple magnet, in favour of persons such as oneself.
