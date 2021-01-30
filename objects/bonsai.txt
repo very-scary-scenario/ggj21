@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Bonsai
+#FlavourText
+Tree baby.
+#Weight (Light/Medium/Heavy)
+Medium
+#Size (Small/Medium/Big)
+Small
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+Green/Often
+#Flammable (Yes/No)
+Yes
+#Living (Yes/No) 
+Yes
+#Edges (Yes/No)
+No
+#Density/Would it sink in water (Yes/No)
+No
+#Feel (Rough/Smooth/Sharp/Soft/Weird)
+Soft
+#Edible (Yes/No)
+Yes
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Affordable
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Warm
+#Recyclable (Yes/No)
+No
+#Mouthfeel (Good/Bad)
+Bad
+#Will it blend (Yes/No)
+Yes
+#Shape (Square/Round/Bumpy/Abstract)
+Abstract
+#Customs (Yes/No)
+No
+#Magnetic
+No
