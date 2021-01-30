@@ -33,7 +33,7 @@ function showTexts(strings, callback) {
 
 function havePersonaVisit() {
   const persona = pick(personas)
-  showTexts([pick(persona.Intro1), pick(persona.Intro2), pick(persona.Intro3)], alert('not implemented :<'))
+  showTexts([pick(persona.Intro1), pick(persona.Intro2), pick(persona.Intro3)], function() { alert('not implemented :<') })
 }
 
 havePersonaVisit()
