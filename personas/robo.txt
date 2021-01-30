@@ -1,0 +1,69 @@
+#Intro1 (pick one line from each Intro section at random)
+Greetings fellow human.
+Beep boop.
+Alert.
+
+#Intro2
+Misplaced item locating services required.
+You must assist in item locating.
+Item misplaced. Kiosk operative, search and recover.
+
+#Intro3
+You must comply.
+Attempts to refuse will be met with robo-disappointment.
+...please.
+
+#Weight
+Average weight for object is <weight>.
+#Size
+Dimensions are <size>.
+#ColourPositive
+Converting hexadecimal...object is <colour_1> color. Other objects of this type are <colour_2> this color.
+#ColourNegative
+Color parameter missing.
+#FlammablePositive
+Affirmative. Object flammable. Smoking is prohibited in this area.
+#FlammableNegative
+Negative. Object fire retardant.
+#LivingPositive
+Affirmative. Object is animate.
+#LivingNegative
+Negative. Object is inanimate.
+#EdgesPositive
+Object shape deemed to have edges.
+#EdgesNegative
+"Edges" does not match object description.
+#DensityPositive
+Affirmative. Object likely to sink in H2O.
+#DensityNegative
+Negative. Object may float in water.
+#Feel
+Accessing feels database...as a human I would describe the object as <feel>.
+#EdiblePositive
+Object may be consumed by humans safely.
+#EdibleNegative
+Object is not safe for human consumption. 
+#Value
+According to online auction databases, object is regarded as <value>.
+#Temperature
+Temperature sensor malfunctioning, using approximate fallback. Object temperature range: <temperature>
+#RecyclablePositive
+Object is widely recycled. Please check your local recycling centre for more information.
+#RecyclableNegative
+Object is not widely recycled.
+#Mouthfeel
+As a human, I can accurately describe how the object feels in my mouth that I have. I would describe it as "<mouthfeel>".
+#BlendPositive
+Object has the properties to successfully be used in a blender.
+#BlendNegative
+Object may cause damage to kitchen blenders and cannot be reduced down with one.
+#Shape
+Object is <shape>.
+#CustomsPositive
+Legal restrictions on the object are active in this area.
+#CustomsNegative
+Currently, there are no legal restrictions on the object.
+#MagneticPositive
+Affirmative. Object must be kept at a distance from electronics sensitive to magnets. I am human and therefore immune from such issues.
+#MagneticNegative
+Negative. Object does not emit a magnetic field.
