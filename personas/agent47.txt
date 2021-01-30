@@ -1,0 +1,86 @@
+#Intro1
+Hello citizen, I'm famous fashion model Helmet Kruger
+Hello, I was wondering if you could help me tie up a loose end
+Greetings, I neeed to find something before I make a rapid exit
+
+#Intro2
+Someone has misplaced my <object> and I need to retrieve it
+I've been assigned to retrieve <object> with as little fuss as possible
+Retrieving <object> is one of my mission objectives
+
+#Intro3
+I'm hopeful you will be able to aid me in reaching my objective
+I trust that you will be able to help me execute my search
+
+#OutroPositive1
+Flawless execution
+
+#OutroPositive2
+Your service was to die for
+
+#OutroNegative1
+Truly poisonous service
+
+#OutroNegative2
+I shall be recommending you for an ICA contract
+
+#OutroNoItem1
+Disappointing
+
+#OutroNoItem2
+I see your glass is half empty
+
+#Weight
+I would say <object> is <weight>
+#Size
+If you put a gun to my head I would say <objecyt> is <size>
+#ColourPositive
+While I prefer blood red, I would say <object> is more of a <colour> shade
+#ColourNegative
+I'm afraid that <object> is a colourless as a ghost
+#FlammablePositive
+<object> is extremely flammable, trust me.
+#FlammableNegative
+Unfortunately I have ruled out <object> being combustible
+#LivingPositive
+I can confirm that <object> is alive...for the time being
+#LivingNegative
+I'm afraid that <object> is not breathing. Trust me, I know these things.
+#EdgesPositive
+<object> definitely has a few edges on it. Could be dangerous.
+#EdgesNegative
+I can say that <object> is smooth and blunt, much like a blackjack.
+#DensityPositive
+<object> would definitely float, like a corpse in a pool
+#DensityNegative
+<object> would sink like a body weighed down with concrete
+#Feel
+If I were not wearing leather gloves I would say it is <feel>
+#EdiblePossible
+<object> can be eaten, along with a variety of additives.
+#EdibleNegative
+<object> cannot be consumed by anybody who wishes to remain amongst the living.
+#Value
+I do not work for the money, but I would describe it as <value>
+#Temperature
+While I am ice cold, this item is <temperature>
+#RecycleablePositive
+Like most good tools, <object> can be used for multiple targets
+#RecyclableNegative
+I am afraid <object> is very much a one-time only use
+#Mouthfeel
+If forced to consume it I would say it is <mouthfeel> 
+#BlendPositive
+If it were to...accidentally fall into a blender, I am sure nothing would remain
+#BlendNegative
+Sadly even the sharpest of blades will have no effect on this object
+#Shape
+I make a habit of recognising items by their silhouettes and can say this object is <shape>
+#CustomsPositive
+I would prefer that <object> not attract the attention of the authorities
+#CustomsNegative
+I am satisfied that the authorities can inspect <object> and find nothing untoward.
+#MagneticPositive
+Unfortunately <object> can be picked up by magnetic scanners
+#MagneticNegative
+I make it a habit to use items that can pass safely through magnetic scanners.
