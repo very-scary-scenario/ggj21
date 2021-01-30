@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Square of AstroTurf
+#FlavourText
+Prank your local cows by putting this in their field!
+#Weight (Light/Medium/Heavy)
+Light
+#Size (Small/Medium/Big)
+Medium
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+Green/Always
+#Flammable (Yes/No)
+No
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+No
+#Density/Would it sink in water (Yes/No)
+No
+#Feel (Rough/Smooth/Sharp/Furry/Weird)
+Rough
+#Edible (Yes/No)
+No
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Expensive
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Cold
+#Recyclable (Yes/No)
+No
+#Mouthfeel (Good/Bad)
+Bad
+#Will it blend (Yes/No)
+Yes
+#Shape (Square/Round/Bumpy/Abstract)
+Bumpy
+#Customs (Yes/No)
+No
+#Magnetic
+No
