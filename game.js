@@ -4,6 +4,8 @@ const objects = JSON.parse(document.getElementById("objects").textContent)
 const personas = JSON.parse(document.getElementById("personas").textContent)
 const properties = document.getElementById("properties")
 const propertyList = document.getElementById("property-list")
+const inventory = JSON.parse(JSON.stringify(objects));
+
 
 function pick(list) {
   return list[Math.floor(Math.random() * list.length)]
