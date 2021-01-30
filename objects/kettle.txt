@@ -1,19 +1,19 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Table
+Kettle
 #FlavourText
-Four legged and sturdy. It’ll never catch on.
+A kettle, unplugged. Coincidentally also the name of my new album.
 #Weight (Light/Medium/Heavy)
-Medium
+Light
 #Size (Small/Medium/Big)
-Medium
+Small
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
-Brown/Often
+Silver/Sometimes
 #Flammable (Yes/No)
-Yes
+No
 #Living (Yes/No) 
 No
 #Edges (Yes/No)
-Yes
+No
 #Density/Would it sink in water (Yes/No)
 Yes
 #Feel (Rough/Smooth/Sharp/Furry/Weird)
@@ -23,16 +23,16 @@ No
 #Value (Worthless/Cheap/Affordable/Expensive/Priceless)
 Affordable
 #Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Warm
+Cold
 #Recyclable (Yes/No)
-Yes
+No
 #Mouthfeel (Good/Bad)
 Bad
 #Will it blend (Yes/No)
-Yes
+No
 #Shape (Square/Round/Bumpy/Abstract)
-Square
+Abstract
 #Customs (Yes/No)
 No
 #Magnetic
-No
+Yes
