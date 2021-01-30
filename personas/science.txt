@@ -1,0 +1,96 @@
+#Intro1 (pick one line from each Intro section at random)
+Hi-hi!
+Hello there!
+
+#Intro2
+I was hoping you can help me.
+I may not look like it, but I'm actually an expert in Intergalactic Space Physics. That said...
+
+#Intro3
+I've lost my <object>!
+I've lost something, and I'm hoping you can help me.
+I need some help!
+
+#OutroPositive1
+Oh my gosh, it's my <object>!
+Thank you so much!!!
+There it is! It's my <object>.
+
+#OutroPositive2
+You are an absolutely star!
+Five out of Five, great service!
+Thank you so much!
+
+#OutroNegative1
+Ummm, I'm pretty sure this isn't mine.
+Emmm, I was looking for a <object>?
+Nope, Nopers, Noperific.
+
+#OutroNegative2
+I'm highly disappointed in you.
+I shall be filing a complaint.
+
+#OutroNoItem1
+Ack! I guess I'm out of luck!
+Oh, rats and a turkey.
+Awwwww....
+
+#OutroNoItem2
+Thanks for looking though.
+Sorry for taking up your time.
+Thank you for looking.
+
+#Weight
+Using all my scientific knowledge, I've estimate that it's... pretty <weight>.
+#Size
+Hmmm, subtract the... carry the... Ah, yes, it's <size>!
+#ColourPositive
+Oh, it's <colour_1>. Statistically, that's <colour_2> the case.
+#ColourNegative
+I'm not sure how to explain this with science, but it's... colourless?
+#FlammablePositive
+Oh, yes, it's very flammable. I only use it in secure lab conditions!
+#FlammableNegative
+It didn't burn last time I tried, anyway.
+#LivingPositive
+If you looked up the word 'living' in a dictionary, you'd find a picture of this. Well, not really, dictionaries don't often have pictures.
+#LivingNegative
+Hahahaha, I'm not sure that even a science novice would mistake this for living. 
+#EdgesPositive
+From my observational data, I'd say that yes, it has edges.
+#EdgesNegative
+All evidence points to "no".
+#DensityPositive
+It sank under lab conditions, last time I checked.
+#DensityNegative
+It's pretty 'floaty', as we say in the business.
+#Feel
+I believe the scientific term for this is that it feels somewhat <feel>.
+#EdiblePositive
+Scientifically, it's edible. It's nutritional value is hotly contested, though.
+#EdibleNegative
+I mean, maybe if you try hard enough, but not really.
+#Value
+It's extremely <value>.
+#Temperature
+Having tested this previously with the proper equipment, I would say that it is pretty <temperature>.
+#RecyclablePositive
+My studies into climate science would suggest that you should endeavour to recycle this, yes.
+#RecyclableNegative
+This needs to go into the landfill, alas.
+#Mouthfeel
+Urrrr, Mouthfeel isn't really a proper metric? I mean, I suppose <mouthfeel>?
+#BlendPositive
+Yes. Please don't ask me if I've tried it, though.
+#BlendNegative
+No. Please don't ask me if I've tried it, though.
+#Shape
+It's <shape>-shaped.
+#CustomsPositive
+It might be a little questionable from a customs point of view, but it's extremely important for science!
+#CustomsNegative
+Nope, nothing to be concerned about.
+#MagneticPositive
+I can assure you that it will attach to seven different types of metal, including Astroluminum blends!
+#MagneticNegative
+Nope, I can assure you that it is not magnetic.
