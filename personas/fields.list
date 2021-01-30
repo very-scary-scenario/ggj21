@@ -1,37 +1,24 @@
-BlendNegative
-BlendPositive
-ColourNegative
-ColourPositive
-CustomsNegative
-CustomsPositive
-DensityNegative
-DensityPositive
-EdgesNegative
-EdgesPositive
-EdibleNegative
-EdiblePositive
-EdiblePossible
-Feel
-FlammableNegative
-FlammablePositive
-Intro1
-Intro2
-Intro3
-LivingNegative
-LivingPositive
-MagneticNegative
-MagneticPositive
-Mouthfeel
-OutroNegative1
-OutroNegative2
-OutroNoItem1
-OutroNoItem2
-OutroPositive1
-OutroPositive2
-RecyclableNegative
-RecyclablePositive
-Shape
-Size
-Temperature
-Value
-Weight
+Blend, plusminus
+Colour, plusminus
+Customs, plusminus
+Density, plusminus
+Edges, plusminus
+Edible, plusminus
+Feel, list
+Flammable, plusminus
+Intro1, list
+Intro2, list
+Intro3, list
+Living, plusminus
+Magnetic, plusminus
+Mouthfeel, list
+Outro1, plusminus
+Outro2, plusminus
+OutroNoItem1, list
+OutroNoItem2, list
+Recyclable, plusminus
+Shape, list
+Size, list
+Temperature, list
+Value, list
+Weight, list

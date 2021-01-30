@@ -1,19 +1,19 @@
-Buoyant
+Buoyant, boolean
 Colour
-Customs
-Edges
-Edible
+Customs, boolean
+Edges, boolean
+Edible, boolean
 Feel
-Flammable
+Flammable, boolean
 FlavourText
-Living
-Magnetic
+Living, boolean
+Magnetic, boolean
 Mouthfeel
 Object
-Recyclable
+Recyclable, boolean
 Shape
 Size
 Temperature
 Value
 Weight
-Will it blend
+Will it blend, boolean

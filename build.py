@@ -1,13 +1,14 @@
 import json
 import os
 import logging
+import re
 from typing import Callable, Dict, List, Set, TextIO, Union
 
 from bs4 import BeautifulSoup
 
 
 HERE = os.path.dirname(__file__)
-STRICT = False
+STRICT = True
 
 
 def parse_object(obj_file: TextIO) -> Dict[str, Union[str, bool]]:
@@ -40,30 +41,59 @@ def parse_persona(person_file: TextIO) -> Dict[str, List[str]]:
     return persona
 
 
-def is_valid(thing: Dict[str, List[str]], fields: Set[str]) -> bool:
+def is_valid(thing: Dict[str, List[str]], fields: Dict[str, type]) -> bool:
     key_set = set(thing.keys())
-    if key_set != fields:
-        messages = [f'{str(thing)[:50]}...:']
-        if fields - key_set != set():
-            messages.append(f' - is missing keys {fields - key_set}')
-        if key_set - fields != set():
-            messages.append(f' - has unrecognised keys {key_set - fields}')
-        message = '\n'.join(messages)
+    messages = [f'{str(thing)[:50]}...:']
 
-        if STRICT:
-            raise ValueError(message)
-        else:
-            logging.warning(message)
-            return False
+    for field_name, field_type in fields.items():
+        if field_name not in thing:
+            messages.append(f' - is missing the {field_name} key')
+        elif type(thing[field_name]) is not field_type:
+            messages.append(
+                f' - has the wrong type for {field_name} ({type(thing[field_name])} instead of {field_type})'
+            )
+
+    fields_set = set(fields.keys())
+    if key_set - fields_set != set():
+        messages.append(f' - has unrecognised keys {key_set - fields_set}')
+
+    if len(messages) > 1:
+        logging.warning('\n'.join(messages))
+        return False
 
     return True
 
 
+def get_fields(folder_name: str) -> Dict[str, type]:
+    fields_filename = os.path.join(folder_name, 'fields.list')
+    field_types = {'boolean': bool, 'list': list, 'plusminus': 'plusminus'}
+    fields = {}
+    for field_line in open(fields_filename, 'r').readlines():
+        field = field_line.strip()
+        if not field:
+            continue
+        if ',' in field:
+            field_name, field_type_desc = map(str.strip, field.split(','))
+            field_type = field_types[field_type_desc]
+        else:
+            field_name = field
+            field_type = str
+
+        if field_type == 'plusminus':
+            field_prefix, field_number = re.match('([^0-9]+)([0-9]*)', field_name).groups()
+            fields[f'{field_prefix}Positive{field_number}'] = list
+            fields[f'{field_prefix}Negative{field_number}'] = list
+        else:
+            fields[field_name] = field_type
+
+    return fields
+
+
 def build_things(folder_name: str, parser: Callable) -> str:
     objects = []
-    fields_filename = os.path.join(folder_name, 'fields.list')
-    fields = set([field.strip() for field in open(fields_filename, 'r').readlines() if field.strip()])
+    fields = get_fields(folder_name)
 
+    all_valid = True
     for object_file_name in os.listdir(os.path.join(HERE, folder_name)):
         if object_file_name.startswith('.') or not object_file_name.endswith('.txt'):
             continue
@@ -71,7 +101,12 @@ def build_things(folder_name: str, parser: Callable) -> str:
             thing = parser(object_file)
             if is_valid(thing, fields):
                 objects.append(thing)
+            else:
+                all_valid = False
 
+    if STRICT and not all_valid:
+        raise ValueError("Invalid data were found, aborting.")
+    
     return json.dumps(objects, indent=2)
 
 
