@@ -1,0 +1,84 @@
+#Intro1 (pick one line from each Intro section at random)
+Quack-Quack!
+Quack!
+
+#Intro2
+Quack, quack quack, quack, <object>
+Quack Quack Quackity Quack.
+
+#Intro3
+Quack.
+Quack-Quack.
+
+#OutroPositive1
+Quack-quack!, Quack <object>!
+
+#OutroPositive2
+Quack Quack. Quackity.
+
+#OutroNegative1
+QUACK-QUACK, QUACKITY!
+
+#OutroNegative2
+QUAAAAAAAAAAAAAAAAAAAAAAAAAACK!!!!
+
+#OutroNoItem1
+Quaaaaaaaack.
+
+#OutroNoItem2
+Quack Quack. Quackity.
+
+#Weight
+Quack Quack, Quack, Quack Quack, <weight>.
+#Size
+Quack. Quack Quack, <size>, Quack.
+#ColourPositive
+Quack Quack <colour_2>, quack quack quackity <colour_1>.
+#ColourNegative
+Quack??
+#FlammablePositive
+QUACK! QUACK QUACK! YES! QUACK!
+#FlammableNegative
+Quack???
+#LivingPositive
+Quack Quack, Yes, Quack.
+#LivingNegative
+Quack??? Quack Quack? Qua-qua-Quack.
+#EdgesPositive
+Quack, Quack Quack, Edgey. Quack.
+#EdgesNegative
+Quack???
+#DensityPositive
+Quack, Quackity Quack, Floats.
+#DensityNegative
+Quack. Quack Quack, Sinks.
+#Feel
+Quackity, <feel>, Quack-quack-quack.
+#EdiblePositive
+Quack, Kwak-Quack, Tasty.
+#EdibleNegative
+Quack, Quack, Quack. Quackity. No.
+#Value
+Qua.... Quack Quack, <value>.
+#Temperature
+<temperature>
+#RecyclablePositive
+Quack, Yes.
+#RecyclableNegative
+Quack, No.
+#Mouthfeel
+Quack? Quaaaaaack? Qua-Quack? <mouthfeel>?
+#BlendPositive
+Quack? Quack-kwak. Blendable.
+#BlendNegative
+Quack? Kwak-kwak. Not Blendable.
+#Shape
+Kwak-kwak, <shape>, quack.
+#CustomsPositive
+Quack............................................ kwak.
+#CustomsNegative
+Quack. Quack-kwak. Fine.
+#MagneticPositive
+Yes. Quack.
+#MagneticNegative
+No. Quack.
