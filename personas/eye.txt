@@ -1,0 +1,91 @@
+#Intro1 (pick one line from each Intro section at random)
+Eye be looking for a lost item.
+Is this the Lost and Found Eye and Seeing?
+
+#Intro2
+Eye lost my <object> somewhere around here...
+Eye had my thing with me just a few days ago, and Eye lost sight of it around here.
+
+#Intro3
+Eye hope you can help me with this.
+Eye was hoing someone handed it in.
+
+#OutroPositive1
+Eye-eye, that's my <object>!
+Great, Eye though Eye'd never see my <object> again!
+
+#OutroPositive2
+Such a great thing to behold! Eye thank you!
+Eye give you my thanks!
+
+#OutroNegative1
+This item Eye behold does not below to Eye!
+What is this item you present to Eye?
+
+#OutroNegative2
+Keep you <object> to yourself!
+Eye hope Eye never have to see you again!
+
+#OutroNoItem1
+Eye-eye-eye!
+Eye, that's a shame.
+
+#OutroNoItem2
+There's nothing you can be doing. Eye thank you for your help!
+Thanks for your help, and sorry for taking up your time.
+Thank you for looking.
+
+#Weight
+If Eye was to eyeball it, Eye'd say it was <weight>.
+#Size
+If Eye was to eyeball it, Eye'd say it was <weight>.
+#ColourPositive
+<colour_1>, but <colour_2> Eye behold them in that colour.
+#ColourNegative
+Eye would say it has no colour to behold.
+#FlammablePositive
+Eye, it is flammable.
+#FlammableNegative
+No, Eye do not believe it to be flammable.
+#LivingPositive
+Eye, Eye have beheld it moving.
+#LivingNegative
+Eye, Eye have behold rocks that are more alive.
+#EdgesPositive
+Eye, Eye believe it could put an Eye out!
+#EdgesNegative
+Eye be at not risk of putting my Eye out around this, Eye would say.
+#DensityPositive
+Eye think it is pretty dense.
+#DensityNegative
+Eye don't believe it to be dense.
+#Feel
+Eye'd say it's pretty <feel> to the touch.
+#EdiblePositive
+Eye'd say that it would be possible to consume this.
+#EdibleNegative
+Eye would not like to try to consume this.
+#Value
+It's a pretty <value> item, Eye'd say.
+#Temperature
+It's <temperature>.
+#RecyclablePositive
+Eye believe it is recyclable.
+#RecyclableNegative
+Eye do not believe it to be recyclable.
+#Mouthfeel
+You are asking Eye about 'mouthfeel'? Eye am not an expert, but Eye would say it is probably <mouthfeel>.
+#BlendPositive
+Eye do not use a Blender, but Eye should think it should blend.
+#BlendNegative
+Eye do not think it to be possible to 'blend' this object.
+#Shape
+<shape>. It is most pleasing to my Eye.
+#CustomsPositive
+Eye do believe that it may result in some... questions being directed at Eye.
+#CustomsNegative
+Eye do not believe Customs to be an issue.
+#MagneticPositive
+Eye do believe this to be magnetic.
+#MagneticNegative
+Eye do not believe this to be magnetic.
