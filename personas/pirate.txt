@@ -29,9 +29,9 @@ That not be mine, ye savvy?
 Shiver me Timbers, even a Pirate don't be wanting one of those!
 
 #OutroNegative2
-Keep ye darn <object>.
+That not be my <object>, you scurvy dog!
 Me Cap'n will be having ye walking the Space Plank!
-Ye can shove your <object> up Davy Jones's Locker. 
+Ye can shove your garbage up Davy Jones's Locker. 
 
 #OutroNoItem1
 Shiver me timbers!
