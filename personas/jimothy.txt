@@ -13,6 +13,36 @@ I really hope you have it back there, I'm freaking out right now.
 Please tell me someone has handed it in!
 I've got a train leaving fairly soon and I don't want to leave it behind.
 
+#OutroPositive1
+Heck yeah, that's the one! My <object>!
+Oh heck yes! I thought I'd never see my <object> again!
+There it is! I'd never mistake it, that's my <object>.
+
+#OutroPositive2
+Thank you so much for your help, you're a star!
+You don't know how much this means to me. Have a great day!
+I really appreciate this! Thank you again!
+
+#OutroNegative1
+This... isn't mine? Has there been a mix-up?
+I mean, that literally has someone's name on it, and it's not mine.
+Uh, no. I never want to own one of these. 
+
+#OutroNegative2
+Keep your damn <object>. I've gotta go look elsewhere.
+I can't believe you've done this.
+Oh, and you can shove your <object>. 
+
+#OutroNoItem1
+You've got to be kidding me. I have no idea where else to look.
+It's definitely not back there? Not behind that mysterious curtain?
+Aww, dang it. I've probably lost my <object> for good.
+
+#OutroNoItem2
+Thanks for looking though, I do appreciate it.
+Thanks for your help, and sorry for taking up your time.
+Thank you for looking.
+
 #Weight
 Well, I'm fairly confident it's <weight>. I can't say I've weighed it though. 
 #Size
