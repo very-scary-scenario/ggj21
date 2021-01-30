@@ -1,0 +1,84 @@
+#Intro1 (pick one line from each Intro section at random)
+Now that I'm at the front of the queue, I can finally say that it's nice to meet you!
+It's good to meet you, but my item is missing. Could you save me from all this reminiscing?
+
+#Intro2
+<object>, that's my missing possession. If it's okay with you, may I ask you a question?
+
+#Intro3
+Regarding this loss, please hear my plea. Is it hiding back there? Is it hiding from me?
+I misplaced this item, now I'm at a loss. Please do your best for me, lost and found boss!
+
+#OutroPositive1
+My <object>! I missed you my friend!
+
+#OutroPositive2
+Thank you for bringing this quest to an end!
+
+#OutroNegative1
+My words, they fail me. I'm off for a pint.
+Is this a joke to you? I'm as angry as a wolf.
+
+#OutroNegative2
+I hate you and you don't even deserve my rhymes.
+
+#OutroNoItem1
+It isn't here? Not even round back?
+
+#OutroNoItem2
+It's not your fault, but that's kind of whack.
+
+#Weight
+<weight> would have to be my best guess, though I'm not not too sure I must confess. 
+#Size
+It's fairly <size>, that's for sure. The size of the thing was part of it's lure!
+#ColourPositive
+It's definitely <colour_1>, charming indeed. <colour_2> that colour, that much I concede.
+#ColourNegative
+No colour to speak of, not even orange.
+#FlammablePositive
+My prized possession could definitely burn, just don't try it out unless you want a turn.
+#FlammableNegative
+It's inflammable, so it's not a quagmire - just an inconvenience if it ends up in fire.
+#LivingPositive
+Indeed it's alive, a living thing. So if it's back there, you must hurry and bring.
+#LivingNegative
+No life in my item, no, not a sausage. That's all I can say, as I'm at a lossage.
+#EdgesPositive
+This much is for sure, it has many an edge. For a suitable rhyme, well for that we must dredge.
+#EdgesNegative
+No edges to see here, that much is true. About as many as shampoo, beef stew or fondue.
+#DensityPositive
+It's fairly dense, so it'd sink like a rock. So don't drop it into water, especially a loch.
+#DensityNegative
+It's not dense at all, it'd float to the surface. The dictionary I'm using suggests rhyming with cervix.
+#Feel
+It's exceedingly <feel>, no word of a lie. It's that very thing that caught my eye.
+#EdiblePositive
+You could definitely eat it, swallow it whole. It's calorie heavy though, so go for a stroll.
+#EdibleNegative
+I wouldn't eat it. No, that'd be weird. Someone that attempts it is someone to be feared.
+#Value
+<value>, for sure. I'd say that's about right. I didn't pay for it though, and that's because I'm tight.
+#Temperature
+It's a <temperature> item. <temperature> indeed. Yet despite that fact, it's an item I need.
+#RecyclablePositive
+Totally recyclable, one hundred percent. It could go in as-is, then come out as a tent.
+#RecyclableNegative
+It can't be recycled. No way. No how. You'd chuck it in a hedge, run away and say ciao!
+#Mouthfeel
+The mouthfeel is <mouthfeel>, that's all I can say. You're weirding me out, friend. It's a weird day.
+#BlendPositive
+Will it blend? That is the question. It'd be trivial, no matter the session.
+#BlendNegative
+Will it blend? That is the question. It'd never happen, no matter the session.
+#Shape
+It's got a <shape> shape, it's undeniable. All other descriptions are simply unviable.
+#CustomsPositive
+I'd have to hide it, they'd definitely take it away. But if they even tried it, I'd surely make them pay.
+#CustomsNegative
+I'm absolutely certain they wouldn't give a hoot. They'd have to way to take it, even though it's cute.
+#MagneticPositive
+It's without question that my item is magnetic. It's power over metals makes most things look pathetic.
+#MagneticNegative
+It is not magnetic, indeed that might be cool. Though asking means I recommend that you go back to school.
