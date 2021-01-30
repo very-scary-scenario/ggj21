@@ -1,7 +1,7 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
 Nintendo 64 Controller
 #FlavourText
-Has one more grip than most people have hands
+Has one more grip than most people have hands.
 #Weight (Light/Medium/Heavy)
 Light
 #Size (Small/Medium/Big)
