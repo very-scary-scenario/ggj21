@@ -1,0 +1,99 @@
+#Intro1 (pick one line from each Intro section at random)
+Ahoy there, matey!
+Well, Shiver me Timbers and Sweep the Poop Deck!
+I be seeking treasure!
+
+#Intro2
+Have ye been seeing my Dubloons, I mean, me <object>
+I be on a quest to find me my <object>
+This spot be not an 'X' on me map, but may this be where my <object> be found?
+
+#Intro3
+Have some scoundrel be hiding it treasure back thar?
+If I don't be bringing back treasure, me Cap'n be making me walk thar plank!
+Me treasure be rarer than a Space Whale!
+
+#OutroPositive1
+Ahoy! This be my <object>!
+Thar she blows! That be me <object>!
+Thar it be! It be a sight for this old sailors eyes, that's my <object>.
+
+#OutroPositive2
+I'll be drink'n the good Grog tonight!
+I'll be given ye five dubloons out of five!
+I be thanking ye, landlubber!
+
+#OutroNegative1
+Avast, Matey - That thar ain't my treasure!
+That not be mine, ye savvy?
+Shiver me Timbers, even a Pirate don't be wanting one of those!
+
+#OutroNegative2
+Keep ye darn <object>.
+Me Cap'n will be having ye walking the Space Plank!
+Ye can shove your <object> up Davy Jones's Locker. 
+
+#OutroNoItem1
+Shiver me timbers!
+Yargh!
+Gar! Me <object> must be claimed by the deep by now!
+
+#OutroNoItem2
+It not be your fault though, savvy?
+I'll be guessing this just be my white whale.
+Thanks to ye for looking.
+
+#Weight
+Aye, it be about the weight of a <weight> bag of gold.
+#Size
+I'd say it be the size of a <size> Space Salmon, savvy?
+#ColourPositive
+It be <colour_1>, that's for sure.
+#ColourNegative
+Yargh, it be as colourless as the space ghosts of Seventh Neptune!
+#FlammablePositive
+Yargh, it be more flammable that a six-gallon of Premium Grog!
+#FlammableNegative
+It be burning about as well as the Super Water of Pluto Five, savvy?
+#LivingPositive
+It be more alive than the Cap'n's stuffed Parrot, that be for sure.
+#LivingNegative
+Of course it's not living. Don't be silly. 
+#EdgesPositive
+It be having more edges than a galaxy-galleons space plank!
+#EdgesNegative
+It be blunter than a marathon runners peg-leg!
+#DensityPositive
+It be denser than the Ultra-Gold of Second Mercury!
+#DensityNegative
+It be not dense, Bucko.
+#Feel
+It's pretty <feel>, laddy.
+#EdiblePositive
+Aye, it be suitable for rations even marooned on the third moon of Ninth Golpoop!
+#EdibleNegative
+I wouldn't be eating this if even if I be marooned on the fourth moon of Ninth Golpoop!
+#Value
+Yargh! It be a pretty <value> treasure, it be!
+#Temperature
+It be <temperature>, like the Fifth Sun of Nineteen Earth!
+#RecyclablePositive
+Aye, it be resued more often than a cheap Grog bottle!
+#RecyclableNegative
+Nae, and ye better not be tryin!
+#Mouthfeel
+I cannae say I be putting it in my mouth, savvy? But I be guessing it be <mouthfeel>.
+#BlendPositive
+Aye, it'll be blending more nicely than a toad being added to ye grog!
+#BlendNegative
+Argh! It'll destroy ye blender like a Space Siren by destroying ye ship!
+#Shape
+It be pretty <shape> for sure, Bucko.
+#CustomsPositive
+Let's just say this be carried in the secret hold, savvy?
+#CustomsNegative
+Nae, do ye take me for some kind of Pirate?
+#MagneticPositive
+Yargh, it be interfere'n with the Space Compass, that be for sure.
+#MagneticNegative
+Nae, it's less attractive than a Space Narwhal in a mankini.
