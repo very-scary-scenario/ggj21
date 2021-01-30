@@ -53,7 +53,7 @@ the human visible spectrum does not interact with <object>.
 <object> is not buoyant.
 #Feel
 my durometer says <object> should feel <feel>.
-#EdiblePossible
+#EdiblePositive
 <object> can be digested by organic beings.
 #EdibleNegative
 <object> can not be digested by organic beings.
@@ -61,7 +61,7 @@ my durometer says <object> should feel <feel>.
 the monetary is <value>.
 #Temperature
 my thermometer puts the object in the <temperature> range.
-#RecycleablePositive
+#RecyclablePositive
 <object> is recycleable.
 #RecyclableNegative
 <object> is not recycleable.
