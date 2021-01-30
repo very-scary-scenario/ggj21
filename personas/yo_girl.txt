@@ -1,0 +1,93 @@
+#Intro1 (pick one line from each Intro section at random)
+Yo! Yo yo yo! Yo!
+Yo! Is this the Lost and Found, yo?
+Hey there, yo! You the boss, yo?
+
+#Intro2
+I lost my <object>, yo. Not cool.
+I was looking over there, yo. Then my <object>, it went missing on me, yo. 
+I'm missing my <object>, yo. You happen to have seen it, yo?
+
+#Intro3
+Lend us a hand, yo!
+Help us out, yo!
+Thats it. Yo!
+
+#OutroPositive1
+That's totally it, yo! I can't believe you found it, yo!
+My <object>, yo! I'm over the moon, yo!
+
+#OutroPositive2
+I won't forget this, yo! You're a legend, yo!
+Thanks so much, yo! Abayo!
+
+#OutroNegative1
+Yo. This isn't even close, yo.
+You kidding, yo? Am I a joke to you, yo?
+
+#OutroNegative2
+Did you just guess, yo? Forget it, yo.
+Not cool at all, yo. 
+
+#OutroNoItem1
+No way, yo. I thought for sure it'd be here, yo.
+Aww, yo. I'd bet all my remaining time that it'd be here, yo.
+
+#OutroNoItem2
+Thanks for checking anyway, yo.
+Please keep an eye out for me, yo.
+
+#Weight
+I'd have to say it's <weight>, yo. Pretty normal, yo.
+#Size
+Yo! It's real <size>, that's for sure, yo.
+#ColourPositive
+It's definitely <colour_1>, yo, but like, these things are <colour_2> that colour, yo.
+#ColourNegative
+Yo? I'm not sure how I could describe a colour, yo.
+#FlammablePositive
+Yo. It's hella flammable, yo.
+#FlammableNegative
+Not even close to being flammable, yo. 
+#LivingPositive
+Yo? Of course it's alive, yo. Be pretty weird if it wasn't, yo.
+#LivingNegative
+Yo! That's a pretty strange thing to ask, yo. It's not alive, yo.
+#EdgesPositive
+Got an edge here and an edge there, yo. Pretty edgy, yo.
+#EdgesNegative
+Well I've never noticed any edges, yo. Don't know where they'd be hiding, yo.
+#DensityPositive
+Dense as heck, yo. A real sinker even, yo.
+#DensityNegative
+Not even a little dense, yo. Float like a, uh, floater, yo.
+#Feel
+It's totally <feel>, yo. It's my favourite thing about it, yo.
+#EdiblePositive
+Heck yeah, yo. Dunno that I'd want you to eat it though, yo.
+#EdibleNegative
+No way, yo. Like, maybe as a dare or something, but no way, yo.
+#Value
+It's <value>, yo. I personally think it's pretty undervalued though, yo.
+#Temperature
+Temperature is confusing but uh, it's kinda <temperature>, yo?
+#RecyclablePositive
+Oh yeah, yo. For sure, yo. I don't know how to recycle but you could definitely do that, yo.
+#RecyclableNegative
+No, yo. Not even a little bit recyclable, yo.
+#Mouthfeel
+Yo. I'm always telling my friends that the mouthfeel is <mouthfeel>, yo.
+#BlendPositive
+You could blend it up real good, yo. Don't blend mine, but I'm down for blending someone else's stuff, yo.
+#BlendNegative
+Not even a little bit blendable, yo. Believe me, I tried. Yo.
+#Shape
+I'm confident it's <shape>-shaped, yo. I'm not confident in my confidence but I'm confident, yo.
+#CustomsPositive
+Don't be bringing them up, yo. They'd definitely want to confiscate it if they knew I had one, yo.
+#CustomsNegative
+I don't think they'd give a damn, yo. 
+#MagneticPositive
+Big magnet fan for sure, yo. Always attracting them, yo. 
+#MagneticNegative
+Magnets have no taste, yo. It should be attracted but it isn't, yo.
