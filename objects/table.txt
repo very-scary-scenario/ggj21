@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Table
+#FlavourText
+Four legged and sturdy. It’ll never catch on.
+#Weight (Light/Medium/Heavy)
+Medium
+#Size (Small/Medium/Big)
+Medium
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+Brown/Often
+#Flammable (Yes/No)
+Yes
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+Yes
+#Density/Would it sink in water (Yes/No)
+Yes
+#Feel (Rough/Smooth/Sharp/Furry/Weird)
+Smooth
+#Edible (Yes/No)
+No
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Affordable
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Warm
+#Recyclable (Yes/No)
+Yes
+#Mouthfeel (Good/Bad)
+Bad
+#Will it blend (Yes/No)
+Yes
+#Shape (Square/Round/Bumpy/Abstract)
+Square
+#Customs (Yes/No)
+No
+#Magnetic
+No

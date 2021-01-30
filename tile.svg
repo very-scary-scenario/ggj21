@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44" height="44" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect width="100%" height="100%" ry="0" fill="#3d3559"/>
+ <rect width="50%" height="50%" ry="0" fill="#101359"/>
+ <rect width="1.8906" height="1.8906" fill="#2b2a75"/>
+ <rect x="21.999" y="22" width="22.001" height="50%" ry="0" fill="#101359"/>
+ <path d="m0.94531 0c-0.52216-1.868e-4 -0.9455 0.42315-0.94531 0.94531v22.237h1.8906v-21.291h21.029v-1.8906z" color="#000000" fill="#0b0d3c" stroke-linejoin="round" stroke-width="1.8898"/>
+ <path d="m22.945 0c-0.52216-1.8652e-4 -0.9455 0.42315-0.94531 0.94531v20.192c0 0.46745-0.42062 0.86235-0.78213 0.86235h-20.273c-0.52216-1.87e-4 -0.9455 0.42315-0.94531 0.94531v21.055h1.8906v-20.109h21.094v-1.1035h0.90625v-20.896h20.109v-1.8906z" color="#000000" fill="#2b2a75" stroke-linejoin="round" stroke-width="1.8898"/>
+ <path d="m22.945 22a0.94497 0.94497 0 0 0-0.94531 0.94531v21.055h1.8906v-20.109h20.109v-1.8906z" color="#000000" fill="#0b0d3c" stroke-linejoin="round" stroke-width="1.8898"/>
+ <path d="m43.999 44h-0.7815c0.36152 0 0.78213-0.3949 0.78213-0.86235z" color="#000000" fill="#2b2a75" stroke-linejoin="round" stroke-width="1.8898"/>
+</svg>
