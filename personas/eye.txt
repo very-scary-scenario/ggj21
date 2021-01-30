@@ -23,7 +23,7 @@ This item Eye behold does not below to Eye!
 What is this item you present to Eye?
 
 #OutroNegative2
-Keep you <object> to yourself!
+This is not my <object> - Keep your object to yourself!
 Eye hope Eye never have to see you again!
 
 #OutroNoItem1
