@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Seagull
+#FlavourText
+Avian chip-snatcher.
+#Weight (Light/Medium/Heavy)
+Light
+#Size (Small/Medium/Big)
+Small
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+White/Often
+#Flammable (Yes/No)
+No
+#Living (Yes/No) 
+Yes
+#Edges (Yes/No)
+No
+#Density/Would it sink in water (Yes/No)
+No
+#Feel (Rough/Smooth/Sharp/Furry/Weird)
+Smooth
+#Edible (Yes/No)
+Yes
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Worthless
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Warm
+#Recyclable (Yes/No)
+No
+#Mouthfeel (Good/Bad)
+Bad
+#Will it blend (Yes/No)
+Yes
+#Shape (Square/Round/Bumpy/Abstract)
+Abstract
+#Customs (Yes/No)
+Yes
+#Magnetic
+No
