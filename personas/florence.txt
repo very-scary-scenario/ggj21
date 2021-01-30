@@ -1,0 +1,99 @@
+#Intro1 (pick one line from each Intro section at random)
+G'day mate! 
+Howdy there!
+How's it goin'?
+
+#Intro2
+Could you have a peak back there for my <object> if it's no wuckers?
+Me <object> has gone walkies!
+My <object> is a corker but it's gone walkabouts on me.
+
+#Intro3
+I'll be stuffed if you've not got it there, y'know?
+Holy dooley mate.
+Crikey!
+
+#OutroPositive1
+Yeah! That's me <object>! I missed ya, buddy!
+There's the corker! Me <object>'s back!
+Crikey mate, there's the bugger! That's my <object>!
+
+#OutroPositive2
+Thanks for the assist, mate. You're a real good one of these!
+I'll try not to lose my stuff again, yeah? No promises though.
+Gonna keep my <object> in my even larger suitcase, this time.
+
+#OutroNegative1
+Yeah naw, that ain't mine dawgie.
+This a prank, yeah? This isn't even close to being my <object>.
+Does this look like my <object>? For real?
+
+#OutroNegative2
+I'm outta here. Gonna speak with your manager if you have one.
+Expect a whack Yelp review, yeah? 
+Just wait 'til my TikTok followers hear about this, yeah?
+
+#OutroNoItem1
+No way, y'don't have it? Not even round back?
+Ah mate, this was the first place I looked. I'll never find it now.
+For real? Dang, dawgie. Thought for sure it'd be here.
+
+#OutroNoItem2
+Thanks for looking though, yeah?
+Give us a bell if it crops up, y'know?
+Guess I'll have to check my bags now.
+
+#Weight
+It's pretty <weight>, yeah? Like, that's what I reckon. 
+#Size
+As big as another, yeah. Y'know, like, <size>.
+#ColourPositive
+It's <colour_1>, lovely that. <colour_2> that colour, lovely all the same.
+#ColourNegative
+Hard to put a colour on it, y'know?
+#FlammablePositive
+Yeah dawgie, you could light it up! Don't, though.
+#FlammableNegative
+No way dawgie, not this one. No fire, please.
+#LivingPositive
+Yeah, for sure. Crikey, it was alive when I lost it.
+#LivingNegative
+No way dawgie, not this one. Unless... is it haunted? 
+#EdgesPositive
+Oh yeah, edges all over the place. Or not. It's edgy, at least. 
+#EdgesNegative
+No way mate, no edges here. Crikey.
+#DensityPositive
+Yeah mate, sinks like a croc with a rock. 
+#DensityNegative
+Nothing doing, it floats like a boat with a... float.
+#Feel
+It's pretty <feel>, dawgie. That's what I like about it anyway.
+#EdiblePositive
+Oh for sure, it could be tucker. Dont eat my stuff though, holy dooley.
+#EdibleNegative
+Crikey, I wouldn't consider it tucker at all.
+#Value
+Pretty <value>, yeah. I love it for what it is though, y'know?
+#Temperature
+Reckon it's about <temperature>, yeah? You're a weird one, y'know?
+#RecyclablePositive
+Yeah, deffo recyclable. Prefer you didn't though, you dig?
+#RecyclableNegative
+No way dawgie, not this thing. Don't go testing that idea though.
+#Mouthfeel
+The heck is mouthfeel? Don't even know what to say y'know? Probably <mouthfeel> mouthfeel? Maybe?
+#BlendPositive
+For sure, mate. Could whizz it up something good if you tried.
+#BlendNegative
+Nah way, wouldn't have a good time trying to shred it up, y'know?
+#Shape
+It's got one of them <shape> shapes, yeah? Yeah, all sortsa <shape>.
+#CustomsPositive
+Don't rat me out, ya dig? They'd take it away from me but it's mine, and I deserve it.
+#CustomsNegative
+No way dawgey, customs wouldn't have no wuckers.
+#MagneticPositive
+Deffo. Loves magnets, in fact. Can't get enough of 'em.
+#MagneticNegative
+No dice. No love for a magnet in that ol' thing.
