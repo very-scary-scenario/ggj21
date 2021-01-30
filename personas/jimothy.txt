@@ -1,0 +1,69 @@
+#Intro1 (pick one line from each Intro section at random)
+Good morning, I think. Is it morning?
+Hey there. Uh, is this the lost and found?
+Please help me!
+
+#Intro2
+I lost my <object> somewhere around here, you haven't taken it in have you?
+I had my <object> with me just a few days ago so it must be around here somewhere.
+Could you look around and see if someone has handed in my <object>?
+
+#Intro3
+I really hope you have it back there, I'm freaking out right now.
+Please tell me someone has handed it in!
+I've got a train leaving fairly soon and I don't want to leave it behind.
+
+#Weight
+Well, I'm fairly confident it's <weight>. I can't say I've weighed it though. 
+#Size
+Compared to what? Well, if I had to give an answer, I'd probably go with <size>.
+#ColourPositive
+My one is <colour_1>, that's for sure. They're <colour_2> that colour, though.
+#ColourNegative
+I wouldn't say it has a colour, to be honest.
+#FlammablePositive
+Yes, it's flammable. I'm a bit worried why you'd ask me that, though?
+#FlammableNegative
+No, I don't think it's flammable. Don't you dare test it.
+#LivingPositive
+Well, yeah, it's a living thing. Are you new to this?
+#LivingNegative
+Of course it's not living. Don't be silly. 
+#EdgesPositive
+It's got some edges to it, sure. Here and there. Probably.
+#EdgesNegative
+What? No, I wouldn't say it had edges. Is... this helping?
+#DensityPositive
+It's a fairy dense object sure, but if you put it near water I'll jump over this countertop.
+#DensityNegative
+No, it's not particularly dense. This... is the lost and found, right?
+#Feel
+It's pretty <feel>, sure. You've put me on the spot a bit.
+#EdiblePositive
+Oh, you could definitely eat it. Whether you'd want to, well, that's up to you.
+#EdibleNegative
+I, uh, wouldn't recommend eating it. I'm not sure you even could, honestly. 
+#Value
+It's a pretty <value> item, really. Don't go getting any ideas though.
+#Temperature
+It's <temperature>, usually. You... haven't done something weird to it, have you?
+#RecyclablePositive
+Yes, it's recyclable. I'd prefer you give it back to me rather than recycle it, though.
+#RecyclableNegative
+No, it's not recyclable. But that shouldn't matter? Because you're giving it back to me? Please?
+#Mouthfeel
+Mouthfeel? I, uh, don't even know how to answer that. <mouthfeel>? <mouthfeel> mouthfeel, I think?
+#BlendPositive
+If you had one of those fancy blenders, it'd probably blend. Please don't try.
+#BlendNegative
+I'd have to say it's fairly blendproof, but I can't say I've tried and I'm happy keeping it that way.
+#Shape
+It's pretty <shape>-shaped. Which, uh, seems fairly normal.
+#CustomsPositive
+Oh yeah, this would definitely get taken away by customs. I didn't smuggle this here, though. Honest.
+#CustomsNegative
+No, I don't think customs would care about it one way or the other. You're not saying they've taken it, are you?
+#MagneticPositive
+Yeah, I suppose it'd be magnetic. Surely you have a better way of finding my item, though?
+#MagneticNegative
+No, it's not magnetic. That'd be pretty weird, considering. 
