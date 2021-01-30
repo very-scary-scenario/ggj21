@@ -1,23 +1,24 @@
-const textBox = document.getElementById("text-box");
-const kioskWindow = document.getElementById("kiosk-window"); const objects = JSON.parse(document.getElementById("objects").textContent);
-const personas = JSON.parse(document.getElementById("personas").textContent);
-const properties = document.getElementById("properties");
-const propertyList = document.getElementById("property-list");
+const textBox = document.getElementById("text-box")
+const kioskWindow = document.getElementById("kiosk-window")
+const objects = JSON.parse(document.getElementById("objects").textContent)
+const personas = JSON.parse(document.getElementById("personas").textContent)
+const properties = document.getElementById("properties")
+const propertyList = document.getElementById("property-list")
 
 function pick(list) {
   return list[Math.floor(Math.random() * list.length)]
 }
 
 function showText(string, callback) {
-  textBox.innerText = string;
+  textBox.innerText = string
   function advanceText() {
-    document.removeEventListener("click", advanceText);
-    textBox.classList.remove("showing-text");
-    textBox.innerText = "";
-    callback();
+    document.removeEventListener("click", advanceText)
+    textBox.classList.remove("showing-text")
+    textBox.innerText = ""
+    callback()
   }
   textBox.classList.add("showing-text")
-  document.addEventListener("click", advanceText);
+  document.addEventListener("click", advanceText)
 }
 
 function showTexts(strings, callback) {
