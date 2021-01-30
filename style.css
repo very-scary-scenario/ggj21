@@ -17,7 +17,7 @@
 }
 
 body {
-  background-color: #111355;
+  background-color: #101359;
   background-image: url(tile.svg);
   animation: tokimeki-memorial 2s linear infinite;
 }
@@ -52,11 +52,24 @@ body {
 #properties {
   display: none;
   position: absolute;
-  overflow: scroll;
+  width: 100%;
   top: 0;
   left: 0;
 }
 
 #properties.shown {
   display: block;
+}
+
+#property-container {
+  background-color: #222;
+  margin: 1em auto;
+  overflow-y: scroll;
+  width: 20em;
+  max-width: 90%;
+}
+
+a[href] {
+  color: #3d3559;
+  text-decoration: none;
 }
