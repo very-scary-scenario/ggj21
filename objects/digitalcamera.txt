@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Digital Camera
+#FlavourText
+Old-fashioned device from before they invented smartphones
+#Weight (Light/Medium/Heavy)
+Heavy
+#Size (Small/Medium/Big)
+Medium
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+Black/Often
+#Flammable (Yes/No)
+Yes
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+No
+#Density/Would it sink in water (Yes/No)
+Yes
+#Feel (Rough/Smooth/Sharp/Soft/Weird)
+Rough
+#Edible (Yes/No)
+No
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Expensive
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Cold
+#Recyclable (Yes/No)
+Yes
+#Mouthfeel (Good/Bad)
+Bad
+#Will it blend (Yes/No)
+No
+#Shape (Square/Round/Bumpy/Abstract)
+Abstract
+#Customs (Yes/No)
+No
+#Magnetic
+No
