@@ -29,7 +29,7 @@ def parse_persona(person_file: TextIO) -> Dict[str, List[str]]:
         if line.startswith('#'):
             category = line.lstrip('#').split('(')[0].strip()
             persona[category] = []
-        else:
+        elif line:
             persona[category].append(line)
 
     return persona
