@@ -1,7 +1,7 @@
 @keyframes advance {
-  000% { right: 0em }
-  050% { right: .3em }
-  100% { right: 0em }
+  000% { right: -.1em }
+  050% { right: .1em }
+  100% { right: -.10em }
 }
 
 @keyframes tokimeki-memorial {
