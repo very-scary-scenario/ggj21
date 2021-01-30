@@ -1,7 +1,7 @@
 @keyframes advance {
-  000% { right: -.1em }
-  050% { right: .1em }
-  100% { right: -.10em }
+  000% { right: .9rem }
+  050% { right: 1.1rem }
+  100% { right: .9rem }
 }
 
 @keyframes tokimeki-memorial {
@@ -26,23 +26,23 @@ body {
   width: 700px;
   height: 500px;
   margin: 1em auto;
-  background-color: #ccc;
-  border: 3px solid black;
+  position: relative;
+  background-image: url("customer_window_border.svg");
 }
 
 #text-box {
   width: 800px;
   height: 200px;
   margin: 0 auto;
-  background-color: #ccc;
-  border: 3px solid black;
   position: relative;
+  background-image: url("text_window_border.svg");
+  padding: 2rem;
 }
 
 #text-box.showing-text::after {
   content: "›";
   position: absolute;
-  bottom: 0; 
+  bottom: 1.3rem; 
   animation: advance 1s linear infinite;
   font-size: 3em;
   width: 1em;
