@@ -1,7 +1,7 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
 Cat
 #FlavourText
-Meows occasionally. Pleasent to the touch.
+Meows occasionally. Pleasant to the touch.
 #Weight (Light/Medium/Heavy)
 Medium
 #Size (Small/Medium/Big)
