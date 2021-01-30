@@ -1,7 +1,7 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
 Phoenix Down
 #FlavourText
-When you're down it picks you up
+When you're down it picks you up.
 #Weight (Light/Medium/Heavy)
 Light   
 #Size (Small/Medium/Big)
