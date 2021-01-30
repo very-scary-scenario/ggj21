@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Vape
+#FlavourText
+Used to whisk eggs
+#Weight (Light/Medium/Heavy)
+Light
+#Size (Small/Medium/Big)
+Small
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+Silver/Sometimes
+#Flammable (Yes/No)
+Yes
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+Yes
+#Density/Would it sink in water (Yes/No)
+Yes
+#Feel (Rough/Smooth/Sharp/Furry/Weird)
+Smooth
+#Edible (Yes/No)
+No
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Affordable
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Hot
+#Recyclable (Yes/No)
+No
+#Mouthfeel (Good/Bad)
+Good
+#Will it blend (Yes/No)
+Yes
+#Shape (Square/Round/Bumpy/Abstract)
+Square
+#Customs (Yes/No)
+Yes
+#Magnetic
+Yes
