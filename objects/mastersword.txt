@@ -1,37 +1,37 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Hammer
+Master Sword
 #FlavourText
-Whoever holds this, if he be worthy, shall possess the power of Thor
+Blade of evil's bane
 #Weight (Light/Medium/Heavy)
 Heavy
 #Size (Small/Medium/Big)
-Small
+Big
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 Silver/Always
 #Flammable (Yes/No)
 No
 #Living (Yes/No) 
-No
+Yes
 #Edges (Yes/No)
 Yes
 #Density/Would it sink in water (Yes/No)
 Yes
 #Feel (Rough/Smooth/Sharp/Furry/Weird)
-Smooth
+Sharp
 #Edible (Yes/No)
 No
 #Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Cheap
+Priceless
 #Temperature (Freezing/Cold/Warm/Hot/Boiling)
 Cold
 #Recyclable (Yes/No)
-Yes
+No
 #Mouthfeel (Good/Bad)
 Bad
 #Will it blend (Yes/No)
 No
 #Shape (Square/Round/Bumpy/Abstract)
-Square
+Abstract
 #Customs (Yes/No)
 Yes
 #Magnetic

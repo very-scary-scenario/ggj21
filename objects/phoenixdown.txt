@@ -1,38 +1,38 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Hammer
+Phoenix Down
 #FlavourText
-Whoever holds this, if he be worthy, shall possess the power of Thor
+When you're down it picks you up
 #Weight (Light/Medium/Heavy)
-Heavy
+Light   
 #Size (Small/Medium/Big)
 Small
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
-Silver/Always
+Orange/Always
 #Flammable (Yes/No)
-No
+Yes
 #Living (Yes/No) 
 No
 #Edges (Yes/No)
-Yes
+No
 #Density/Would it sink in water (Yes/No)
-Yes
+No
 #Feel (Rough/Smooth/Sharp/Furry/Weird)
-Smooth
+Furry
 #Edible (Yes/No)
 No
 #Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Cheap
+Priceless
 #Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Cold
+Warm
 #Recyclable (Yes/No)
-Yes
-#Mouthfeel (Good/Bad)
-Bad
-#Will it blend (Yes/No)
 No
+#Mouthfeel (Good/Bad)
+Good
+#Will it blend (Yes/No)
+Yes
 #Shape (Square/Round/Bumpy/Abstract)
-Square
+Round
 #Customs (Yes/No)
-Yes
+No
 #Magnetic
-Yes
+No

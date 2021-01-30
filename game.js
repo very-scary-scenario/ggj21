@@ -1,5 +1,6 @@
 const textBox = document.getElementById("text-box");
 const kioskWindow = document.getElementById("kiosk-window");
+const objects = JSON.parse(document.getElementById("objects").textContent);
 
 function showText(string, callback) {
   textBox.innerText = string;
