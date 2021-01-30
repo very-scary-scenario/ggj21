@@ -1,7 +1,7 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
 Augustus of Prima Porta
 #FlavourText
-STATVAM IMPERATOR GAIVS JVLIVS CAESAR DIVI FILIVS AVGVSTVS PATER PATRIAE
+STATVAM IMPERATOR GAIVS JVLIVS CAESAR DIVI FILIVS AVGVSTVS PATER PATRIAE.
 #Weight (Light/Medium/Heavy)
 Heavy
 #Size (Small/Medium/Big)
