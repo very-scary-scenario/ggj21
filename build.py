@@ -2,6 +2,8 @@ import json
 import os
 from typing import Dict, TextIO
 
+from bs4 import BeautifulSoup
+
 
 HERE = os.path.dirname(__file__)
 
@@ -18,7 +20,7 @@ def parse_object(obj_file: TextIO) -> Dict[str, str]:
     return obj
 
 
-def build_objects() -> None:
+def build_objects() -> str:
     objects = []
 
     for object_file_name in os.listdir(os.path.join(HERE, 'objects')):
@@ -27,9 +29,18 @@ def build_objects() -> None:
         with open(os.path.join(HERE, 'objects', object_file_name)) as object_file:
             objects.append(parse_object(object_file))
 
-    with open('objects.json', 'wt') as oj:
-        oj.write(json.dumps(objects, indent=2))
+    return json.dumps(objects, indent=2)
+
+
+def build_index() -> None:
+    with open(os.path.join(HERE, 'index-src.html')) as src:
+        soup = BeautifulSoup(src.read(), features='html.parser')
+
+    soup.find(id="objects").string.replace_with(build_objects())
+
+    with open(os.path.join(HERE, 'index.html'), 'wt') as dest:
+        dest.write(str(soup))
 
 
 if __name__ == '__main__':
-    build_objects()
+    build_index()
