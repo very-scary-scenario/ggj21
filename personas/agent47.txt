@@ -1,37 +1,37 @@
 #Intro1
-Hello citizen, I'm famous fashion model Helmet Kruger
-Hello, I was wondering if you could help me tie up a loose end
-Greetings, I neeed to find something before I make a rapid exit
+Hello citizen, I'm famous fashion model Helmet Kruger.
+Hello, I was wondering if you could help me tie up a loose end.
+Greetings, I neeed to find something before I make a rapid exit.
 
 #Intro2
-Someone has misplaced my <object> and I need to retrieve it
-I've been assigned to retrieve <object> with as little fuss as possible
-Retrieving <object> is one of my mission objectives
+Someone has misplaced my <object> and I need to retrieve it.
+I've been assigned to retrieve <object> with as little fuss as possible.
+Retrieving <object> is one of my mission objectives.
 
 #Intro3
-I'm hopeful you will be able to aid me in reaching my objective
-I trust that you will be able to help me execute my search
+I'm hopeful you will be able to aid me in reaching my objective.
+I trust that you will be able to help me execute my search.
 
 #OutroPositive1
-Flawless execution
+Flawless execution.
 
 #OutroPositive2
-Your service was to die for
+Your service was to die for.
 
 #OutroNegative1
-Truly poisonous service
+Truly poisonous service.
 
 #OutroNegative2
-I shall be recommending you for an ICA contract
+I shall be recommending you for an ICA contract.
 
 #OutroNoItem1
-Disappointing
+Disappointing.
 
 #OutroNoItem2
-I see your glass is half empty
+I see your glass is half empty.
 
 #Weight
-I would say <object> is <weight>
+I would say <object> is <weight>.
 #Size
 If you put a gun to my head I would say <object> is <size>.
 #ColourPositive
