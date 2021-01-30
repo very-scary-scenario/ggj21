@@ -1,7 +1,7 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
 Towel
 #FlavourText
-According to the Guide it's all you'll ever need
+According to the Guide it's all you'll ever need.
 #Weight (Light/Medium/Heavy)
 Light
 #Size (Small/Medium/Big)
