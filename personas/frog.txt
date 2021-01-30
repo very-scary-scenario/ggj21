@@ -1,0 +1,93 @@
+#Intro1 (pick one line from each Intro section at random)
+Good day, Ribbit.
+Ribbit.
+Wibbit.
+
+#Intro2
+I lost my <object> somewhere, ribbit.
+I'm looking for somrthing, wibbit.
+Ribbit.
+
+#Intro3
+I could do with your help, ribbit.
+Can you help me, ribbit?
+
+#OutroPositive1
+Ribbit Ribbit! That's my <object>!
+Yup yup, Ribbit!
+
+#OutroPositive2
+Thank you, ribbit!
+Thank you very much, ribbit ribbit!
+Cheers, ribbit!
+
+#OutroNegative1
+Ribbit?
+I don't think that's what I'm looking for, ribbit.
+
+#OutroNegative2
+That is most certainly not my <object>, ribbit.
+You may not be able to tell, but I am angry, ribbit.
+
+#OutroNoItem1
+Oh, that's a shame.
+Oh, you don't have my <object>.
+
+#OutroNoItem2
+Thanks for looking though, ribbit.
+Sorry for wasting your time, ribbit.
+
+#Weight
+I think it's pretty <weight>, but I'm a pretty small guy, ribbit.
+#Size
+Well, I'm a pretty small guy, but I think it's pretty <size>, ribbit.
+#ColourPositive
+It's my favourite colour, <colour_1>, ribbit.
+#ColourNegative
+It's kind of... colourless, ribbit?
+#FlammablePositive
+I don't burn much around my pad, ribbit, but I think this is pretty flammable.
+#FlammableNegative
+I don't think this is flammable, ribbit.
+#LivingPositive
+It's pretty alive and hopping, ribbit.
+#LivingNegative
+It's not a living thing, wibbit-wibbit. 
+#EdgesPositive
+It's got some edges on it, ribbit.
+#EdgesNegative
+It's not very edgey, ribbit-wibbit.
+#DensityPositive
+It's pretty dense, ribbit. I can't even keep it on my pad.
+#DensityNegative
+It's not particularly dense, ribbit.
+#Feel
+It feels pretty <feel>, ribbit.
+#EdiblePositive
+It's one of my favourite foods, ribbit.
+#EdibleNegative
+It's not really edible, ribbit.
+#Value
+It's kinda worth, well... it's pretty <value>, ribbit.
+#Temperature
+It's <temperature>, ribbit.
+#RecyclablePositive
+Yes, it's something I always recycle, ribbit.
+#RecyclableNegative
+I don't think it's recyclable, ribbit.
+#Mouthfeel
+Last time I checked, I think it was pretty <mouthfeel>, ribbit.
+#BlendPositive
+I'm pretty sure that it will blend, ribbit.
+#BlendNegative
+I don't think this is blendable, ribbit?
+#Shape
+This is pretty <shape> shaped, ribbit.
+#CustomsPositive
+I don't think Customs would like this, ribbit-ribbit.
+#CustomsNegative
+I don't think Customs would care about this, ribbit.
+#MagneticPositive
+This is fairly magnetic, ribbit. It makes my pad spin sometimes!
+#MagneticNegative
+This is not very magnetic, ribbit-ribbit.
