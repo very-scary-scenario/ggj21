@@ -6,7 +6,6 @@ const properties = document.getElementById("properties")
 const propertyList = document.getElementById("property-list")
 const inventory = JSON.parse(JSON.stringify(objects));
 
-
 function pick(list) {
   return list[Math.floor(Math.random() * list.length)]
 }
@@ -39,27 +38,45 @@ function format(string, repl) {
   return string.replace(/<.*?>/g, repl)
 }
 
-function askAboutPropertyOf(object) {
+function askPersonaAbout(persona, object, property, callback) {
+  value = object[property]
+  var lookup = property
+  if (typeof(value) === "boolean") {
+    if (value) {
+      lookup = property + "Positive"
+    } else {
+      lookup = property + "Negative"
+    }
+  }
+
+  showText(format(pick(persona[lookup]), object[lookup]), callback)
+}
+
+function askAboutPropertyOf(persona, object, callback) {
   function askAboutProperty(event) {
     event.stopPropagation()
     event.preventDefault()
     var property = event.currentTarget.getAttribute("data-property")
-    console.log(object)
-    console.log(property)
-    console.log(object[property])
+    askPersonaAbout(persona, object, property, callback)
   }
   return askAboutProperty
 }
 
-function letPlayerAskAboutProperty(object) {
+function letPlayerAskAboutProperty(persona, object) {
   properties.classList.add("shown")
+
+  function bail() {  // this needs to be named better once we cement what's gonna happen next
+    properties.classList.remove("shown")
+    alert("henlo")
+  }
+
   for (var property in object) {
     if (["Object", "FlavourText"].indexOf(property) !== -1) { continue }
     var propertyLink = document.createElement("a")
     propertyLink.innerText = property
     propertyLink.setAttribute("href", "#")
     propertyLink.setAttribute("data-property", property)
-    propertyLink.addEventListener("click", askAboutPropertyOf(object))
+    propertyLink.addEventListener("click", askAboutPropertyOf(persona, object, bail))
     var propertyListItem = document.createElement("li")
     propertyListItem.appendChild(propertyLink)
     propertyList.appendChild(propertyListItem)
@@ -73,7 +90,7 @@ function havePersonaVisit() {
     format(pick(persona.Intro1), object.Object),
     format(pick(persona.Intro2), object.Object),
     format(pick(persona.Intro3), object.Object),
-  ], function() { letPlayerAskAboutProperty(object) })
+  ], function() { letPlayerAskAboutProperty(persona, object) })
 }
 
 havePersonaVisit()
