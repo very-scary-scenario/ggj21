@@ -16,7 +16,7 @@ No
 Yes
 #Buoyant (Yes/No)
 Yes
-#Feel (Rough/Smooth/Sharp/Furry/Weird)
+#Feel (Rough/Smooth/Sharp/Soft/Weird)
 Rough
 #Edible (Yes/No)
 Yes

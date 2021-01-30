@@ -16,8 +16,8 @@ No
 Yes
 #Density/Would it sink in water (Yes/No)
 Yes
-#Feel (Rough/Smooth/Sharp/Furry/Weird)
-Furry
+#Feel (Rough/Smooth/Sharp/Soft/Weird)
+Soft
 #Edible (Yes/No)
 No
 #Value (Worthless/Cheap/Affordable/Expensive/Priceless)
