@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Chunk of Ice
+#FlavourText
+Add artificial sweetener for a tasty dessert.
+#Weight (Light/Medium/Heavy)
+Medium
+#Size (Small/Medium/Big)
+Small
+#Colour (either None or 'Colour, Rarely/Sometimes/Often/Always')	 
+None
+#Flammable (Yes/No)
+No
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+Yes
+#Buoyant (Yes/No)
+Yes
+#Feel (Rough/Smooth/Sharp/Furry/Weird)
+Rough
+#Edible (Yes/No)
+Yes
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Cheap
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Freezing
+#Recyclable (Yes/No)
+No
+#Mouthfeel (Good/Bad)
+Good
+#Will it blend (Yes/No)
+Yes
+#Shape (Square/Round/Bumpy/Abstract)
+Bumpy
+#Customs (Yes/No)
+No
+#Magnetic
+No
