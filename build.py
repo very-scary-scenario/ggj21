@@ -1,6 +1,6 @@
 import json
 import os
-from typing import Callable, Dict, List, TextIO
+from typing import Callable, Dict, List, TextIO, Union
 
 from bs4 import BeautifulSoup
 
@@ -8,14 +8,17 @@ from bs4 import BeautifulSoup
 HERE = os.path.dirname(__file__)
 
 
-def parse_object(obj_file: TextIO) -> Dict[str, str]:
+def parse_object(obj_file: TextIO) -> Dict[str, Union[str, bool]]:
     lines = list(obj_file.readlines())
     obj = {}
 
     for heading, content in zip(lines[0::2], lines[1::2]):
         name = heading.lstrip('#').split('(')[0].strip()
         value = content.strip()
-        obj[name] = value
+        obj[name] = {
+            'Yes': True,
+            'No': False,
+        }.get(value, value)
 
     return obj
 
