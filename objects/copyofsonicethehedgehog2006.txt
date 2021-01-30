@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Copy of Sonic the Hedgehog 2006 for Xbox 360
+#FlavourText
+Dangerous contraband. Contains bestiality.
+#Weight (Light/Medium/Heavy)
+Light
+#Size (Small/Medium/Big)
+Small
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+Silver/Always
+#Flammable (Yes/No)
+No
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+Yes
+#Density/Would it sink in water (Yes/No)
+No
+#Feel (Rough/Smooth/Sharp/Furry/Weird)
+Smooth
+#Edible (Yes/No)
+No
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Worthless
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Cold
+#Recyclable (Yes/No)
+Yes
+#Mouthfeel (Good/Bad)
+Good
+#Will it blend (Yes/No)
+Yes
+#Shape (Square/Round/Bumpy/Abstract)
+Round
+#Customs (Yes/No)
+No
+#Magnetic
+No
