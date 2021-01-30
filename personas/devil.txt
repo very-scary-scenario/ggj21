@@ -1,0 +1,90 @@
+#Intro1 (pick one line from each Intro section at random)
+Hell of a day, right, human?
+Well I'll be damned, it's the Lost and Found booth.
+
+#Intro2
+It's the damnedest thing, but I've somehow lost something.
+I can't figure out where the Hell I put my <object>.
+
+#Intro3
+I'm just hoping to hell that you have it back there!
+
+#OutroPositive1
+Hell yes, that is mine.
+Yes! YEEEEES! This is my <object>!
+
+#OutroPositive2
+It may not mean much these days, but I'll put in a good word for you with those guys upstairs.
+I'll make sure you suffer slightly less than for eternity for your assistance.
+
+#OutroNegative1
+Are you aware of the fate which means those who dare to mock me?
+You anger me, human.
+
+#OutroNegative2
+Keep your damn <object>, I shall be claiming your soul for eternity soon enough.
+You have just signed yourself up for double-suffering.
+I would like to see the manager.
+
+#OutroNoItem1
+DAMN IT! DAMN IT ALL!
+Curses!
+
+#OutroNoItem2
+Fear not, Mortal, for it is not you who has claimed my wrath this day.
+Do not be afraid, for it is not you who will suffer in the depths of my flames this day.
+
+#Weight
+Much like how the sin for your villainy weights on your soul, it is of a <weight> weight.
+#Size
+Compared to the suffering of my 'customers', it is but <size>.
+#ColourPositive
+It is a most violent shade of <colour_1>, much like the kind of violence that would land you in my care.
+#ColourNegative
+It is the same colour as the Sin of a Saint, which is to say, it's quite boringly colourless.
+#FlammablePositive
+Yes, it ignites within the flames of Hell and powered the suffering of the damn for all eternity!
+#FlammableNegative
+No, flammable items are something of a fire hazard around my abode!
+#LivingPositive
+Yes, it is living. For now.
+#LivingNegative
+It is without life.
+#EdgesPositive
+It has edges to cut and sting more than a thousand paper cuts.
+#EdgesNegative
+No, it is an item without edges.
+#DensityPositive
+It is as dense as the sin piled upon the soul of any British Politician. Yes, even that one.
+#DensityNegative
+It is not particularly dense, no.
+#Feel
+It feels so <feel> that placing it just outside the reach of my 'guests' drives them insane.
+#EdiblePositive
+It's as edible as the donuts with which I overfill the bellies of those that lived a gluttonous existance.
+#EdibleNegative
+I would not recommend it to the living.
+#Value
+It is the most <value> item in all of Hell.
+#Temperature
+It's about as hot as Hell is these days. You know, <temperature>.
+#RecyclablePositive
+Yes, even I believe in recycling. Just maybe not that 'reincarnation' stuff.
+#RecyclableNegative
+No, it is not for recycling, for it shall stay with me for all eternity!
+#Mouthfeel
+Mouthfeel? With these questions, I feel I shall be seeing you when your time comes. I would guess it is <mouthfeel>.
+#BlendPositive
+Yes, it is of a blendable quality.
+#BlendNegative
+It will not blend, and I even tried to use one of the fancy ones we keep for, shall we say, 'business purposes'
+#Shape
+Much like the soul of the average mortal, it is somewhat of a <shape> shape.
+#CustomsPositive
+The only people who would try to take this through Customs are those which would seek to visit me in Hell at their passing.
+#CustomsNegative
+No, this item would not bear a weight upon ones soul.
+#MagneticPositive
+Yes, this item will cling to metal as ones evil deeds causes sin to cling to ones mortal soul.
+#MagneticNegative
+No. What kind of question even is that?
