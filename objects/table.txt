@@ -1,5 +1,5 @@
-#Object (this can be more than one word and have a description but don't mention anything that is also a parameter)
-Well-Loved Table
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Table
 #FlavourText
 Four legged and sturdy. It’ll never catch on.
 #Weight (Light/Medium/Heavy)
