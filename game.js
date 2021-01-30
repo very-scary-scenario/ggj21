@@ -31,9 +31,18 @@ function showTexts(strings, callback) {
   nextText()
 }
 
+function format(string, repl) {
+  return string.replace(/<.*?>/g, repl)
+}
+
 function havePersonaVisit() {
   const persona = pick(personas)
-  showTexts([pick(persona.Intro1), pick(persona.Intro2), pick(persona.Intro3)], function() { alert('not implemented :<') })
+  const object = pick(objects)
+  showTexts([
+    format(pick(persona.Intro1), object.Object),
+    format(pick(persona.Intro2), object.Object),
+    format(pick(persona.Intro3), object.Object),
+  ], function() { alert('not implemented :<') })
 }
 
 havePersonaVisit()
