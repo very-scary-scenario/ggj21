@@ -3,6 +3,10 @@ const kioskWindow = document.getElementById("kiosk-window");
 const objects = JSON.parse(document.getElementById("objects").textContent);
 const personas = JSON.parse(document.getElementById("personas").textContent);
 
+function pick(list) {
+  return list[Math.floor(Math.random() * list.length)]
+}
+
 function showText(string, callback) {
   textBox.innerText = string;
   function advanceText() {
@@ -27,4 +31,9 @@ function showTexts(strings, callback) {
   nextText()
 }
 
-showTexts(["henlo", "it me", "a customer"], function() {alert("we're done here")})
+function havePersonaVisit() {
+  const persona = pick(personas)
+  showTexts([pick(persona.Intro1), pick(persona.Intro2), pick(persona.Intro3)], alert('not implemented :<'))
+}
+
+havePersonaVisit()
