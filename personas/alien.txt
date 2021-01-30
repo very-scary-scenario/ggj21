@@ -1,0 +1,93 @@
+#Intro1 (pick one line from each Intro section at random)
+Umm, Good Morning? Is that the term?
+Ummm...
+
+#Intro2
+Sorry, my Human isn't... great?
+Errr, my Human is a little bad...
+
+#Intro3
+I've lost my, errr, <object>.
+I am told you may be able to, err, help find something?
+Help?
+
+#OutroPositive1
+Ah, much thanks.
+Ah, much... sorry, many thanks.
+Ah, my, errr, object>!
+
+#OutroPositive2
+I am, err, thankmuch for your help.
+Please have a, errr, nice day.
+
+#OutroNegative1
+Ah, do you not, errr, understand my Human?
+Do you not speak, errrr, Human? Are you dog? Woof, err, woof?
+
+#OutroNegative2
+I am very, errr, disappoint in your talent.
+This is very, err, bad.
+This is very, err, not acceptible.
+
+#OutroNoItem1
+I am very, errr, sad?
+Oh, I am... much disappoint?
+
+#OutroNoItem2
+I understand that, err, it is not your fault.
+I am, err, sorry for time consuming.
+
+#Weight
+I think the word is, errr, <weight>? 
+#Size
+I believe that it is, how do you say, <size>.
+#ColourPositive
+In human tongue, I think it is... <colour_1>.
+#ColourNegative
+I don't think there is a word for it's colour in Human.
+#FlammablePositive
+That means... does it burn? I think so?
+#FlammableNegative
+If I am understanding... I do not think it burns.
+#LivingPositive
+Yes, I do believe it is the being alive.
+#LivingNegative
+No, I do not believe it is, errr, alive?
+#EdgesPositive
+Edges? Errr, I think it has many those.
+#EdgesNegative
+Edges? Errr, I do not think it has them.
+#DensityPositive
+I think it, errr... sinky? Is that the Human word?
+#DensityNegative
+Density? I do not think it dense.
+#Feel
+It's hard to describe in Human... maybe a little <feel>?
+#EdiblePositive
+It's a, err, delicacy on my planet.
+#EdibleNegative
+Err, maybe on Human? Do you eat weird things? I don't think it's edible, though.
+#Value
+On my world, it is considered very <value>.
+#Temperature
+My race is cold-blooded, but I think it's very, errr, <temperature>.
+#RecyclablePositive
+Yes, it's recyclable.
+#RecyclableNegative
+No, it's not recyclable.
+#Mouthfeel
+Humans feel things with mouth? Err, I think it probably <mouthfeel>.
+#BlendPositive
+Yes, I think it, ummm, blendable.
+#BlendNegative
+Ummmm, no.
+#Shape
+By Human standards, I think it'd be considered, ummmm, <shape>.
+#CustomsPositive
+I think Human customs no like.
+#CustomsNegative
+Ummmm, I think it's no problem.
+#MagneticPositive
+Magnetic? Ummm, errr... I think so?
+#MagneticNegative
+Magnetic? Ummm... I don't think so?
