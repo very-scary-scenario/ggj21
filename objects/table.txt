@@ -14,7 +14,7 @@ Yes
 No
 #Edges (Yes/No)
 Yes
-#Density/Would it sink in water (Yes/No)
+#Buoyant (Yes/No)
 Yes
 #Feel (Rough/Smooth/Sharp/Soft/Weird)
 Smooth
