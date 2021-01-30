@@ -5,9 +5,11 @@ function showText(string, callback) {
   textBox.innerText = string;
   function advanceText() {
     document.removeEventListener("click", advanceText);
+    textBox.classList.remove("showing-text");
     textBox.innerText = "";
     callback();
   }
+  textBox.classList.add("showing-text")
   document.addEventListener("click", advanceText);
 }
 

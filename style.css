@@ -1,3 +1,9 @@
+@keyframes advance {
+  000% { right: 0em }
+  050% { right: .3em }
+  100% { right: 0em }
+}
+
 @keyframes tokimeki-memorial {
   000% { background-position: right top }
   100% { background-position: right 44px top 44px }
@@ -30,4 +36,15 @@ body {
   margin: 0 auto;
   background-color: #ccc;
   border: 3px solid black;
+  position: relative;
+}
+
+#text-box.showing-text::after {
+  content: "›";
+  position: absolute;
+  bottom: 0; 
+  animation: advance 1s linear infinite;
+  font-size: 3em;
+  width: 1em;
+  text-align: center;
 }
