@@ -64,7 +64,7 @@ It's got some edges to it, sure. Here and there. Probably.
 #EdgesNegative
 What? No, I wouldn't say it had edges. Is... this helping?
 #DensityPositive
-It's a fairy dense object sure, but if you put it near water I'll jump over this countertop.
+It's a fairly dense object sure, but if you put it near water I'll jump over this countertop.
 #DensityNegative
 No, it's not particularly dense. This... is the lost and found, right?
 #Feel
