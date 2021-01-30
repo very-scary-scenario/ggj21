@@ -1,7 +1,7 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
 VHS Boxset
 #FlavourText
-Enormous boxset containing an entire 3 episodes of a TV show
+Enormous boxset containing an entire 3 episodes of a TV show.
 #Weight (Light/Medium/Heavy)
 Medium
 #Size (Small/Medium/Big)
