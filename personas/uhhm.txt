@@ -1,0 +1,69 @@
+#Intro1
+um... uh... he- he- hey?
+so... hm... he- he- hello?
+h- h- hi?
+
+#Intro2
+do you... uh... have... m- m- my <object>...?
+i- i- is... this uh... where my... <object> is?
+... <object>?
+
+#Intro3
+... <object>!
+my <object>! pl- pl- please...
+I re- re- really... need my... <object>.
+
+#Weight
+probably... uh... <weight>... I think... maybe?
+#Size
+possibly... um... <size>...?
+#ColourPositive
+mine is... uh... <colour_1>, <colour_2>
+#ColourNegative
+um... none
+#FlammablePositive
+y- y- yes...
+#FlammableNegative
+n- n- no...
+#LivingPositive
+y- y- yes...
+#LivingNegative
+n- n- no...
+#EdgesPositive
+y- y- yes..
+#EdgesNegative
+n- n- no...
+#DensityPositive
+y- y- yes...
+#DensityNegative
+n- n- no...
+#Feel
+it is... uh... um... <feel>
+#EdiblePossible
+y- y- yes...
+#EdibleNegative
+n- n- no...
+#Value
+it is... hm... uh... <value>... I think?
+#Temperature
+maybe... uh... probably... <temperature>?
+#RecycleablePositive
+y- y- yes...
+#RecyclableNegative
+n- n- no...
+#Mouthfeel
+it... um... is <mouthfeel>... probably?
+#BlendPositive
+y- y- yes...
+#BlendNegative
+n- n- no...
+#Shape
+um... <shape>... I guess.
+#CustomsPositive
+y- y- yes...
+#CustomsNegative
+n- n- no...
+#MagneticPositive
+y- y- yes...
+#MagneticNegative
+n- n- no...
