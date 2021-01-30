@@ -1,0 +1,9 @@
+@keyframes tokimeki-memorial {
+  000% { background-position: right top }
+  100% { background-position: right 44px top 44px }
+}
+
+body {
+  background-image: url(tile.png);
+  animation: tokimeki-memorial 2s linear infinite;
+}
