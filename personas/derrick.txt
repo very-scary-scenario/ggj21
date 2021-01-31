@@ -13,6 +13,32 @@ If you've got it, please give it me back. I'm losing my marbles here. Oh, metaph
 I could do with you checking quickly, I've got a date tonight.
 Please be quick, I'm on the run.
 
+#OutroPositive1
+Yesssss that's exactly right!
+Thank you so much! This helps me so much!
+This is one hundred percent what I'm after. I'm so happy I used words instead of numbers!
+
+#OutroPositive2
+I've gotta go. Thanks again.
+You have a great one now, I'm gonna leave you a 5 star review.
+
+#OutroNegative1
+Hey hey hey come on now that's not even close to being right.
+Yes that's...wait...no that's not it at all. What are you even doing?
+0 out of 10.
+
+#OutroNegative2
+I'm leaving a really bad review you know. I'm out of here.
+See you never and thanks for nothing.
+
+#OutroNoItem1
+Well, was worth a shot. Thanks anyway.
+Really? Not even in the back?
+
+#OutroNoItem2
+Well, I'll be off then. Thanks anyway.
+I'll stop hanging around and see what I can find. Thanks.
+
 #Weight
 Uhhhhhh maybe <weight>? I think? 
 #Size
@@ -34,9 +60,9 @@ It has more edges than an angry echidna.
 #EdgesNegative
 No...not really edgy.
 #DensityPositive
-Yes, it's putting you to shame!
+Yes, like a globetrotting duck!
 #DensityNegative
-No, not really. You've got it beat for sure.
+No, not really. Like a hammer, straight to the bottom.
 #Feel
 I'd describe it as <feel>. Please don't judge me.
 #EdiblePositive
