@@ -106,7 +106,7 @@ def build_things(folder_name: str, parser: Callable) -> str:
 
     if STRICT and not all_valid:
         raise ValueError("Invalid data were found, aborting.")
-    
+
     return json.dumps(objects, indent=2)
 
 
