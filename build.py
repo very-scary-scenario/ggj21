@@ -12,7 +12,7 @@ STRICT = True
 
 
 def parse_object(obj_file: TextIO) -> Dict[str, Union[str, bool]]:
-    lines = list(obj_file.readlines())
+    lines = [line.strip() for line in obj_file.readlines() if line.strip()]
     obj = {}
 
     for heading, content in zip(lines[0::2], lines[1::2]):
