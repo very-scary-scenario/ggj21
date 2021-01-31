@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Scissors
+#FlavourText
+Effective hair removal.
+#Weight (Light/Medium/Heavy)
+Light
+#Size (Small/Medium/Big)
+Small
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+Silver/Often
+#Flammable (Yes/No)
+No
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+Yes
+#Buoyant (Yes/No)
+No
+#Feel (Rough/Smooth/Sharp/Soft/Weird)
+Sharp
+#Edible (Yes/No)
+No
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Cheap
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Cold
+#Recyclable (Yes/No)
+No
+#Mouthfeel (Good/Bad)
+Bad
+#Will it blend (Yes/No)
+No
+#Shape (Square/Round/Bumpy/Abstract)
+Abstract
+#Customs (Yes/No)
+Yes
+#Magnetic
+Yes
