@@ -13,6 +13,24 @@ i- i- is... this uh... where my... <object> is?
 my <object>! pl- pl- please...
 I re- re- really... need my... <object>.
 
+#OutroPositive1
+m- m- my... uh... <object>!
+
+#OutroPositive2
+th- th- thank... you...
+
+#OutroNegative1
+n- n- nooo!
+
+#OutroNegative2
+f- f- fu- fuwa fuwa... fuck you!
+
+#OutroNoItem1
+o- o- okay...
+
+#OutroNoItem2
+th- th- thank... you... anyway...
+
 #Weight
 probably... uh... <weight>... I think... maybe?
 #Size
