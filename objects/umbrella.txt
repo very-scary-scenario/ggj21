@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Umbrella
+#FlavourText
+You can glide long distances with this if you know what you're doing.
+#Weight (Light/Medium/Heavy)
+Medium
+#Size (Small/Medium/Big)
+Small
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+Black/Sometimes
+#Flammable (Yes/No)
+No
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+No
+#Buoyant (Yes/No)
+Yes
+#Feel (Rough/Smooth/Sharp/Soft/Weird)
+Soft
+#Edible (Yes/No)
+No
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Affordable
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Warm
+#Recyclable (Yes/No)
+No
+#Mouthfeel (Good/Bad)
+Bad
+#Will it blend (Yes/No)
+No
+#Shape (Square/Round/Bumpy/Abstract)
+Abstract
+#Customs (Yes/No)
+No
+#Magnetic
+Yes
