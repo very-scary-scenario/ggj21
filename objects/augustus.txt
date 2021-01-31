@@ -15,7 +15,7 @@ No
 #Edges (Yes/No)
 No
 #Buoyant (Yes/No)
-Yes
+No
 #Feel (Rough/Smooth/Sharp/Soft/Weird)
 Smooth
 #Edible (Yes/No)
