@@ -1,0 +1,14 @@
+[
+    {
+	"Name": "Test Object 1",
+	"Exists": true
+    },
+    {
+	"Name": "Test Object 2",
+	"Exists": true
+    },
+    {
+	"Name": "Test Object 3",
+	"Exists": false
+    }
+]

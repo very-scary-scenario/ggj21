@@ -1,0 +1,7 @@
+#Greeting (what to say to start the conversation)
+Hi
+Henlo
+#ExistsPositive (what to say if the object exists)
+Aye
+#ExistsNegative (what to say if it doesn't)
+Naw

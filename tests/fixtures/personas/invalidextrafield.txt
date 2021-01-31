@@ -1,0 +1,9 @@
+#Greeting
+Hi
+Henlo
+#ExistsPositive
+For shore
+#ExistsNegative
+Knot at all
+#Farewell
+Sea ya

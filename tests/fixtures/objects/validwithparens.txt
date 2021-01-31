@@ -1,0 +1,4 @@
+#Name (what should we call this object?)
+Test Object 2
+#Exists (is this a thing that exists/can be found in our world?)
+Yes

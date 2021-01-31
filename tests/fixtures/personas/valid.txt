@@ -1,0 +1,7 @@
+#Greeting
+Hi
+Henlo
+#ExistsPositive
+Yes
+#ExistsNegative
+No

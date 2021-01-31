@@ -1,0 +1,17 @@
+[
+    {
+	"Greeting": ["Hi", "Henlo"],
+	"ExistsPositive": ["Yes"],
+	"ExistsNegative": ["No"]
+    },
+    {
+	"Greeting": ["Hi", "Henlo"],
+	"ExistsPositive": ["Yup"],
+	"ExistsNegative": ["Nope"]
+    },
+    {
+	"Greeting": ["Hi", "Henlo"],
+	"ExistsPositive": ["Aye"],
+	"ExistsNegative": ["Naw"]
+    }
+]

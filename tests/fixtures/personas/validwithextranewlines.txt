@@ -1,0 +1,13 @@
+
+
+#Greeting
+Hi
+
+Henlo
+
+
+#ExistsPositive
+Yup
+
+#ExistsNegative
+Nope
