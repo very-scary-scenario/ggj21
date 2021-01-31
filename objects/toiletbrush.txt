@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Toilet Brush
+#FlavourText
+For cleaning a toilet's teeth.
+#Weight (Light/Medium/Heavy)
+Light
+#Size (Small/Medium/Big)
+Medium
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+White/Sometimes
+#Flammable (Yes/No)
+No
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+No
+#Buoyant (Yes/No)
+Yes
+#Feel (Rough/Smooth/Sharp/Soft/Weird)
+Rough
+#Edible (Yes/No)
+No
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Affordable
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Warm
+#Recyclable (Yes/No)
+No
+#Mouthfeel (Good/Bad)
+Bad
+#Will it blend (Yes/No)
+Yes
+#Shape (Square/Round/Bumpy/Abstract)
+Abstract
+#Customs (Yes/No)
+No
+#Magnetic
+No
