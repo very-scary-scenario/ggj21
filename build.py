@@ -48,7 +48,7 @@ def is_valid(thing: Dict[str, List[str]], fields: Dict[str, type]) -> bool:
     for field_name, field_type in fields.items():
         if field_name not in thing:
             messages.append(f' - is missing the {field_name} key')
-        elif type(thing[field_name]) is not field_type:
+        elif not isinstance(thing[field_name], field_type):
             messages.append(
                 f' - has the wrong type for {field_name} ({type(thing[field_name])} instead of {field_type})'
             )
@@ -66,15 +66,15 @@ def is_valid(thing: Dict[str, List[str]], fields: Dict[str, type]) -> bool:
 
 def get_fields(folder_name: str) -> Dict[str, type]:
     fields_filename = os.path.join(folder_name, 'fields.list')
-    field_types = {'boolean': bool, 'list': list, 'plusminus': 'plusminus'}
-    fields: Dict[str, list] = {}
+    field_types: Dict[str, Union[type, str]] = {'boolean': bool, 'list': list, 'plusminus': 'plusminus'}
+    fields: Dict[str, type] = {}
     for field_line in open(fields_filename, 'r').readlines():
         field = field_line.strip()
         if not field:
             continue
         if ',' in field:
             field_name, field_type_desc = map(str.strip, field.split(','))
-            field_type = field_types[field_type_desc]
+            field_type: Union[type, str] = field_types[field_type_desc]
         else:
             field_name = field
             field_type = str
@@ -83,10 +83,12 @@ def get_fields(folder_name: str) -> Dict[str, type]:
             match = re.match('([^0-9]+)([0-9]*)', field_name)
             assert match
             field_prefix, field_number = match.groups()
-            fields[f'{field_prefix}Positive{field_number}'] = list()
-            fields[f'{field_prefix}Negative{field_number}'] = list()
-        else:
+            fields[f'{field_prefix}Positive{field_number}'] = list
+            fields[f'{field_prefix}Negative{field_number}'] = list
+        elif isinstance(field_type, type):
             fields[field_name] = field_type
+        else:
+            raise ValueError(f'Unexpected type {field_type} encountered.')
 
     return fields
 
