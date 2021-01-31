@@ -1,0 +1,90 @@
+#Intro1 (pick one line from each Intro section at random)
+Hark! I have descended!
+Forsooth, I am here!
+
+#Intro2
+My herald Bun-bun states you may be of service!
+Forsooth, for one has misplaced the sacred <object>!
+
+#Intro3
+I beseech you for your assistance!
+One deems you worthy of assisting me with identifying the temporal location of my object.
+
+#OutroPositive1
+My eye is twitching... Hark! My <object>!
+Forsooth, that is indeed my <object>!
+
+#OutroPositive2
+Praise be upon you!
+You are indeed worthy of my sacred grace!
+
+#OutroNegative1
+Madness! Have you been driven to madness!?
+This.. this is not my <object>.
+
+#OutroNegative2
+Indeed, you are one of the dark ones! Begone from my sight!
+The greater-ones will be informed of this disservice!
+
+#OutroNoItem1
+Forsooth, I am stricken with tragedy!
+Alas! The fortunes of the elders are not upon me this day!
+
+#OutroNoItem2
+Still, One must lay some degree of praise upon you.
+However, One must apologize for wasting ones time upon this mortal coil.
+
+#Weight
+Forsooth, it is surely <weight>.
+#Size
+Indeed, One considers the item to be <size>.
+#ColourPositive
+Verily, the spectrum of this particular item is indeed <colour_1>.
+#ColourNegative
+One deems it's colour beyond the comprehension of mere mortal kin.
+#FlammablePositive
+It burns as brightly as the sacred holy flame of the Abyss Lord of Der Underbungerfeld!
+#FlammableNegative
+The deadly flames of my life-soul have no effect upon it.
+#LivingPositive
+It is indeed a being of this mortal space.
+#LivingNegative
+This is not something ye of mortal kin would consider 'living' 
+#EdgesPositive
+Who... Who are you calling 'edgy'? Ahem, this item is not without it's edges.
+#EdgesNegative
+'Edgy'... what... what you you saying? Ahem, verily, this item does not have edges.
+#DensityPositive
+Ones sacred herald Bun-Bun assures me this item shall not sink.
+#DensityNegative
+Ones sacred herald Bun-Bun assures me that this shall ascend in water, much as the souls of the departed rise to the heavans of Von Flunsandwichzan!
+#Feel
+To your mortal sense of touch, this items would be <feel>.
+#EdiblePositive
+Ones sacred herald Bun-Bun would consider this consumable.
+#EdibleNegative
+You should only consume this should you wish to descend to the realm of the Abyss Lord of Der Underbungerfeld.
+#Value
+By the standards of your mortal kin, the value would be considered somewhat <value>.
+#Temperature
+Verily, it would be considered <temperature> by those on this plane of the quasi-omniverse.
+#RecyclablePositive
+Indeed, this item is recyclable.
+#RecyclableNegative
+No, One does not believe this to be recyclable.
+#Mouthfeel
+Verily, this item would be considered to have a mouthfeel that is indeed <mouthfeel>... or so ones herald Bun-Bun informs one.
+#BlendPositive
+Indeed, one believes this to be compatible with the things ye mortals call 'blenders'
+#BlendNegative
+No, this item is not what mortals call 'blendable'
+#Shape
+By the standards of this realm, this item would be considered <shape>.
+#CustomsPositive
+One does not concern oneself with your mortal 'customs officers', but one might consider this item as somewhat questionable.
+#CustomsNegative
+One need not be concern with these 'customs officers' of this plane.
+#MagneticPositive
+Indeed, one considers this item to have the property of 'magnetism'
+#MagneticNegative
+Nay, this item is not of the class of 'magnetic'
