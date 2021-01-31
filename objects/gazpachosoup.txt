@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Gazpacho Soup
+#FlavourText
+This liquids hides a terrible secret.
+#Weight (Light/Medium/Heavy)
+Light
+#Size (Small/Medium/Big)
+Medium
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+Red/Often
+#Flammable (Yes/No)
+No
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+No
+#Buoyant (Yes/No)
+Yes
+#Feel (Rough/Smooth/Sharp/Soft/Weird)
+Weird
+#Edible (Yes/No)
+Yes
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Affordable
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Cold
+#Recyclable (Yes/No)
+No
+#Mouthfeel (Good/Bad)
+Good
+#Will it blend (Yes/No)
+Yes
+#Shape (Square/Round/Bumpy/Abstract)
+Abstract
+#Customs (Yes/No)
+No
+#Magnetic
+No
