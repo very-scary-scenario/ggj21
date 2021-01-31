@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Rubber Chicken
+#FlavourText
+Screams when depressed, just like me.
+#Weight (Light/Medium/Heavy)
+Light
+#Size (Small/Medium/Big)
+Small
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+Yellow/Often
+#Flammable (Yes/No)
+No
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+No
+#Buoyant (Yes/No)
+Yes
+#Feel (Rough/Smooth/Sharp/Soft/Weird)
+Weird
+#Edible (Yes/No)
+No
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Cheap
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Warm
+#Recyclable (Yes/No)
+No
+#Mouthfeel (Good/Bad)
+Good
+#Will it blend (Yes/No)
+Yes
+#Shape (Square/Round/Bumpy/Abstract)
+Bumpy
+#Customs (Yes/No)
+No
+#Magnetic
+No
