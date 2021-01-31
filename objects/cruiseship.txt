@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Cruise Ship
+#FlavourText
+For when you want to get away from it all, with hundred of other people.
+#Weight (Light/Medium/Heavy)
+Heavy
+#Size (Small/Medium/Big)
+Big
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+White/Often
+#Flammable (Yes/No)
+No
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+Yes
+#Buoyant (Yes/No)
+Yes
+#Feel (Rough/Smooth/Sharp/Soft/Weird)
+Smooth
+#Edible (Yes/No)
+No
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Expensive
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Cold
+#Recyclable (Yes/No)
+No
+#Mouthfeel (Good/Bad)
+Bad
+#Will it blend (Yes/No)
+No
+#Shape (Square/Round/Bumpy/Abstract)
+Abstract
+#Customs (Yes/No)
+Yes
+#Magnetic
+Yes
