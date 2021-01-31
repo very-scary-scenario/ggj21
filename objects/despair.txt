@@ -1,0 +1,39 @@
+
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Despair
+#FlavourText
+You have a bad feeling about this...
+#Weight (Light/Medium/Heavy)
+Heavy
+#Size (Small/Medium/Big)
+Big
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')
+None
+#Flammable (Yes/No)
+No
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+Yes
+#Buoyant (Yes/No)
+No
+#Feel (Rough/Smooth/Sharp/Soft/Weird)
+Rough
+#Edible (Yes/No)
+No
+#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
+Worthless
+#Temperature (Freezing/Cold/Warm/Hot/Boiling)
+Freezing
+#Recyclable (Yes/No)
+No
+#Mouthfeel (Good/Bad)
+Bad
+#Will it blend (Yes/No)
+No
+#Shape (Square/Round/Bumpy/Abstract)
+Abstract
+#Customs (Yes/No)
+No
+#Magnetic
+No
