@@ -67,7 +67,7 @@ def is_valid(thing: Dict[str, List[str]], fields: Dict[str, type]) -> bool:
 def get_fields(folder_name: str) -> Dict[str, type]:
     fields_filename = os.path.join(folder_name, 'fields.list')
     field_types = {'boolean': bool, 'list': list, 'plusminus': 'plusminus'}
-    fields = {}
+    fields: Dict[str, list] = {}
     for field_line in open(fields_filename, 'r').readlines():
         field = field_line.strip()
         if not field:
@@ -80,9 +80,11 @@ def get_fields(folder_name: str) -> Dict[str, type]:
             field_type = str
 
         if field_type == 'plusminus':
-            field_prefix, field_number = re.match('([^0-9]+)([0-9]*)', field_name).groups()
-            fields[f'{field_prefix}Positive{field_number}'] = list
-            fields[f'{field_prefix}Negative{field_number}'] = list
+            match = re.match('([^0-9]+)([0-9]*)', field_name)
+            assert match
+            field_prefix, field_number = match.groups()
+            fields[f'{field_prefix}Positive{field_number}'] = list()
+            fields[f'{field_prefix}Negative{field_number}'] = list()
         else:
             fields[field_name] = field_type
 
