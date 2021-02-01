@@ -2,7 +2,7 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
 Orange
 #FlavourText
-Like the fruit, but for your eyes
+Like the fruit, but for your eyes.
 #Weight (Light/Medium/Heavy)
 Light
 #Size (Small/Medium/Big)
