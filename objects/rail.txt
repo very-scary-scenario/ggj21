@@ -1,7 +1,7 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
 Rail
 #FlavourText
-Also known as iron roads
+Also known as iron roads.
 #Weight (Light/Medium/Heavy)
 Heavy
 #Size (Small/Medium/Big)
