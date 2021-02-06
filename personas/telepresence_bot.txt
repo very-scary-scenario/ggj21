@@ -58,7 +58,7 @@ my durometer says <object> should feel <feel>.
 #EdibleNegative
 <object|sentence> can not be digested by organic beings.
 #Value
-the monetary is <value>.
+the monetary value is <value>.
 #Temperature
 my thermometer puts the object in the <temperature> range.
 #RecyclablePositive
