@@ -57,9 +57,9 @@ No, I do not believe it is, errr, alive?
 Edges? Errr, I think it has many those.
 #EdgesNegative
 Edges? Errr, I do not think it has them.
-#DensityPositive
+#BuoyancyPositive
 I think it, errr... sinky? Is that the Human word?
-#DensityNegative
+#BuoyancyNegative
 Density? I do not think it dense.
 #Feel
 It's hard to describe in Human... maybe a little <feel>?
@@ -77,9 +77,9 @@ Yes, it's recyclable.
 No, it's not recyclable.
 #Mouthfeel
 Humans feel things with mouth? Err, I think it probably <mouthfeel>.
-#BlendPositive
+#BlendabilityPositive
 Yes, I think it, ummm, blendable.
-#BlendNegative
+#BlendabilityNegative
 Ummmm, no.
 #Shape
 By Human standards, I think it'd be considered, ummmm, <shape>.

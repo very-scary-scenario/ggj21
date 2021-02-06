@@ -50,9 +50,9 @@ I'm afraid that <object> is not breathing. Trust me, I know these things.
 <object> definitely has a few edges on it. Could be dangerous.
 #EdgesNegative
 I can say that <object> is smooth and blunt, much like a blackjack.
-#DensityPositive
+#BuoyancyPositive
 <object> would definitely float, like a corpse in a pool.
-#DensityNegative
+#BuoyancyNegative
 <object> would sink like a body weighed down with concrete.
 #Feel
 If I were not wearing leather gloves I would say it is <feel>.
@@ -70,9 +70,9 @@ Like most good tools, <object> can be used for multiple targets.
 I am afraid <object> is very much a one-time only use.
 #Mouthfeel
 If forced to consume it I would say it is <mouthfeel>.
-#BlendPositive
+#BlendabilityPositive
 If it were to...accidentally fall into a blender, I am sure nothing would remain.
-#BlendNegative
+#BlendabilityNegative
 Sadly even the sharpest of blades will have no effect on this object.
 #Shape
 I make a habit of recognising items by their silhouettes and can say this object is <shape>.

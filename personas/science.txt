@@ -60,9 +60,9 @@ Hahahaha, I'm not sure that even a science novice would mistake this for living.
 From my observational data, I'd say that yes, it has edges.
 #EdgesNegative
 All evidence points to "no".
-#DensityPositive
+#BuoyancyPositive
 It sank under lab conditions, last time I checked.
-#DensityNegative
+#BuoyancyNegative
 It's pretty 'floaty', as we say in the business.
 #Feel
 I believe the scientific term for this is that it feels somewhat <feel>.
@@ -80,9 +80,9 @@ My studies into climate science would suggest that you should endeavour to recyc
 This needs to go into the landfill, alas.
 #Mouthfeel
 Urrrr, Mouthfeel isn't really a proper metric? I mean, I suppose <mouthfeel>?
-#BlendPositive
+#BlendabilityPositive
 Yes. Please don't ask me if I've tried it, though.
-#BlendNegative
+#BlendabilityNegative
 No. Please don't ask me if I've tried it, though.
 #Shape
 It's <shape>-shaped.

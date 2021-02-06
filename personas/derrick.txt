@@ -59,9 +59,9 @@ It is not. Not any mor-I mean no never.
 It has more edges than an angry echidna.
 #EdgesNegative
 No...not really edgy.
-#DensityPositive
+#BuoyancyPositive
 Yes, like a globetrotting duck!
-#DensityNegative
+#BuoyancyNegative
 No, not really. Like a hammer, straight to the bottom.
 #Feel
 I'd describe it as <feel>. Please don't judge me.
@@ -79,9 +79,9 @@ If it wasn't mine, yes. However, it's mine, so don't.
 If it wasn't mine, no. Since it's mine, also no.
 #Mouthfeel
 ...I don't think I've ever put it in my mouth. Maybe <mouthfeel>? That sounds about right.
-#BlendPositive
+#BlendabilityPositive
 Yes it can. So can your hand.
-#BlendNegative
+#BlendabilityNegative
 No, but your hand can. Choose carefully.
 #Shape
 It is <shape>-shaped, as you should expect.

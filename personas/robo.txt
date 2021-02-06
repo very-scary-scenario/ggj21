@@ -60,9 +60,9 @@ Negative. Object is inanimate.
 Object shape deemed to have edges.
 #EdgesNegative
 "Edges" does not match object description.
-#DensityPositive
+#BuoyancyPositive
 Affirmative. Object likely to sink in H2O.
-#DensityNegative
+#BuoyancyNegative
 Negative. Object may float in water.
 #Feel
 Accessing feels database...as a human I would describe the object as <feel>.
@@ -80,9 +80,9 @@ Object is widely recycled. Please check your local recycling centre for more inf
 Object is not widely recycled.
 #Mouthfeel
 As a human, I can accurately describe how the object feels in my mouth that I have. I would describe it as "<mouthfeel>".
-#BlendPositive
+#BlendabilityPositive
 Object has the properties to successfully be used in a blender.
-#BlendNegative
+#BlendabilityNegative
 Object may cause damage to kitchen blenders and cannot be reduced down with one.
 #Shape
 Object is <shape>.

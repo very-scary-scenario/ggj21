@@ -14,7 +14,7 @@ Yes
 Yes
 #Edges (Yes/No)
 No
-#Buoyant (Yes/No)
+#Buoyancy (Yes/No)
 Yes
 #Feel (Rough/Smooth/Sharp/Soft/Weird)
 Soft
@@ -28,7 +28,7 @@ Warm
 No
 #Mouthfeel (Good/Bad)
 Good
-#Will it blend (Yes/No)
+#Blendability (Yes/No)
 Yes
 #Shape (Square/Round/Bumpy/Abstract)
 Abstract

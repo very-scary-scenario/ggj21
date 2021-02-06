@@ -48,9 +48,9 @@ No life in my item, no, not a sausage. That's all I can say, as I'm at a lossage
 This much is for sure, it has many an edge. For a suitable rhyme, well for that we must dredge.
 #EdgesNegative
 No edges to see here, that much is true. About as many as shampoo, beef stew or fondue.
-#DensityPositive
+#BuoyancyPositive
 It's fairly dense, so it'd sink like a rock. So don't drop it into water, especially a loch.
-#DensityNegative
+#BuoyancyNegative
 It's not dense at all, it'd float to the surface. The dictionary I'm using suggests rhyming with cervix.
 #Feel
 It's exceedingly <feel>, no word of a lie. It's that very thing that caught my eye.
@@ -68,9 +68,9 @@ Totally recyclable, one hundred percent. It could go in as-is, then come out as 
 It can't be recycled. No way. No how. You'd chuck it in a hedge, run away and say ciao!
 #Mouthfeel
 The mouthfeel is <mouthfeel>, that's all I can say. You're weirding me out, friend. It's a weird day.
-#BlendPositive
+#BlendabilityPositive
 Will it blend? That is the question. It'd be trivial, no matter the session.
-#BlendNegative
+#BlendabilityNegative
 Will it blend? That is the question. It'd never happen, no matter the session.
 #Shape
 It's got a <shape> shape, it's undeniable. All other descriptions are simply unviable.

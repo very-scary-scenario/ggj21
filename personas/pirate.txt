@@ -63,9 +63,9 @@ Of course it's not living. Don't be silly.
 It be having more edges than a galaxy-galleons space plank!
 #EdgesNegative
 It be blunter than a marathon runners peg-leg!
-#DensityPositive
+#BuoyancyPositive
 It be denser than the Ultra-Gold of Second Mercury!
-#DensityNegative
+#BuoyancyNegative
 It be not dense, Bucko.
 #Feel
 It's pretty <feel>, laddy.
@@ -83,9 +83,9 @@ Aye, it be resued more often than a cheap Grog bottle!
 Nae, and ye better not be tryin!
 #Mouthfeel
 I cannae say I be putting it in my mouth, savvy? But I be guessing it be <mouthfeel>.
-#BlendPositive
+#BlendabilityPositive
 Aye, it'll be blending more nicely than a toad being added to ye grog!
-#BlendNegative
+#BlendabilityNegative
 Argh! It'll destroy ye blender like a Space Siren by destroying ye ship!
 #Shape
 It be pretty <shape> for sure, Bucko.

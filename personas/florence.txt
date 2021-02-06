@@ -63,9 +63,9 @@ No way dawgie, not this one. Unless... is it haunted?
 Oh yeah, edges all over the place. Or not. It's edgy, at least. 
 #EdgesNegative
 No way mate, no edges here. Crikey.
-#DensityPositive
+#BuoyancyPositive
 Yeah mate, sinks like a croc with a rock. 
-#DensityNegative
+#BuoyancyNegative
 Nothing doing, it floats like a boat with a... float.
 #Feel
 It's pretty <feel>, dawgie. That's what I like about it anyway.
@@ -83,9 +83,9 @@ Yeah, deffo recyclable. Prefer you didn't though, you dig?
 No way dawgie, not this thing. Don't go testing that idea though.
 #Mouthfeel
 The heck is mouthfeel? Don't even know what to say y'know? Probably <mouthfeel> mouthfeel? Maybe?
-#BlendPositive
+#BlendabilityPositive
 For sure, mate. Could whizz it up something good if you tried.
-#BlendNegative
+#BlendabilityNegative
 Nah way, wouldn't have a good time trying to shred it up, y'know?
 #Shape
 It's got one of them <shape> shapes, yeah? Yeah, all sortsa <shape>.

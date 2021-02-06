@@ -54,9 +54,9 @@ It is without life.
 It has edges to cut and sting more than a thousand paper cuts.
 #EdgesNegative
 No, it is an item without edges.
-#DensityPositive
+#BuoyancyPositive
 It is as dense as the sin piled upon the soul of any British Politician. Yes, even that one.
-#DensityNegative
+#BuoyancyNegative
 It is not particularly dense, no.
 #Feel
 It feels so <feel> that placing it just outside the reach of my 'guests' drives them insane.
@@ -74,9 +74,9 @@ Yes, even I believe in recycling. Just maybe not that 'reincarnation' stuff.
 No, it is not for recycling, for it shall stay with me for all eternity!
 #Mouthfeel
 Mouthfeel? With these questions, I feel I shall be seeing you when your time comes. I would guess it is <mouthfeel>.
-#BlendPositive
+#BlendabilityPositive
 Yes, it is of a blendable quality.
-#BlendNegative
+#BlendabilityNegative
 It will not blend, and I even tried to use one of the fancy ones we keep for, shall we say, 'business purposes'
 #Shape
 Much like the soul of the average mortal, it is somewhat of a <shape> shape.

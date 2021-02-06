@@ -57,9 +57,9 @@ It's not a living thing, wibbit-wibbit.
 It's got some edges on it, ribbit.
 #EdgesNegative
 It's not very edgey, ribbit-wibbit.
-#DensityPositive
+#BuoyancyPositive
 It's pretty dense, ribbit. I can't even keep it on my pad.
-#DensityNegative
+#BuoyancyNegative
 It's not particularly dense, ribbit.
 #Feel
 It feels pretty <feel>, ribbit.
@@ -77,9 +77,9 @@ Yes, it's something I always recycle, ribbit.
 I don't think it's recyclable, ribbit.
 #Mouthfeel
 Last time I checked, I think it was pretty <mouthfeel>, ribbit.
-#BlendPositive
+#BlendabilityPositive
 I'm pretty sure that it will blend, ribbit.
-#BlendNegative
+#BlendabilityNegative
 I don't think this is blendable, ribbit?
 #Shape
 This is pretty <shape> shaped, ribbit.

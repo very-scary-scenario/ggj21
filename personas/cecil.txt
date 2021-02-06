@@ -54,9 +54,9 @@ Living? Nay, it would be far from an accurate description. Surely my good fellow
 One's missing item is indeed graced with edges, as one would expect.
 #EdgesNegative
 There is nary an edge on the thing. Perhaps it is due to the fine craft on mine?
-#DensityPositive
+#BuoyancyPositive
 One's item would hide itself beneath the surface, were one to be careless enough to introduce it to water.
-#DensityNegative
+#BuoyancyNegative
 One's item is of such extravagance and fine craft that it would rise itself out of the water, bobbing around until one reclaimed it.
 #Feel
 One would say it is very <feel>, old pal. Perhaps the most <feel>, even.
@@ -74,9 +74,9 @@ Given the quality of the materials with which one's item is crafted, it would be
 Nay, one would like to ensure you are aware that one paid good money to ensure it was as unrecyclable as possible.
 #Mouthfeel
 A person of my stature? Engage in mouthfeel? Surely you jest? One's item has <mouthfeel> mouthfeel, but surely you jest?
-#BlendPositive
+#BlendabilityPositive
 It would be but a trivial task for a blender worthy of one's ownership to make short work of even my prized possession.
-#BlendNegative
+#BlendabilityNegative
 One's possession would never find its way into the jaws of said blender. But if that were to be the case, one's possession would be the victor.
 #Shape
 Verily, one would agree that it is <shape>-shaped. Verily.

@@ -63,9 +63,9 @@ Of course it's not living. Don't be silly.
 It's got some edges to it, sure. Here and there. Probably.
 #EdgesNegative
 What? No, I wouldn't say it had edges. Is... this helping?
-#DensityPositive
+#BuoyancyPositive
 It's a fairly dense object sure, but if you put it near water I'll jump over this countertop.
-#DensityNegative
+#BuoyancyNegative
 No, it's not particularly dense. This... is the lost and found, right?
 #Feel
 It's pretty <feel>, sure. You've put me on the spot a bit.
@@ -83,9 +83,9 @@ Yes, it's recyclable. I'd prefer you give it back to me rather than recycle it, 
 No, it's not recyclable. But that shouldn't matter? Because you're giving it back to me? Please?
 #Mouthfeel
 Mouthfeel? I, uh, don't even know how to answer that. <mouthfeel>? <mouthfeel> mouthfeel, I think?
-#BlendPositive
+#BlendabilityPositive
 If you had one of those fancy blenders, it'd probably blend. Please don't try.
-#BlendNegative
+#BlendabilityNegative
 I'd have to say it's fairly blendproof, but I can't say I've tried and I'm happy keeping it that way.
 #Shape
 It's pretty <shape>-shaped. Which, uh, seems fairly normal.

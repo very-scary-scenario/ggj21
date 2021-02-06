@@ -54,9 +54,9 @@ This is not something ye of mortal kin would consider 'living'
 Who... Who are you calling 'edgy'? Ahem, this item is not without it's edges.
 #EdgesNegative
 'Edgy'... what... what you you saying? Ahem, verily, this item does not have edges.
-#DensityPositive
+#BuoyancyPositive
 Ones sacred herald Bun-Bun assures me this item shall not sink.
-#DensityNegative
+#BuoyancyNegative
 Ones sacred herald Bun-Bun assures me that this shall ascend in water, much as the souls of the departed rise to the heavans of Von Flunsandwichzan!
 #Feel
 To your mortal sense of touch, this items would be <feel>.
@@ -74,9 +74,9 @@ Indeed, this item is recyclable.
 No, One does not believe this to be recyclable.
 #Mouthfeel
 Verily, this item would be considered to have a mouthfeel that is indeed <mouthfeel>... or so ones herald Bun-Bun informs one.
-#BlendPositive
+#BlendabilityPositive
 Indeed, one believes this to be compatible with the things ye mortals call 'blenders'
-#BlendNegative
+#BlendabilityNegative
 No, this item is not what mortals call 'blendable'
 #Shape
 By the standards of this realm, this item would be considered <shape>.

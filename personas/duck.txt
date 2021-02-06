@@ -48,9 +48,9 @@ Quack??? Quack Quack? Qua-qua-Quack.
 Quack, Quack Quack, Edgey. Quack.
 #EdgesNegative
 Quack???
-#DensityPositive
+#BuoyancyPositive
 Quack, Quackity Quack, Floats.
-#DensityNegative
+#BuoyancyNegative
 Quack. Quack Quack, Sinks.
 #Feel
 Quackity, <feel>, Quack-quack-quack.
@@ -68,9 +68,9 @@ Quack, Yes.
 Quack, No.
 #Mouthfeel
 Quack? Quaaaaaack? Qua-Quack? <mouthfeel>?
-#BlendPositive
+#BlendabilityPositive
 Quack? Quack-kwak. Blendable.
-#BlendNegative
+#BlendabilityNegative
 Quack? Kwak-kwak. Not Blendable.
 #Shape
 Kwak-kwak, <shape>, quack.

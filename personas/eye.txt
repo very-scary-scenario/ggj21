@@ -55,9 +55,9 @@ Eye, Eye have behold rocks that are more alive.
 Eye, Eye believe it could put an Eye out!
 #EdgesNegative
 Eye be at not risk of putting my Eye out around this, Eye would say.
-#DensityPositive
+#BuoyancyPositive
 Eye think it is pretty dense.
-#DensityNegative
+#BuoyancyNegative
 Eye don't believe it to be dense.
 #Feel
 Eye'd say it's pretty <feel> to the touch.
@@ -75,9 +75,9 @@ Eye believe it is recyclable.
 Eye do not believe it to be recyclable.
 #Mouthfeel
 You are asking Eye about 'mouthfeel'? Eye am not an expert, but Eye would say it is probably <mouthfeel>.
-#BlendPositive
+#BlendabilityPositive
 Eye do not use a Blender, but Eye should think it should blend.
-#BlendNegative
+#BlendabilityNegative
 Eye do not think it to be possible to 'blend' this object.
 #Shape
 <shape>. It is most pleasing to my Eye.

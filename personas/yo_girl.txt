@@ -57,9 +57,9 @@ Yo! That's a pretty strange thing to ask, yo. It's not alive, yo.
 Got an edge here and an edge there, yo. Pretty edgy, yo.
 #EdgesNegative
 Well I've never noticed any edges, yo. Don't know where they'd be hiding, yo.
-#DensityPositive
+#BuoyancyPositive
 Dense as heck, yo. A real sinker even, yo.
-#DensityNegative
+#BuoyancyNegative
 Not even a little dense, yo. Float like a, uh, floater, yo.
 #Feel
 It's totally <feel>, yo. It's my favourite thing about it, yo.
@@ -77,9 +77,9 @@ Oh yeah, yo. For sure, yo. I don't know how to recycle but you could definitely 
 No, yo. Not even a little bit recyclable, yo.
 #Mouthfeel
 Yo. I'm always telling my friends that the mouthfeel is <mouthfeel>, yo.
-#BlendPositive
+#BlendabilityPositive
 You could blend it up real good, yo. Don't blend mine, but I'm down for blending someone else's stuff, yo.
-#BlendNegative
+#BlendabilityNegative
 Not even a little bit blendable, yo. Believe me, I tried. Yo.
 #Shape
 I'm confident it's <shape>-shaped, yo. I'm not confident in my confidence but I'm confident, yo.

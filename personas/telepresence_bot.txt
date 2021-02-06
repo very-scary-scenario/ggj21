@@ -47,9 +47,9 @@ the human visible spectrum does not interact with <object>.
 <object> has vertices.
 #EdgesNegative
 <object> does not have vertices.
-#DensityPositive
+#BuoyancyPositive
 <object> is buoyant.
-#DensityNegative
+#BuoyancyNegative
 <object> is not buoyant.
 #Feel
 my durometer says <object> should feel <feel>.
@@ -67,9 +67,9 @@ my thermometer puts the object in the <temperature> range.
 <object> is not recycleable.
 #Mouthfeel
 organic beings say <object> is <mouthfeel>.
-#BlendPositive
+#BlendabilityPositive
 <object> can be pulverized.
-#BlendNegative
+#BlendabilityNegative
 <object> can not be pulverized.
 #Shape
 <object> is <shape>.

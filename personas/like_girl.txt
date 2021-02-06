@@ -58,9 +58,9 @@ That's so, like, L-O-L that you'd think it's living.
 It's, like, edgier than one of those goth kids.
 #EdgesNegative
 It's, like, totally got no edges.
-#DensityPositive
+#BuoyancyPositive
 It's, like, denser than my Uncle Mike, and my Uncle Mike is, like, stupider than me.
-#DensityNegative
+#BuoyancyNegative
 It's, like, so not dense.
 #Feel
 It's, like, so <feel> that I totally can't get enough of it.
@@ -78,9 +78,9 @@ It's, like, totally save the earth, yeah?
 Like, no.
 #Mouthfeel
 Like, are you a sicko? I guess it's <mouthfeel>?
-#BlendPositive
+#BlendabilityPositive
 Like, I've totally blended one of these before.
-#BlendNegative
+#BlendabilityNegative
 So, like, totally no.
 #Shape
 It's, like, totally <shape>. I, like, so totally can't get enough of how <shape> it is.
