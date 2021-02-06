@@ -18,7 +18,11 @@ function pick(list) {
 
 function showText(string, callback) {
   textBox.innerText = string
-  function advanceText() {
+  function advanceText(event) {
+    if (backRoom.classList.contains('shown') || properties.classList.contains('shown')) {
+      return  // a modal is open and we should not advance text in the background
+    }
+
     document.removeEventListener("click", advanceText)
     textBox.classList.remove("showing-text")
     textBox.innerText = ""
@@ -137,7 +141,7 @@ function createShelfFor(object) {
   return shelf
 }
 
-function showBackRoom() {
+function showBackRoom(event) {
   event.stopPropagation()
   event.preventDefault()
   shelves.innerHTML = ""
@@ -148,7 +152,9 @@ function showBackRoom() {
   backRoom.classList.add('shown')
 }
 
-function hideBackRoom() {
+function hideBackRoom(event) {
+    event.stopPropagation()
+    event.preventDefault()
   backRoom.classList.remove('shown')
 }
 
