@@ -36,7 +36,7 @@ function showTexts(strings, callback) {
 }
 
 function format(string, repl) {
-  return string.replace(/<.*?>/g, repl)
+  return string.replace(/<(.*?)>/g, repl)
 }
 
 function askPersonaAbout(persona, object, property, callback) {
@@ -50,7 +50,16 @@ function askPersonaAbout(persona, object, property, callback) {
     }
   }
 
-  showText(format(pick(persona[lookup]), object[lookup]), callback)
+  function formatReplacementInResponse(match, name) {
+    if (name === "object") {
+      return object.Object
+    } else if (name === "value") {
+      return object[lookup]
+    } else {
+      throw "idk what a " + String(name) + " is"
+    }
+  }
+  showText(format(pick(persona[lookup]), formatReplacementInResponse), callback)
 }
 
 function askAboutPropertyOf(persona, object, callback) {
