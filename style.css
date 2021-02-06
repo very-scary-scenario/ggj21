@@ -35,10 +35,10 @@ body {
 #kiosk-window {
   width: 700px;
   height: 500px;
-  margin: 0 auto;
+  margin: 1em auto;
   position: relative;
   overflow: hidden;
-  border: 12px solid;  /* this is dependant on the border svg, which i don't know how to reliably scale */
+  border: 12px solid;  /* this is dependant on the border svg, which i don't know how to reliably scale, and which also only works right on retina screens */
   border-image: url("art/customer_window_border.svg") 12;
   background-image: url("art/trainstation_background_no_border_4x.png");
   background-size: cover;
