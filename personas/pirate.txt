@@ -4,8 +4,8 @@ Well, Shiver me Timbers and Sweep the Poop Deck!
 I be seeking treasure!
 
 #Intro2
-Have ye been seeing my Dubloons, I mean, me <object>
-I be on a quest to find me my <object>
+Have ye been seeing my Dubloons, I mean, me <object>.
+I be on a quest to find me my <object>.
 This spot be not an 'X' on me map, but may this be where my <object> be found?
 
 #Intro3
