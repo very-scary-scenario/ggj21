@@ -14,7 +14,7 @@ Help?
 #OutroPositive1
 Ah, much thanks.
 Ah, much... sorry, many thanks.
-Ah, my, errr, object>!
+Ah, my, errr, <object>!
 
 #OutroPositive2
 I am, err, thankmuch for your help.
@@ -44,7 +44,7 @@ I believe that it is, how do you say, <size>.
 #ColourPositive
 In human tongue, I think it is... <colour_1>.
 #ColourNegative
-I don't think there is a word for it's colour in Human.
+I don't think there is a word for this thing's colour in Human.
 #FlammablePositive
 That means... does it burn? I think so?
 #FlammableNegative
@@ -66,7 +66,7 @@ It's hard to describe in Human... maybe a little <feel>?
 #EdiblePositive
 It's a, err, delicacy on my planet.
 #EdibleNegative
-Err, maybe on Human? Do you eat weird things? I don't think it's edible, though.
+Err, maybe for Human? Do you eat weird things? I don't think it's edible, though.
 #Value
 On my world, it is considered very <value>.
 #Temperature
