@@ -38,7 +38,7 @@ body {
   margin: 1em auto;
   position: relative;
   overflow: hidden;
-  border: 12px solid;  /* this is dependant on the border svg, which i don't know how to reliably scale, and which also only works right on retina screens */
+  border: 24px solid;  /* this is dependant on the border svg and the screen's pixel density; i think the svg using px is a problem maybe */
   border-image: url("art/customer_window_border.svg") 12;
   background-image: url("art/trainstation_background_no_border_4x.png");
   background-size: cover;
