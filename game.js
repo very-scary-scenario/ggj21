@@ -53,10 +53,8 @@ function askPersonaAbout(persona, object, property, callback) {
   function formatReplacementInResponse(match, name) {
     if (name === "object") {
       return object.Object
-    } else if (name === "value") {
-      return object[lookup]
     } else {
-      throw "idk what a " + String(name) + " is"
+      return object[lookup]
     }
   }
   showText(format(pick(persona[lookup]), formatReplacementInResponse), callback)
