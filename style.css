@@ -37,7 +37,7 @@ body {
   height: 500px;
   margin: 1em auto;
   position: relative;
-  background-image: url("customer_window_border.svg");
+  background-image: url("art/customer_window_border.svg");
 }
 
 #text-box {
@@ -46,7 +46,7 @@ body {
   height: 200px;
   margin: 0 auto;
   position: relative;
-  background-image: url("text_window_border.svg");
+  background-image: url("art/text_window_border.svg");
   padding: 2.3rem;
 }
 
