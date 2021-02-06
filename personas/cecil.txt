@@ -73,7 +73,7 @@ Given the quality of the materials with which one's item is crafted, it would be
 #RecyclableNegative
 Nay, one would like to ensure you are aware that one paid good money to ensure it was as unrecyclable as possible.
 #Mouthfeel
-A person of my stature? Engage in mouthfeel? Surely you jest? One's item has <mouthfeel> mouthfeel, but surely you jest?
+A person of my stature? Engage in mouthfeel? Surely you jest? One's item has a <mouthfeel> mouthfeel, but surely you jest?
 #BlendabilityPositive
 It would be but a trivial task for a blender worthy of one's ownership to make short work of even my prized possession.
 #BlendabilityNegative
