@@ -3,7 +3,7 @@ greetings, meatbag.
 bleep bloop hello.
 
 #Intro2
-I need my <object> please.
+give me my <object> please.
 
 #Intro3
 it is very important that I get to see my <object>.
