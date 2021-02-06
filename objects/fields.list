@@ -1,4 +1,4 @@
-Buoyant, boolean
+Buoyancy, boolean
 Colour
 Customs, boolean
 Edges, boolean
@@ -16,4 +16,4 @@ Size
 Temperature
 Value
 Weight
-Will it blend, boolean
+Blendability, boolean

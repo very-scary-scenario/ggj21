@@ -128,7 +128,7 @@ def build_index() -> None:
         soup = BeautifulSoup(src.read(), features='html.parser')
 
     object_fields = get_fields('objects')
-    unqueriable_object_fields = ["Object", "FlavourText"]
+    unqueriable_object_fields = ["Object", "FlavourText", "Colour"]  # we need to do some harder stuff for colour
     queriable_object_fields = {k: v for k, v in object_fields.items() if k not in unqueriable_object_fields}
     expected_persona_fields: List[str] = []
     for name, kind in queriable_object_fields.items():

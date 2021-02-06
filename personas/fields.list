@@ -1,9 +1,9 @@
 _name, str
 _art_url, str
-Blend, plusminus
+Blendability, plusminus
 Colour, plusminus
 Customs, plusminus
-Density, plusminus
+Buoyancy, plusminus
 Edges, plusminus
 Edible, plusminus
 Feel, list
