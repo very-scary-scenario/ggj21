@@ -73,7 +73,7 @@ Object is not safe for human consumption.
 #Value
 According to online auction databases, object is regarded as <value>.
 #Temperature
-Temperature sensor malfunctioning, using approximate fallback. Object temperature range: <temperature>
+Temperature sensor malfunctioning, using approximate fallback. Object temperature range: <temperature>.
 #RecyclablePositive
 Object is widely recycled. Please check your local recycling centre for more information.
 #RecyclableNegative
