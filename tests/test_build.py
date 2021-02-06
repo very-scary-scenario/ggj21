@@ -5,7 +5,7 @@ import re
 import json
 import pytest
 
-from build import parse_object, parse_persona, is_valid, get_fields, build_things, build_index
+from build import parse_object, parse_persona, is_valid, get_fields, build_things
 
 
 @pytest.mark.parametrize('filename,expect', [
@@ -15,7 +15,7 @@ from build import parse_object, parse_persona, is_valid, get_fields, build_thing
 ])
 def test_parse_object(filename, expect):
     with open(f'tests/fixtures/objects/{filename}.txt', 'r') as f:
-        assert parse_object(f) == expect
+        assert parse_object(filename, f) == expect
 
 
 @pytest.mark.parametrize('filename,expect', [
@@ -25,15 +25,22 @@ def test_parse_object(filename, expect):
 ])
 def test_parse_persona(filename, expect):
     with open(f'tests/fixtures/personas/{filename}.txt', 'r') as f:
-        assert parse_persona(f) == expect
+        assert parse_persona(filename, f) == {
+            **expect,
+            '_name': filename, '_art_url': f'art/{filename}.png',
+        }
 
 
 @pytest.mark.parametrize('folder,expect', [
     ('tests/fixtures/objects', {'Name': str, 'Exists': bool}),
-    ('tests/fixtures/personas', {'Greeting': list, 'ExistsPositive': list, 'ExistsNegative': list})
+    ('tests/fixtures/personas', {
+        'Greeting': list, 'ExistsPositive': list, 'ExistsNegative': list, '_name': str, '_art_url': str,
+    })
 ])
 def test_get_fields_valid(folder, expect):
-    assert get_fields(folder) == expect
+    assert get_fields(folder) == {
+        **expect,
+    }
 
 
 @pytest.mark.parametrize('filename,expected_error', [
@@ -54,7 +61,7 @@ def test_is_valid(folder, parser):
         if object_file_name.startswith('.') or not object_file_name.endswith('.txt'):
             continue
         with open(os.path.join(full_folder, object_file_name)) as object_file:
-            thing = parser(object_file)
+            thing = parser(object_file_name, object_file)
             if object_file_name.startswith('valid'):
                 assert is_valid(thing, fields)
             elif object_file_name.startswith('invalid'):
@@ -63,18 +70,16 @@ def test_is_valid(folder, parser):
                 raise ValueError(f'Fixtures in the {folder} folder should start with "valid" or "invalid".')
 
 
-def equal_up_to_permutation(list1, list2):
+def assert_equal_up_to_permutation(list1, list2):
     test_list = list2[:]
     for element in list1:
         # Some elements of list1 not found in list2
         if element not in test_list:
-            return False
+            raise AssertionError(f"{element} not in {test_list}; expected {list1}")
         test_list.remove(element)
     if len(test_list) > 0:
         # Some elements of list2 not in list1
-        return False
-
-    return True
+        raise AssertionError(f"elements not found in list2: {[item for item in list2 if item not in list1]}")
 
 
 def filter_folder(src_folder, dst_folder, file_re):
@@ -88,7 +93,7 @@ def test_build_things_valid(tmp_path, folder, parser):
     file_re = 'valid|fields.list$'
     filter_folder(os.path.join('tests/fixtures', folder), tmp_path, file_re)
     with open(os.path.join('tests/fixtures', folder, 'expected.json')) as f:
-        assert equal_up_to_permutation(json.loads(build_things(tmp_path, parser)), json.load(f))
+        assert_equal_up_to_permutation(json.loads(build_things(tmp_path, parser)), json.load(f))
 
 
 @pytest.mark.parametrize('folder,parser', [('objects', parse_object), ('personas', parse_persona)])

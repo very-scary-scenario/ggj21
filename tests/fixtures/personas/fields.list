@@ -1,4 +1,4 @@
+_name, str
+_art_url, str
 Greeting,list
 Exists,plusminus
-
-
