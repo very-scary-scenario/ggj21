@@ -3,7 +3,7 @@ Quack-Quack!
 Quack!
 
 #Intro2
-Quack, quack quack, quack, <object>
+Quack, quack quack, quack, <object>.
 Quack Quack Quackity Quack.
 
 #Intro3
