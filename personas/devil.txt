@@ -35,7 +35,7 @@ Fear not, Mortal, for it is not you who has claimed my wrath this day.
 Do not be afraid, for it is not you who will suffer in the depths of my flames this day.
 
 #Weight
-Much like how the sin for your villainy weights on your soul, it is of a <weight> weight.
+Much like how the sin of your villainy weighs on your soul, it is of a <weight> weight.
 #Size
 Compared to the suffering of my 'customers', it is but <size>.
 #ColourPositive
@@ -43,7 +43,7 @@ It is a most violent shade of <colour_1>, much like the kind of violence that wo
 #ColourNegative
 It is the same colour as the Sin of a Saint, which is to say, it's quite boringly colourless.
 #FlammablePositive
-Yes, it ignites within the flames of Hell and powered the suffering of the damn for all eternity!
+Yes, it ignites within the flames of Hell and can power the suffering of the damned for all eternity!
 #FlammableNegative
 No, flammable items are something of a fire hazard around my abode!
 #LivingPositive
@@ -77,14 +77,14 @@ Mouthfeel? With these questions, I feel I shall be seeing you when your time com
 #BlendabilityPositive
 Yes, it is of a blendable quality.
 #BlendabilityNegative
-It will not blend, and I even tried to use one of the fancy ones we keep for, shall we say, 'business purposes'
+It will not blend. I even tried to use one of the fancy ones we keep for, shall we say, 'business purposes'.
 #Shape
 Much like the soul of the average mortal, it is somewhat of a <shape> shape.
 #CustomsPositive
-The only people who would try to take this through Customs are those which would seek to visit me in Hell at their passing.
+The only people who would try to take this through security are those which would seek to visit me in Hell at their passing.
 #CustomsNegative
-No, this item would not bear a weight upon ones soul.
+No, this item would not bear a weight upon one's soul.
 #MagneticPositive
-Yes, this item will cling to metal as ones evil deeds causes sin to cling to ones mortal soul.
+Yes, this item will cling to metal as one's evil deeds causes sin to cling to one's mortal soul.
 #MagneticNegative
 No. What kind of question even is that?
