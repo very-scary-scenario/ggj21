@@ -1,5 +1,6 @@
 const textBox = document.getElementById("text-box")
 const kioskWindow = document.getElementById("kiosk-window")
+const visitor = document.getElementById("visitor")
 const objects = JSON.parse(document.getElementById("objects").textContent)
 const personas = JSON.parse(document.getElementById("personas").textContent)
 const properties = document.getElementById("properties")
@@ -85,6 +86,8 @@ function letPlayerAskAboutProperty(persona, object) {
 
 function havePersonaVisit() {
   const persona = pick(personas)
+  visitor.setAttribute("data-persona", persona._name)
+  visitor.setAttribute("src", persona._art_url)
   const object = pick(objects)
   showTexts([
     format(pick(persona.Intro1), object.Object),

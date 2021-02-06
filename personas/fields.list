@@ -1,3 +1,5 @@
+_name, str
+_art_url, str
 Blend, plusminus
 Colour, plusminus
 Customs, plusminus

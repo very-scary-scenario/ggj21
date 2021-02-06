@@ -2,7 +2,7 @@ import json
 import os
 import logging
 import re
-from typing import Callable, Dict, List, Set, TextIO, Union
+from typing import Callable, Dict, List, TextIO, Union
 
 from bs4 import BeautifulSoup
 
@@ -11,7 +11,7 @@ HERE = os.path.dirname(__file__)
 STRICT = True
 
 
-def parse_object(obj_file: TextIO) -> Dict[str, Union[str, bool]]:
+def parse_object(file_name: str, obj_file: TextIO) -> Dict[str, Union[str, bool]]:
     lines = [line.strip() for line in obj_file.readlines() if line.strip()]
     obj = {}
 
@@ -26,9 +26,9 @@ def parse_object(obj_file: TextIO) -> Dict[str, Union[str, bool]]:
     return obj
 
 
-def parse_persona(person_file: TextIO) -> Dict[str, List[str]]:
+def parse_persona(file_name: str, person_file: TextIO):
     lines = [line.strip() for line in person_file.readlines()]
-    persona: Dict[str, List[str]] = {}
+    persona: Dict[str, Union[List[str], str]] = {}
     category: str
 
     for line in lines:
@@ -36,8 +36,13 @@ def parse_persona(person_file: TextIO) -> Dict[str, List[str]]:
             category = line.lstrip('#').split('(')[0].strip()
             persona[category] = []
         elif line:
-            persona[category].append(line)
+            cat = persona[category]
+            assert isinstance(cat, list)
+            cat.append(line)
 
+    name = os.path.splitext(file_name)[0]
+    persona["_name"] = name
+    persona["_art_url"] = f"art/{name}.png"
     return persona
 
 
@@ -66,7 +71,7 @@ def is_valid(thing: Dict[str, List[str]], fields: Dict[str, type]) -> bool:
 
 def get_fields(folder_name: str) -> Dict[str, type]:
     fields_filename = os.path.join(folder_name, 'fields.list')
-    field_types: Dict[str, Union[type, str]] = {'boolean': bool, 'list': list, 'plusminus': 'plusminus'}
+    field_types: Dict[str, Union[type, str]] = {'boolean': bool, 'list': list, 'plusminus': 'plusminus', 'str': str}
     fields: Dict[str, type] = {}
     for field_line in open(fields_filename, 'r').readlines():
         field = field_line.strip()
@@ -93,7 +98,7 @@ def get_fields(folder_name: str) -> Dict[str, type]:
     return fields
 
 
-def build_things(folder_name: str, parser: Callable) -> str:
+def build_things(folder_name: str, parser: Callable[[str, TextIO], Dict]) -> str:
     objects = []
     fields = get_fields(folder_name)
 
@@ -102,7 +107,7 @@ def build_things(folder_name: str, parser: Callable) -> str:
         if object_file_name.startswith('.') or not object_file_name.endswith('.txt'):
             continue
         with open(os.path.join(HERE, folder_name, object_file_name)) as object_file:
-            thing = parser(object_file)
+            thing = parser(object_file_name, object_file)
             if is_valid(thing, fields):
                 objects.append(thing)
             else:

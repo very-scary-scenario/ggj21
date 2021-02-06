@@ -35,9 +35,24 @@ body {
 #kiosk-window {
   width: 700px;
   height: 500px;
-  margin: 1em auto;
+  margin: 0 auto;
   position: relative;
-  background-image: url("art/customer_window_border.svg");
+  overflow: hidden;
+  border: 12px solid;  /* this is dependant on the border svg, which i don't know how to reliably scale */
+  border-image: url("art/customer_window_border.svg") 12;
+  background-image: url("art/trainstation_background_no_border_4x.png");
+  background-size: cover;
+  background-clip: padding-box;
+}
+
+#visitor { display: none }
+#visitor[data-persona] {
+  display: block;
+  width: calc(238px * 2.5);
+  height: calc(138px * 2.5);
+  position: absolute;
+  bottom: calc((138px - 121px) * -2.5);  /* this aligns with the bottom of the window, not the top of the counter, which isn't ideal */
+  left: 0;
 }
 
 #text-box {
