@@ -5,8 +5,8 @@ Greetings, I neeed to find something before I make a rapid exit.
 
 #Intro2
 Someone has misplaced my <object> and I need to retrieve it.
-I've been assigned to retrieve <object> with as little fuss as possible.
-Retrieving <object> is one of my mission objectives.
+I've been assigned to retrieve the <object> with as little fuss as possible.
+Retrieving the <object> is one of my mission objectives.
 
 #Intro3
 I'm hopeful you will be able to aid me in reaching my objective.
