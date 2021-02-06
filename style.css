@@ -143,6 +143,7 @@ html {
 #back-room.shown {
   display: block;
 }
+#back-room h2, #back-room li { margin-bottom: .5em }
 .back-room-door {
   color: white !important;
   font-weight: bold;

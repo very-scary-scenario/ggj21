@@ -135,9 +135,28 @@ function havePersonaVisit() {
   ], () => { letPlayerAskAboutProperty(persona, object) })
 }
 
+function giveObjectToVisitor(event) {
+  event.stopPropagation()
+  event.preventDefault()
+  alert('henlo')  // remove object from inventory and put the visitor into their success/failure routine
+}
+ruleObjectOut = giveObjectToVisitor
+
 function createShelfFor(object) {
-  var shelf = document.createElement("li")
-  shelf.innerText = object.Object
+  const shelf = document.createElement("li")
+  const giveObject = document.createElement("a")
+  giveObject.setAttribute('href', '#')
+  giveObject.addEventListener('click', giveObjectToVisitor)
+  giveObject.innerText = 'hand to customer'
+  const ruleOut = document.createElement("a")
+  ruleOut.innerText = 'rule out'
+  ruleOut.setAttribute('href', '#')
+  ruleOut.addEventListener('click', ruleObjectOut)
+  shelf.appendChild(ruleOut)
+  shelf.appendChild(document.createTextNode(" - "))
+  shelf.appendChild(giveObject)
+  shelf.appendChild(document.createTextNode(" - "))
+  shelf.appendChild(document.createTextNode(object.Object))
   return shelf
 }
 
