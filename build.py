@@ -107,7 +107,7 @@ def build_things(folder_name: str, parser: Callable[[str, TextIO], Dict]) -> str
     fields = get_fields(folder_name)
 
     problems = []
-    for object_file_name in os.listdir(os.path.join(HERE, folder_name)):
+    for object_file_name in sorted(os.listdir(os.path.join(HERE, folder_name))):
         if object_file_name.startswith('.') or not object_file_name.endswith('.txt'):
             continue
         with open(os.path.join(HERE, folder_name, object_file_name)) as object_file:
