@@ -44,7 +44,7 @@ const filters = {
 
 function format(string, repl) {
   const filterExp = /<([^>|]*)\|?([^>|]*)?>/g
-  return string.replace(filterExp, function(match, name, filter) {
+  return string.replace(filterExp, (match, name, filter) => {
     let replacement = repl(name)
     if (filter) {
       if (filters[filter]) {
@@ -118,7 +118,9 @@ function havePersonaVisit() {
     format(pick(persona.Intro1), () => object.Object),
     format(pick(persona.Intro2), () => object.Object),
     format(pick(persona.Intro3), () => object.Object),
-  ], function() { letPlayerAskAboutProperty(persona, object) })
+  ], () => { letPlayerAskAboutProperty(persona, object) })
 }
 
-havePersonaVisit()
+document.addEventListener('DOMContentLoaded', (event) => {
+  setTimeout(havePersonaVisit, 5)  // wait a second so that the introductory swooce can happen
+})
