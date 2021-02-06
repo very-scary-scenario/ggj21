@@ -5,7 +5,7 @@ Wibbit.
 
 #Intro2
 I lost my <object> somewhere, ribbit.
-I'm looking for somrthing, wibbit.
+I'm looking for something, wibbit.
 Ribbit.
 
 #Intro3
