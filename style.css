@@ -5,8 +5,8 @@
 }
 
 @keyframes tokimeki-memorial {
-  000% { transform: translate(0, 0) }
-  100% { transform: translate(-44px, 44px) }
+  000% { transform: translate(44px, -22px) }
+  100% { transform: translate(-44px, 22px) }
 }
 
 * {
@@ -21,14 +21,14 @@ body {
 }
 
 #bg {
-  width: calc(100% + 88px);
-  height: calc(100% + 88px);
+  width: calc(100% + 264px);
+  height: calc(100% + 264px);
   position: fixed;
-  top: -88px;
-  left: -88px
+  top: -132px;
+  left: -132px;
   z-index: -1;
   background-image: url(tile.svg);
-  animation: tokimeki-memorial 2s linear infinite;
+  animation: tokimeki-memorial 4s linear infinite;
 }
 
 #kiosk-window {
