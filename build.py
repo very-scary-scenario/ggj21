@@ -4,7 +4,10 @@ import json
 import logging
 import os
 import re
+import subprocess
 from typing import Callable, Dict, List, TextIO, Union
+
+from PIL import Image, ImageOps
 
 from bs4 import BeautifulSoup
 
@@ -13,6 +16,7 @@ HERE = os.path.dirname(__file__)
 STRICT = True
 POSITIVE = 'Positive'
 NEGATIVE = 'Negative'
+ART_SCALE = 6
 
 
 def parse_object(file_name: str, obj_file: TextIO) -> Dict[str, Union[str, bool]]:
@@ -46,7 +50,7 @@ def parse_persona(file_name: str, person_file: TextIO):
 
     name = os.path.splitext(file_name)[0]
     persona["_name"] = name
-    persona["_art_url"] = f"art/{name}.png"
+    persona["_art_url"] = f"scaled_art/{name}.png"
     return persona
 
 
@@ -158,5 +162,28 @@ def build_index() -> None:
         dest.write(str(soup))
 
 
+def scale_art():
+    art_dir = os.path.join(HERE, 'art')
+    scaled_art_dir = os.path.join(HERE, 'scaled_art')
+
+    if not os.path.isdir(scaled_art_dir):
+        os.mkdir(scaled_art_dir)
+
+    for image_file_name in sorted(os.listdir(art_dir)):
+        if image_file_name.startswith('.') or (not image_file_name.endswith('.png')):
+            continue
+
+        scaled_file_name = os.path.join(scaled_art_dir, image_file_name)
+        if os.path.isfile(scaled_file_name):
+            continue
+
+        with Image.open(os.path.join(os.path.join(art_dir, image_file_name))) as original:
+            scaled = ImageOps.scale(original, ART_SCALE, Image.NEAREST)
+            scaled.save(scaled_file_name)
+
+        subprocess.run(['optipng', scaled_file_name])
+
+
 if __name__ == '__main__':
+    scale_art()
     build_index()
