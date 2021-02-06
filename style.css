@@ -16,8 +16,11 @@
   box-sizing: border-box;
 }
 
+:root {
+  --window-scale: 3;
+}
+
 body {
-  text-align: center;
   font-family: sans-serif;
   background-color: #101359;
 }
@@ -33,15 +36,20 @@ body {
   animation: tokimeki-memorial 4s linear infinite;
 }
 
-#kiosk-window-decs {
+#kiosk-walls {
+  text-align: center;
+}
+
+#kiosk-window-frame {
+  margin: 1em 0;
   position: relative;
   display: inline-block;
   background-image: url("art/customer_window_border.svg");
 }
 
 #kiosk-window {
-  width: 700px;
-  height: 500px;
+  width: calc(952px * 0.25 * var(--window-scale));
+  height: calc(552px * 0.25 * var(--window-scale));
   margin: 25px;
   position: relative;
   overflow: hidden;
@@ -53,10 +61,10 @@ body {
 #visitor { display: none }
 #visitor[data-persona] {
   display: block;
-  width: calc(238px * 2.5);
-  height: calc(138px * 2.5);
+  width: calc(238px * var(--window-scale));
+  height: calc(138px * var(--window-scale));
   position: absolute;
-  bottom: calc((138px - 121px) * -2.5);  /* this aligns with the bottom of the window, not the top of the counter, which isn't ideal */
+  bottom: 0;
   left: 0;
 }
 
