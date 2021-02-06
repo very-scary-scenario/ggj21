@@ -100,17 +100,13 @@ function hidePropertiesOptions() {
 function letPlayerAskAboutProperty(persona, object) {
   showPropertiesOptions()
 
-  function bail() {  // this needs to be named better once we cement what's gonna happen next
-    alert("henlo")
-  }
-
   for (var property in object) {
     if (queriableObjectProperties.indexOf(property) === -1) { continue }
     var propertyLink = document.createElement("a")
     propertyLink.innerText = property
     propertyLink.setAttribute("href", "#")
     propertyLink.setAttribute("data-property", property)
-    propertyLink.addEventListener("click", askAboutPropertyOf(persona, object, bail))
+    propertyLink.addEventListener("click", askAboutPropertyOf(persona, object, letPlayerAskAboutProperty))
     var propertyListItem = document.createElement("li")
     propertyListItem.appendChild(propertyLink)
     propertyList.appendChild(propertyListItem)
