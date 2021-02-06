@@ -36,8 +36,25 @@ function showTexts(strings, callback) {
   nextText()
 }
 
+const filters = {
+  lower: (input) => input.toLowerCase(),
+  upper: (input) => input.toUpperCase(),
+  sentence: (input) => input.slice(0, 1).toUpperCase() + input.slice(1),
+}
+
 function format(string, repl) {
-  return string.replace(/<(.*?)>/g, repl)
+  const filterExp = /<([^>|]*)\|?([^>|]*)?>/g
+  return string.replace(filterExp, function(match, name, filter) {
+    let replacement = repl(name)
+    if (filter) {
+      if (filters[filter]) {
+        replacement = filters[filter](replacement)
+      } else {
+        throw "no filter exists for " + filter
+      }
+    }
+    return replacement
+  })
 }
 
 function askPersonaAbout(persona, object, property, callback) {
@@ -98,9 +115,9 @@ function havePersonaVisit() {
   visitor.setAttribute("src", persona._art_url)
   const object = pick(objects)
   showTexts([
-    format(pick(persona.Intro1), object.Object),
-    format(pick(persona.Intro2), object.Object),
-    format(pick(persona.Intro3), object.Object),
+    format(pick(persona.Intro1), () => object.Object),
+    format(pick(persona.Intro2), () => object.Object),
+    format(pick(persona.Intro3), () => object.Object),
   ], function() { letPlayerAskAboutProperty(persona, object) })
 }
 
