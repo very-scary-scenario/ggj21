@@ -8,7 +8,9 @@ const properties = document.getElementById("properties")
 const propertyList = document.getElementById("property-list")
 const inventory = JSON.parse(JSON.stringify(objects))
 const backRoom = document.getElementById("back-room")
-const backRoomDoor = document.getElementById("back-room-door")
+const shelves = document.getElementById("shelves")
+const backRoomEntrance = document.getElementById("back-room-entrance")
+const backRoomExit = document.getElementById("back-room-exit")
 
 function pick(list) {
   return list[Math.floor(Math.random() * list.length)]
@@ -100,7 +102,7 @@ function hidePropertiesOptions() {
 }
 
 function letPlayerAskAboutProperty(persona, object) {
-  showPropertiesOptions()
+  propertyList.innerHTML = ""
 
   for (var property in object) {
     if (queriableObjectProperties.indexOf(property) === -1) { continue }
@@ -113,13 +115,15 @@ function letPlayerAskAboutProperty(persona, object) {
     propertyListItem.appendChild(propertyLink)
     propertyList.appendChild(propertyListItem)
   }
+
+  showPropertiesOptions()
 }
 
 function havePersonaVisit() {
   const persona = pick(personas)
   visitor.setAttribute("data-persona", persona._name)
   visitor.setAttribute("src", persona._art_url)
-  const object = pick(objects)
+  const object = pick(inventory)  // there's no sense having someone show up with an object you don't have
   showTexts([
     format(pick(persona.Intro1), () => object.Object),
     format(pick(persona.Intro2), () => object.Object),
@@ -127,14 +131,31 @@ function havePersonaVisit() {
   ], () => { letPlayerAskAboutProperty(persona, object) })
 }
 
+function createShelfFor(object) {
+  var shelf = document.createElement("li")
+  shelf.innerText = object.Object
+  return shelf
+}
+
 function showBackRoom() {
   event.stopPropagation()
   event.preventDefault()
-  // backRoom.classList.add('shown')
-  alert(inventory)
+  shelves.innerHTML = ""
+  backRoomEntrance.blur()
+  for (var i = 0; i < inventory.length; i++) {
+    shelves.appendChild(createShelfFor(inventory[i]))
+  }
+  backRoom.classList.add('shown')
+}
+
+function hideBackRoom() {
+  backRoom.classList.remove('shown')
 }
 
 document.addEventListener('DOMContentLoaded', (event) => {
-  setTimeout(havePersonaVisit, 5)  // wait a second so that the introductory swooce can happen
-  backRoomDoor.addEventListener('click', showBackRoom)
+  setTimeout(() => {
+    havePersonaVisit()
+    backRoomEntrance.addEventListener('click', showBackRoom)
+    backRoomExit.addEventListener('click', hideBackRoom)
+  }, 5)  // wait a second so that the introductory swooce can happen
 })

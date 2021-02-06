@@ -127,19 +127,42 @@ html {
 }
 #property-container h2, #property-container li { margin-bottom: .5em }
 
-#back-room-door {
+#back-room {
+  display: none;
   position: absolute;
-  color: white;
+  width: 80vw;
+  max-height: 80vh;
+  overflow-y: scroll;
+  top: 10vh;
+  left: 10vw;
+  padding: 1em;
+  background-color: var(--background-color);
+  outline: .3em solid var(--focus-color);
+  box-shadow: .6em .6em 0 black;
+}
+#back-room.shown {
+  display: block;
+}
+.back-room-door {
+  color: white !important;
   font-weight: bold;
   background-color: var(--focus-color);
-  bottom: 1rem;
   padding: .5rem 1rem;
-  left: 1rem;
   font-size: 1.1rem;
   border: .3em solid var(--hl-color);
   box-shadow: .4em .4em 0 black;
 }
-#back-room-door:hover, #back-room-door:focus {
+#back-room-exit {
+  position: fixed;
+  top: 9vh;
+  right: 9vw;
+}
+#back-room-entrance {
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+}
+.back-room-door:hover, .back-room-door:focus {
   background-color: var(--hl-color);
   border-color: white;
   box-shadow: .2em .2em 0 black;
