@@ -68,7 +68,7 @@ function askPersonaAbout(persona, object, property, callback) {
     }
   }
 
-  function formatReplacementInResponse(match, name) {
+  function formatReplacementInResponse(name) {
     if (name === "object") {
       return object.Object
     } else {
