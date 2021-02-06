@@ -17,6 +17,12 @@
   list-style: none;
 }
 
+a[href] {
+  text-decoration: none;
+  color: var(--hl-color);
+}
+a[href]:hover, a[href]:focus { color: var(--hl-color) }
+
 :root {
   --window-scale: 3;
   --background-color: #101359;
@@ -120,10 +126,21 @@ html {
   max-width: 90%;
 }
 #property-container h2, #property-container li { margin-bottom: .5em }
-#property-container a[href] { color: var(--hl-color) }
-#property-container a[href]:hover { color: var(--hl-color) }
 
-a[href] {
-  color: #3d3559;
-  text-decoration: none;
+#back-room-door {
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  background-color: var(--focus-color);
+  bottom: 1rem;
+  padding: .5rem 1rem;
+  left: 1rem;
+  font-size: 1.1rem;
+  border: .3em solid var(--hl-color);
+  box-shadow: .4em .4em 0 black;
+}
+#back-room-door:hover, #back-room-door:focus {
+  background-color: var(--hl-color);
+  border-color: white;
+  box-shadow: .2em .2em 0 black;
 }

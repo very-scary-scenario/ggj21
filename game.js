@@ -6,7 +6,9 @@ const queriableObjectProperties = JSON.parse(document.getElementById("queriable-
 const personas = JSON.parse(document.getElementById("personas").textContent)
 const properties = document.getElementById("properties")
 const propertyList = document.getElementById("property-list")
-const inventory = JSON.parse(JSON.stringify(objects));
+const inventory = JSON.parse(JSON.stringify(objects))
+const backRoom = document.getElementById("back-room")
+const backRoomDoor = document.getElementById("back-room-door")
 
 function pick(list) {
   return list[Math.floor(Math.random() * list.length)]
@@ -125,6 +127,14 @@ function havePersonaVisit() {
   ], () => { letPlayerAskAboutProperty(persona, object) })
 }
 
+function showBackRoom() {
+  event.stopPropagation()
+  event.preventDefault()
+  // backRoom.classList.add('shown')
+  alert(inventory)
+}
+
 document.addEventListener('DOMContentLoaded', (event) => {
   setTimeout(havePersonaVisit, 5)  // wait a second so that the introductory swooce can happen
+  backRoomDoor.addEventListener('click', showBackRoom)
 })
