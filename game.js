@@ -2,6 +2,7 @@ const textBox = document.getElementById("text-box")
 const kioskWindow = document.getElementById("kiosk-window")
 const visitor = document.getElementById("visitor")
 const objects = JSON.parse(document.getElementById("objects").textContent)
+const queriableObjectProperties = JSON.parse(document.getElementById("queriable-object-properties").textContent)
 const personas = JSON.parse(document.getElementById("personas").textContent)
 const properties = document.getElementById("properties")
 const propertyList = document.getElementById("property-list")
@@ -79,7 +80,7 @@ function letPlayerAskAboutProperty(persona, object) {
   }
 
   for (var property in object) {
-    if (["Object", "FlavourText"].indexOf(property) !== -1) { continue }
+    if (queriableObjectProperties.indexOf(property) === -1) { continue }
     var propertyLink = document.createElement("a")
     propertyLink.innerText = property
     propertyLink.setAttribute("href", "#")
