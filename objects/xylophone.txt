@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Xylophone
+xylophone
 #FlavourText
 Selected for reasons beyond starting with an X. Definitely.
 #Weight (light/medium/heavy)

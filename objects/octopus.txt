@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Blue-Ringed Octopus
+blue-ringed octopus
 #FlavourText
 A pest that shows up to many handshake events.
 #Weight (light/medium/heavy)

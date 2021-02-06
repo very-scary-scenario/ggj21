@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-TV Remote
+TV remote
 #FlavourText
 When it's not down the side of the sofa, it may have ended up in the lost property of a train station in space. 
 #Weight (light/medium/heavy)

@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Buoy
+buoy
 #FlavourText
 Oh buoy oh buoy oh buoy!
 #Weight (light/medium/heavy)

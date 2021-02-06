@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Cup of Tea
+cup of tea
 #FlavourText
 A little known fact is that you may enjoy tea in the morning, and not only during teatime. 
 #Weight (light/medium/heavy)

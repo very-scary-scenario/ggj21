@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Knife
+knife
 #FlavourText
 Both something you regularly eat with AND a powerful weapon.
 #Weight (light/medium/heavy)

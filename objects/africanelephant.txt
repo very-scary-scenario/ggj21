@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-African Elephant
+African elephant
 #FlavourText
 Has an illustrious career spanning decades for roles in many nature documentaries. 
 #Weight (light/medium/heavy)

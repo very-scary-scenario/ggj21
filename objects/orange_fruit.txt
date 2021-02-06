@@ -1,6 +1,5 @@
-
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Orange
+orange
 #FlavourText
 Also known as the sinners apple, sometimes contains blood.
 #Weight (light/medium/heavy)

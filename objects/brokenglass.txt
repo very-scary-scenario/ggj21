@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Broken Glass
+broken glass
 #FlavourText
 Sometimes you just want more than one piece, y'know?
 #Weight (light/medium/heavy)

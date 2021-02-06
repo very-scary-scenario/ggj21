@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Jar of Blood
+jar of blood
 #FlavourText
 Comes in a handy container, perfect for commutes.
 #Weight (light/medium/heavy)

@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Train
+train
 #FlavourText
 Who loses a train in a train station?
 #Weight (light/medium/heavy)

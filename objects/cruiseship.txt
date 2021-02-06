@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Cruise Ship
+cruise ship
 #FlavourText
 For when you want to get away from it all, with hundred of other people.
 #Weight (light/medium/heavy)

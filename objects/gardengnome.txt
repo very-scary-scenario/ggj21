@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Garden Gnome
+garden gnome
 #FlavourText
 A friend to guard the garden and later launch into space.
 #Weight (light/medium/heavy)

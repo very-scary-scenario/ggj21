@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Pineapple
+pineapple
 #FlavourText
 Not content with its unique skin, it opted to wear a cool hat.
 #Weight (light/medium/heavy)

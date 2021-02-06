@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Baseball Cap
+baseball cap
 #FlavourText
 A baseball cap with video game branding on it, with MCDJ Wannabee written on the inside tag. 
 #Weight (light/medium/heavy)

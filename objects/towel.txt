@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Towel
+towel
 #FlavourText
 According to the Guide it's all you'll ever need.
 #Weight (light/medium/heavy)

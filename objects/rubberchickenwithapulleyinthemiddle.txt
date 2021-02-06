@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Rubber Chicken with a Pulley in the Middle
+rubber chicken with a pulley in the middle
 #FlavourText
 It's a rubber chicken with a pulley in the middle.
 #Weight (light/medium/heavy)

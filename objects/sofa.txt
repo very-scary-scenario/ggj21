@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Sofa
+sofa
 #FlavourText
 A chair and a bed, all in one.
 #Weight (light/medium/heavy)

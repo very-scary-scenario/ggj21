@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Gazpacho Soup
+gazpacho soup
 #FlavourText
 This liquids hides a terrible secret.
 #Weight (light/medium/heavy)

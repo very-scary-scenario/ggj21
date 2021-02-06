@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Sorbet
+sorbet
 #FlavourText
 People have this just to seem fancier than they actually are.
 #Weight (light/medium/heavy)

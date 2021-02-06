@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Cactus
+cactus
 #FlavourText
 Is... is it pointing at me?
 #Weight (light/medium/heavy)

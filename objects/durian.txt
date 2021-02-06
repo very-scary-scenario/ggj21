@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Durian
+durian
 #FlavourText
 The fruit with hella surface area.
 #Weight (light/medium/heavy)

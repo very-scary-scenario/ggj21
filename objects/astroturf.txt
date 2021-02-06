@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Square of AstroTurf
+square of AstroTurf
 #FlavourText
 Prank your local cows by putting this in their field!
 #Weight (light/medium/heavy)

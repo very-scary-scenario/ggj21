@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Mattress
+mattress
 #FlavourText
 To make you feel like you can levitate while sleeping.
 #Weight (light/medium/heavy)

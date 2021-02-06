@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Computer Mouse
+computer mouse
 #FlavourText
 Place in a cage and feed regularly to amusing effect.
 #Weight (light/medium/heavy)

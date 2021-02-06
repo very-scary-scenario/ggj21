@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Shoes
+shoes
 #FlavourText
 For when your feet need to look as professional as you.
 #Weight (light/medium/heavy)

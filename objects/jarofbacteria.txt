@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Jar of Bacteria
+jar of bacteria
 #FlavourText
 You just don't know when you might need one.
 #Weight (light/medium/heavy)

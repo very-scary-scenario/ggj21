@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Jet Airliner
+jet airliner
 #FlavourText
 Rumour has it that people used to travel to different countries in one of these. 
 #Weight (light/medium/heavy)

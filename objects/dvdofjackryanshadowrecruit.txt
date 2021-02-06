@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-DVD of Jack Ryan: Shadow Recruit
+copy of Jack Ryan: Shadow Recruit on DVD
 #FlavourText
 Now, talk me through your very scary scenario. 
 #Weight (light/medium/heavy)

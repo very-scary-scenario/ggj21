@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Lorry
+lorry
 #FlavourText
 It's a garage on wheels.
 #Weight (light/medium/heavy)

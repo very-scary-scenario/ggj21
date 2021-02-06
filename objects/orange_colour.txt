@@ -1,6 +1,5 @@
-
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Orange
+orange
 #FlavourText
 Like the fruit, but for your eyes.
 #Weight (light/medium/heavy)

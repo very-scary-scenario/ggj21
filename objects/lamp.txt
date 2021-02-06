@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Lamp
+lamp
 #FlavourText
 TEN THOUSAND YEARS WILL GIVE YOU SUCH A CRICK IN THE NECK.
 #Weight (light/medium/heavy)

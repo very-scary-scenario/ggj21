@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Yacht
+yacht
 #FlavourText
 What you buy when you really want to pay a year's worth of mooring fees.
 #Weight (light/medium/heavy)

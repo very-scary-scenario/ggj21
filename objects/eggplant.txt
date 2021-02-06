@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Eggplant
+eggplant
 #FlavourText
 A vegetable based on the famous emoji.
 #Weight (light/medium/heavy)

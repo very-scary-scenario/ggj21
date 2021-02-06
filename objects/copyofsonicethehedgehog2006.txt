@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Copy of Sonic the Hedgehog 2006 for Xbox 360
+copy of Sonic the Hedgehog for the Xbox 360
 #FlavourText
 Dangerous contraband. Contains bestiality.
 #Weight (light/medium/heavy)

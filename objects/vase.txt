@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Vase
+vase
 #FlavourText
 Place these on your shelves and have your cat comically knock it over.
 #Weight (light/medium/heavy)

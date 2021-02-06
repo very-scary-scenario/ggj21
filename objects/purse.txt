@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Purse
+purse
 #FlavourText
 A portable space to keep secrets in. Sometimes cash, too. 
 #Weight (light/medium/heavy)

@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Umbrella
+umbrella
 #FlavourText
 You can glide long distances with this if you know what you're doing.
 #Weight (light/medium/heavy)

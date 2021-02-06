@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Resident Evil 4 Chainsaw Controller
+Resident Evil 4 chainsaw controller
 #FlavourText
 As the game famously tells you: rip and tear.
 #Weight (light/medium/heavy)

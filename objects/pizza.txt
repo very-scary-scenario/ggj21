@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Pizza
+pizza
 #FlavourText
 Definitely exists for reasons beyond me being hungry.
 #Weight (light/medium/heavy)

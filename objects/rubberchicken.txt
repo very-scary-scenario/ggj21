@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Rubber Chicken
+rubber chicken
 #FlavourText
 Screams when depressed, just like me.
 #Weight (light/medium/heavy)

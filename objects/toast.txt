@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Toast
+toast
 #FlavourText
 Instantly change the flavour by covering it in various sugary concoctions.
 #Weight (light/medium/heavy)

@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Quiche
+quiche
 #FlavourText
 I believe this is Lorraine's quiche.
 #Weight (light/medium/heavy)

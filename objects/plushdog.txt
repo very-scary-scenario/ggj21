@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Plush Dog
+plush dog
 #FlavourText
 If you throw something, it can't bring it back. It's wild!
 #Weight (light/medium/heavy)

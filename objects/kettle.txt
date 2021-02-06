@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Kettle
+kettle
 #FlavourText
 A kettle, unplugged. Coincidentally also the name of my new album.
 #Weight (light/medium/heavy)

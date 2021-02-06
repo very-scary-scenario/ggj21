@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Ice Cream
+ice cream
 #FlavourText
 It didn't come out this way.
 #Weight (light/medium/heavy)

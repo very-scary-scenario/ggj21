@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Boom Microphone
+boom microphone
 #FlavourText
 These things can look like small sheep on sticks if you're not paying attention.
 #Weight (light/medium/heavy)

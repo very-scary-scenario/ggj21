@@ -1,5 +1,5 @@
 #Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
-Box of Confetti
+box of confetti
 #FlavourText
 A box packed full of confetti, addressed to a famous producer. Idle threats have been scribbled on the underside.
 #Weight (light/medium/heavy)
