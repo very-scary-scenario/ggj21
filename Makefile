@@ -4,4 +4,6 @@ index.html : build.py objects/*.txt objects/fields.list personas/*.txt personas/
 	python3 $<
 
 test : build.py tests
+	mypy .
+	flake8 .
 	python3 -m pytest

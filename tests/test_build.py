@@ -1,11 +1,11 @@
-import os
-import shutil
-import re
-
 import json
+import os
+import re
+import shutil
+
 import pytest
 
-from build import parse_object, parse_persona, is_valid, get_fields, build_things
+from build import build_things, get_fields, is_valid, parse_object, parse_persona
 
 
 @pytest.mark.parametrize('filename,expect', [

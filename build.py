@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 import json
-import os
 import logging
+import os
 import re
 from typing import Callable, Dict, List, TextIO, Union
 
