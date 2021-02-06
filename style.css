@@ -17,6 +17,7 @@
 }
 
 body {
+  font-family: sans-serif;
   background-color: #101359;
 }
 
@@ -41,7 +42,6 @@ body {
 
 #text-box {
   font-size: 2rem;
-  font-family: sans-serif;
   width: 800px;
   height: 200px;
   margin: 0 auto;
