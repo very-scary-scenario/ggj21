@@ -40,20 +40,22 @@ body {
 }
 
 #text-box {
+  font-size: 2rem;
+  font-family: sans-serif;
   width: 800px;
   height: 200px;
   margin: 0 auto;
   position: relative;
   background-image: url("text_window_border.svg");
-  padding: 2rem;
+  padding: 2.3rem;
 }
 
 #text-box.showing-text::after {
+  font-size: 3rem;
   content: "›";
   position: absolute;
   bottom: 1.3rem; 
   animation: advance 1s linear infinite;
-  font-size: 3em;
   width: 1em;
   text-align: center;
 }
