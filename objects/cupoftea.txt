@@ -2,10 +2,10 @@
 Cup of Tea
 #FlavourText
 A little known fact is that you may enjoy tea in the morning, and not only during teatime. 
-#Weight (Light/Medium/Heavy)
-Light
-#Size (Small/Medium/Big)
-Small
+#Weight (light/medium/heavy)
+light
+#Size (small/medium/big)
+small
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 Brown/Often
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ No
 No
 #Buoyancy (Yes/No)
 Yes
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Weird
+#Feel (rough/smooth/sharp/soft/weird)
+weird
 #Edible (Yes/No)
 Yes
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Cheap
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Boiling
+#Value (worthless/cheap/affordable/expensive/priceless)
+cheap
+#Temperature (freezing/cold/warm/hot/boiling)
+boiling
 #Recyclable (Yes/No)
 No
-#Mouthfeel (Good/Bad)
-Good
+#Mouthfeel (good/bad)
+good
 #Blendability (Yes/No)
 Yes
-#Shape (Square/Round/Bumpy/Abstract)
-Round
+#Shape (square/round/bumpy/abstract)
+round
 #Customs (Yes/No)
 No
 #Magnetic

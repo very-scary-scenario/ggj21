@@ -2,10 +2,10 @@
 Rubber Chicken with a Pulley in the Middle
 #FlavourText
 It's a rubber chicken with a pulley in the middle.
-#Weight (Light/Medium/Heavy)
-Light
-#Size (Small/Medium/Big)
-Small
+#Weight (light/medium/heavy)
+light
+#Size (small/medium/big)
+small
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 Yellow/Often
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ No
 No
 #Buoyancy (Yes/No)
 Yes
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Weird
+#Feel (rough/smooth/sharp/soft/weird)
+weird
 #Edible (Yes/No)
 No
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Affordable
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Warm
+#Value (worthless/cheap/affordable/expensive/priceless)
+affordable
+#Temperature (freezing/cold/warm/hot/boiling)
+warm
 #Recyclable (Yes/No)
 No
-#Mouthfeel (Good/Bad)
-Good
+#Mouthfeel (good/bad)
+good
 #Blendability (Yes/No)
 Yes
-#Shape (Square/Round/Bumpy/Abstract)
-Bumpy
+#Shape (square/round/bumpy/abstract)
+bumpy
 #Customs (Yes/No)
 No
 #Magnetic

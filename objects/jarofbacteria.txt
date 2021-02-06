@@ -2,10 +2,10 @@
 Jar of Bacteria
 #FlavourText
 You just don't know when you might need one.
-#Weight (Light/Medium/Heavy)
-Light
-#Size (Small/Medium/Big)
-Small
+#Weight (light/medium/heavy)
+light
+#Size (small/medium/big)
+small
 #Colour (either None or 'Colour, Rarely/Sometimes/Often/Always')	 
 None
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ Yes
 No
 #Buoyancy (Yes/No)
 No
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Smooth
+#Feel (rough/smooth/sharp/soft/weird)
+smooth
 #Edible (Yes/No)
 No
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Worthless
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Warm
+#Value (worthless/cheap/affordable/expensive/priceless)
+worthless
+#Temperature (freezing/cold/warm/hot/boiling)
+warm
 #Recyclable (Yes/No)
 Yes
-#Mouthfeel (Good/Bad)
-Bad
+#Mouthfeel (good/bad)
+bad
 #Blendability (Yes/No)
 Yes
-#Shape (Square/Round/Bumpy/Abstract)
-Square
+#Shape (square/round/bumpy/abstract)
+square
 #Customs (Yes/No)
 No
 #Magnetic

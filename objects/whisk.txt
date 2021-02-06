@@ -2,10 +2,10 @@
 Whisk
 #FlavourText
 Extremely vapable, if you know how.
-#Weight (Light/Medium/Heavy)
-Light
-#Size (Small/Medium/Big)
-Small
+#Weight (light/medium/heavy)
+light
+#Size (small/medium/big)
+small
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 Silver/Often
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ No
 No
 #Buoyancy (Yes/No)
 No
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Smooth
+#Feel (rough/smooth/sharp/soft/weird)
+smooth
 #Edible (Yes/No)
 No
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Cheap
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Cold
+#Value (worthless/cheap/affordable/expensive/priceless)
+cheap
+#Temperature (freezing/cold/warm/hot/boiling)
+cold
 #Recyclable (Yes/No)
 No
-#Mouthfeel (Good/Bad)
-Good
+#Mouthfeel (good/bad)
+good
 #Blendability (Yes/No)
 No
-#Shape (Square/Round/Bumpy/Abstract)
-Abstract
+#Shape (square/round/bumpy/abstract)
+abstract
 #Customs (Yes/No)
 No
 #Magnetic

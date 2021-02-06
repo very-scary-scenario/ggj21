@@ -2,10 +2,10 @@
 Moped
 #FlavourText
 The pre-evolved form of the motorbike.
-#Weight (Light/Medium/Heavy)
-Heavy
-#Size (Small/Medium/Big)
-Medium
+#Weight (light/medium/heavy)
+heavy
+#Size (small/medium/big)
+medium
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 Blue/Sometimes
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ No
 No
 #Buoyancy (Yes/No)
 Yes
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Smooth
+#Feel (rough/smooth/sharp/soft/weird)
+smooth
 #Edible (Yes/No)
 No
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Expensive
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Cold
+#Value (worthless/cheap/affordable/expensive/priceless)
+expensive
+#Temperature (freezing/cold/warm/hot/boiling)
+cold
 #Recyclable (Yes/No)
 No
-#Mouthfeel (Good/Bad)
-Bad
+#Mouthfeel (good/bad)
+bad
 #Blendability (Yes/No)
 No
-#Shape (Square/Round/Bumpy/Abstract)
-Abstract
+#Shape (square/round/bumpy/abstract)
+abstract
 #Customs (Yes/No)
 No
 #Magnetic

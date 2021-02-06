@@ -2,10 +2,10 @@
 Toast
 #FlavourText
 Instantly change the flavour by covering it in various sugary concoctions.
-#Weight (Light/Medium/Heavy)
-Light
-#Size (Small/Medium/Big)
-Small
+#Weight (light/medium/heavy)
+light
+#Size (small/medium/big)
+small
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 Brown/Often
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ No
 Yes
 #Buoyancy (Yes/No)
 No
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Rough
+#Feel (rough/smooth/sharp/soft/weird)
+rough
 #Edible (Yes/No)
 Yes
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Cheap
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Hot
+#Value (worthless/cheap/affordable/expensive/priceless)
+cheap
+#Temperature (freezing/cold/warm/hot/boiling)
+hot
 #Recyclable (Yes/No)
 No
-#Mouthfeel (Good/Bad)
-Good
+#Mouthfeel (good/bad)
+good
 #Blendability (Yes/No)
 Yes
-#Shape (Square/Round/Bumpy/Abstract)
-Square
+#Shape (square/round/bumpy/abstract)
+square
 #Customs (Yes/No)
 No
 #Magnetic

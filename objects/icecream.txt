@@ -2,10 +2,10 @@
 Ice Cream
 #FlavourText
 It didn't come out this way.
-#Weight (Light/Medium/Heavy)
-Medium
-#Size (Small/Medium/Big)
-Medium
+#Weight (light/medium/heavy)
+medium
+#Size (small/medium/big)
+medium
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 White/Sometimes
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ No
 No
 #Buoyancy (Yes/No)
 No
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Weird
+#Feel (rough/smooth/sharp/soft/weird)
+weird
 #Edible (Yes/No)
 Yes
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Cheap
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Freezing
+#Value (worthless/cheap/affordable/expensive/priceless)
+cheap
+#Temperature (freezing/cold/warm/hot/boiling)
+freezing
 #Recyclable (Yes/No)
 No
-#Mouthfeel (Good/Bad)
-Good
+#Mouthfeel (good/bad)
+good
 #Blendability (Yes/No)
 Yes
-#Shape (Square/Round/Bumpy/Abstract)
-Round
+#Shape (square/round/bumpy/abstract)
+round
 #Customs (Yes/No)
 Yes
 #Magnetic

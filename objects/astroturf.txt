@@ -2,10 +2,10 @@
 Square of AstroTurf
 #FlavourText
 Prank your local cows by putting this in their field!
-#Weight (Light/Medium/Heavy)
-Light
-#Size (Small/Medium/Big)
-Medium
+#Weight (light/medium/heavy)
+light
+#Size (small/medium/big)
+medium
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 Green/Always
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ No
 No
 #Buoyancy (Yes/No)
 No
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Rough
+#Feel (rough/smooth/sharp/soft/weird)
+rough
 #Edible (Yes/No)
 No
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Expensive
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Cold
+#Value (worthless/cheap/affordable/expensive/priceless)
+expensive
+#Temperature (freezing/cold/warm/hot/boiling)
+cold
 #Recyclable (Yes/No)
 No
-#Mouthfeel (Good/Bad)
-Bad
+#Mouthfeel (good/bad)
+bad
 #Blendability (Yes/No)
 Yes
-#Shape (Square/Round/Bumpy/Abstract)
-Bumpy
+#Shape (square/round/bumpy/abstract)
+bumpy
 #Customs (Yes/No)
 No
 #Magnetic

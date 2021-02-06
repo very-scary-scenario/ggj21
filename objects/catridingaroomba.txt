@@ -2,10 +2,10 @@
 Cat riding a Roomba
 #FlavourText
 Meows occasionally. Makes whirring noises.
-#Weight (Light/Medium/Heavy)
-Medium
-#Size (Small/Medium/Big)
-Medium
+#Weight (light/medium/heavy)
+medium
+#Size (small/medium/big)
+medium
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 Orange/Sometimes
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ Yes
 No
 #Buoyancy (Yes/No)
 Yes
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Soft
+#Feel (rough/smooth/sharp/soft/weird)
+soft
 #Edible (Yes/No)
 Yes
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Priceless
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Warm
+#Value (worthless/cheap/affordable/expensive/priceless)
+priceless
+#Temperature (freezing/cold/warm/hot/boiling)
+warm
 #Recyclable (Yes/No)
 No
-#Mouthfeel (Good/Bad)
-Good
+#Mouthfeel (good/bad)
+good
 #Blendability (Yes/No)
 Yes
-#Shape (Square/Round/Bumpy/Abstract)
-Abstract
+#Shape (square/round/bumpy/abstract)
+abstract
 #Customs (Yes/No)
 Yes
 #Magnetic

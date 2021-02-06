@@ -3,10 +3,10 @@
 Orange
 #FlavourText
 Also known as the sinners apple, sometimes contains blood.
-#Weight (Light/Medium/Heavy)
-Light
-#Size (Small/Medium/Big)
-Medium
+#Weight (light/medium/heavy)
+light
+#Size (small/medium/big)
+medium
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')
 Orange/Always
 #Flammable (Yes/No)
@@ -17,22 +17,22 @@ No
 No
 #Buoyancy (Yes/No)
 Yes
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Smooth
+#Feel (rough/smooth/sharp/soft/weird)
+smooth
 #Edible (Yes/No)
 Yes
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Cheap
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Cold
+#Value (worthless/cheap/affordable/expensive/priceless)
+cheap
+#Temperature (freezing/cold/warm/hot/boiling)
+cold
 #Recyclable (Yes/No)
 Yes
-#Mouthfeel (Good/Bad)
-Good
+#Mouthfeel (good/bad)
+good
 #Blendability (Yes/No)
 Yes
-#Shape (Square/Round/Bumpy/Abstract)
-Round
+#Shape (square/round/bumpy/abstract)
+round
 #Customs (Yes/No)
 No
 #Magnetic

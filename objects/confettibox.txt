@@ -2,10 +2,10 @@
 Box of Confetti
 #FlavourText
 A box packed full of confetti, addressed to a famous producer. Idle threats have been scribbled on the underside.
-#Weight (Light/Medium/Heavy)
-Medium
-#Size (Small/Medium/Big)
-Big
+#Weight (light/medium/heavy)
+medium
+#Size (small/medium/big)
+big
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 Brown/Often
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ No
 Yes
 #Buoyancy (Yes/No)
 No
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Smooth
+#Feel (rough/smooth/sharp/soft/weird)
+smooth
 #Edible (Yes/No)
 Yes
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Affordable
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Warm
+#Value (worthless/cheap/affordable/expensive/priceless)
+affordable
+#Temperature (freezing/cold/warm/hot/boiling)
+warm
 #Recyclable (Yes/No)
 Yes
-#Mouthfeel (Good/Bad)
-Bad
+#Mouthfeel (good/bad)
+bad
 #Blendability (Yes/No)
 Yes
-#Shape (Square/Round/Bumpy/Abstract)
-Square
+#Shape (square/round/bumpy/abstract)
+square
 #Customs (Yes/No)
 No
 #Magnetic

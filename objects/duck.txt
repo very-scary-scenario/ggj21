@@ -2,10 +2,10 @@
 Duck
 #FlavourText
 Chugging along on the old Ragdoll.
-#Weight (Light/Medium/Heavy)
-Light
-#Size (Small/Medium/Big)
-Medium
+#Weight (light/medium/heavy)
+light
+#Size (small/medium/big)
+medium
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 Green/Often
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ Yes
 No
 #Buoyancy (Yes/No)
 No
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Soft
+#Feel (rough/smooth/sharp/soft/weird)
+soft
 #Edible (Yes/No)
 Yes
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Affordable
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Cold
+#Value (worthless/cheap/affordable/expensive/priceless)
+affordable
+#Temperature (freezing/cold/warm/hot/boiling)
+cold
 #Recyclable (Yes/No)
 No
-#Mouthfeel (Good/Bad)
-Good
+#Mouthfeel (good/bad)
+good
 #Blendability (Yes/No)
 Yes
-#Shape (Square/Round/Bumpy/Abstract)
-Abstract
+#Shape (square/round/bumpy/abstract)
+abstract
 #Customs (Yes/No)
 Yes
 #Magnetic

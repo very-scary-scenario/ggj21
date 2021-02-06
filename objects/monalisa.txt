@@ -2,10 +2,10 @@
 Mona Lisa
 #FlavourText
 Famous painting from Animal Crossing.
-#Weight (Light/Medium/Heavy)
-Medium
-#Size (Small/Medium/Big)
-Medium
+#Weight (light/medium/heavy)
+medium
+#Size (small/medium/big)
+medium
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 Green/Always
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ No
 Yes
 #Buoyancy (Yes/No)
 No
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Rough
+#Feel (rough/smooth/sharp/soft/weird)
+rough
 #Edible (Yes/No)
 No
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Priceless
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Warm
+#Value (worthless/cheap/affordable/expensive/priceless)
+priceless
+#Temperature (freezing/cold/warm/hot/boiling)
+warm
 #Recyclable (Yes/No)
 No
-#Mouthfeel (Good/Bad)
-Bad
+#Mouthfeel (good/bad)
+bad
 #Blendability (Yes/No)
 Yes
-#Shape (Square/Round/Bumpy/Abstract)
-Square
+#Shape (square/round/bumpy/abstract)
+square
 #Customs (Yes/No)
 Yes
 #Magnetic

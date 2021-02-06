@@ -2,10 +2,10 @@
 Xylophone
 #FlavourText
 Selected for reasons beyond starting with an X. Definitely.
-#Weight (Light/Medium/Heavy)
-Medium
-#Size (Small/Medium/Big)
-Medium
+#Weight (light/medium/heavy)
+medium
+#Size (small/medium/big)
+medium
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 Brown/Often
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ No
 Yes
 #Buoyancy (Yes/No)
 No
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Smooth
+#Feel (rough/smooth/sharp/soft/weird)
+smooth
 #Edible (Yes/No)
 No
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Expensive
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Warm
+#Value (worthless/cheap/affordable/expensive/priceless)
+expensive
+#Temperature (freezing/cold/warm/hot/boiling)
+warm
 #Recyclable (Yes/No)
 No
-#Mouthfeel (Good/Bad)
-Bad
+#Mouthfeel (good/bad)
+bad
 #Blendability (Yes/No)
 Yes
-#Shape (Square/Round/Bumpy/Abstract)
-Square
+#Shape (square/round/bumpy/abstract)
+square
 #Customs (Yes/No)
 No
 #Magnetic

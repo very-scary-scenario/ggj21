@@ -2,10 +2,10 @@
 Blue-Ringed Octopus
 #FlavourText
 A pest that shows up to many handshake events.
-#Weight (Light/Medium/Heavy)
-Medium
-#Size (Small/Medium/Big)
-Medium
+#Weight (light/medium/heavy)
+medium
+#Size (small/medium/big)
+medium
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 Yellow/Often
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ Yes
 No
 #Buoyancy (Yes/No)
 Yes
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Rough
+#Feel (rough/smooth/sharp/soft/weird)
+rough
 #Edible (Yes/No)
 No
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Expensive
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Cold
+#Value (worthless/cheap/affordable/expensive/priceless)
+expensive
+#Temperature (freezing/cold/warm/hot/boiling)
+cold
 #Recyclable (Yes/No)
 No
-#Mouthfeel (Good/Bad)
-Bad
+#Mouthfeel (good/bad)
+bad
 #Blendability (Yes/No)
 Yes
-#Shape (Square/Round/Bumpy/Abstract)
-Abstract
+#Shape (square/round/bumpy/abstract)
+abstract
 #Customs (Yes/No)
 Yes
 #Magnetic

@@ -2,10 +2,10 @@
 Knife
 #FlavourText
 Both something you regularly eat with AND a powerful weapon.
-#Weight (Light/Medium/Heavy)
-Light
-#Size (Small/Medium/Big)
-Medium
+#Weight (light/medium/heavy)
+light
+#Size (small/medium/big)
+medium
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 Silver/Often
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ No
 Yes
 #Buoyancy (Yes/No)
 Yes
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Sharp
+#Feel (rough/smooth/sharp/soft/weird)
+sharp
 #Edible (Yes/No)
 No
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Affordable
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Cold
+#Value (worthless/cheap/affordable/expensive/priceless)
+affordable
+#Temperature (freezing/cold/warm/hot/boiling)
+cold
 #Recyclable (Yes/No)
 No
-#Mouthfeel (Good/Bad)
-Bad
+#Mouthfeel (good/bad)
+bad
 #Blendability (Yes/No)
 No
-#Shape (Square/Round/Bumpy/Abstract)
-Round
+#Shape (square/round/bumpy/abstract)
+round
 #Customs (Yes/No)
 Yes
 #Magnetic

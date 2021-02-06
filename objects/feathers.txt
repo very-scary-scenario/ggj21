@@ -2,10 +2,10 @@
 Ton of Feathers
 #FlavourText
 All from one bird, weirdly enough.
-#Weight (Light/Medium/Heavy)
-Heavy
-#Size (Small/Medium/Big)
-Big
+#Weight (light/medium/heavy)
+heavy
+#Size (small/medium/big)
+big
 #Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
 Grey/Sometimes
 #Flammable (Yes/No)
@@ -16,22 +16,22 @@ No
 No
 #Buoyancy (Yes/No)
 No
-#Feel (Rough/Smooth/Sharp/Soft/Weird)
-Soft
+#Feel (rough/smooth/sharp/soft/weird)
+soft
 #Edible (Yes/No)
 No
-#Value (Worthless/Cheap/Affordable/Expensive/Priceless)
-Worthless
-#Temperature (Freezing/Cold/Warm/Hot/Boiling)
-Warm
+#Value (worthless/cheap/affordable/expensive/priceless)
+worthless
+#Temperature (freezing/cold/warm/hot/boiling)
+warm
 #Recyclable (Yes/No)
 No
-#Mouthfeel (Good/Bad)
-Bad
+#Mouthfeel (good/bad)
+bad
 #Blendability (Yes/No)
 Yes
-#Shape (Square/Round/Bumpy/Abstract)
-Abstract
+#Shape (square/round/bumpy/abstract)
+abstract
 #Customs (Yes/No)
 No
 #Magnetic
