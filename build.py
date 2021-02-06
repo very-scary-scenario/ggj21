@@ -125,8 +125,23 @@ def build_index() -> None:
     with open(os.path.join(HERE, 'index-src.html')) as src:
         soup = BeautifulSoup(src.read(), features='html.parser')
 
+    object_fields = get_fields('objects')
+    persona_fields = get_fields('personas')
+    unqueriable_fields = ["Object", "FlabourText"]
+
+    object_properties_with_responses = [field for field in object_fields if field in persona_fields]
+    missing_object_fields = [
+        field for field in object_fields if field not in persona_fields and field not in unqueriable_fields
+    ]
+
+    if STRICT and missing_object_fields:
+        raise ValueError(
+            "There are fields specified against objects that don't have responses written for them: "
+            f"{missing_object_fields}"
+        )
+
     soup.find(id='objects').string.replace_with(build_things('objects', parse_object))
-    soup.find(id='object-properties').string.replace_with(json.dumps(list(get_fields('objects').keys()), indent=2))
+    soup.find(id='object-properties').string.replace_with(json.dumps(object_properties_with_responses, indent=2))
     soup.find(id='personas').string.replace_with(build_things('personas', parse_persona))
 
     with open(os.path.join(HERE, 'index.html'), 'wt') as dest:
