@@ -112,6 +112,7 @@ html {
   width: 100%;
   top: 0;
   left: 0;
+  z-index: 1;
 }
 #properties.shown {
   display: block;
@@ -139,6 +140,7 @@ html {
   background-color: var(--background-color);
   outline: .3em solid var(--focus-color);
   box-shadow: .6em .6em 0 black;
+  z-index: 2;
 }
 #back-room.shown {
   display: block;
