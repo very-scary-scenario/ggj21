@@ -104,7 +104,7 @@ def build_things(folder_name: str, parser: Callable[[str, TextIO], Dict]) -> str
     objects = []
     fields = get_fields(folder_name)
 
-    all_valid = True
+    problems = []
     for object_file_name in os.listdir(os.path.join(HERE, folder_name)):
         if object_file_name.startswith('.') or not object_file_name.endswith('.txt'):
             continue
@@ -113,10 +113,10 @@ def build_things(folder_name: str, parser: Callable[[str, TextIO], Dict]) -> str
             if is_valid(thing, fields):
                 objects.append(thing)
             else:
-                all_valid = False
+                problems.append((thing, fields))
 
-    if STRICT and not all_valid:
-        raise ValueError("Invalid data were found, aborting.")
+    if STRICT and problems:
+        raise ValueError(f"Invalid data were found: {problems}")
 
     return json.dumps(objects, indent=2)
 
@@ -126,6 +126,7 @@ def build_index() -> None:
         soup = BeautifulSoup(src.read(), features='html.parser')
 
     soup.find(id='objects').string.replace_with(build_things('objects', parse_object))
+    soup.find(id='object-properties').string.replace_with(json.dumps(list(get_fields('objects').keys()), indent=2))
     soup.find(id='personas').string.replace_with(build_things('personas', parse_persona))
 
     with open(os.path.join(HERE, 'index.html'), 'wt') as dest:
