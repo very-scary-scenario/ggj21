@@ -105,6 +105,10 @@ html {
   width: 1em;
   text-align: center;
 }
+#text-box span {
+  font-weight: bold;
+  color: #a33;
+}
 
 #properties {
   display: none;
