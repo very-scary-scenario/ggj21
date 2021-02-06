@@ -42,7 +42,7 @@ I'll stop hanging around and see what I can find. Thanks.
 #Weight
 Uhhhhhh maybe <weight>? I think? 
 #Size
-Definitly <size>. That should be obvious.
+Definitely <size>. That should be obvious.
 #ColourPositive
 It's <colour_1>, but they're <colour_2> that colour.
 #ColourNegative
