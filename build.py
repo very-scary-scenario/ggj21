@@ -11,6 +11,8 @@ from bs4 import BeautifulSoup
 
 HERE = os.path.dirname(__file__)
 STRICT = True
+POSITIVE = 'Positive'
+NEGATIVE = 'Negative'
 
 
 def parse_object(file_name: str, obj_file: TextIO) -> Dict[str, Union[str, bool]]:
@@ -90,8 +92,8 @@ def get_fields(folder_name: str) -> Dict[str, type]:
             match = re.match('([^0-9]+)([0-9]*)', field_name)
             assert match
             field_prefix, field_number = match.groups()
-            fields[f'{field_prefix}Positive{field_number}'] = list
-            fields[f'{field_prefix}Negative{field_number}'] = list
+            fields[f'{field_prefix}{POSITIVE}{field_number}'] = list
+            fields[f'{field_prefix}{NEGATIVE}{field_number}'] = list
         elif isinstance(field_type, type):
             fields[field_name] = field_type
         else:
@@ -126,12 +128,19 @@ def build_index() -> None:
         soup = BeautifulSoup(src.read(), features='html.parser')
 
     object_fields = get_fields('objects')
-    persona_fields = get_fields('personas')
-    unqueriable_fields = ["Object", "FlabourText"]
+    unqueriable_object_fields = ["Object", "FlavourText"]
+    queriable_object_fields = {k: v for k, v in object_fields.items() if k not in unqueriable_object_fields}
+    expected_persona_fields: List[str] = []
+    for name, kind in queriable_object_fields.items():
+        if kind is bool:
+            expected_persona_fields.append(f'{name}{NEGATIVE}')
+            expected_persona_fields.append(f'{name}{POSITIVE}')
+        else:
+            expected_persona_fields.append(name)
 
-    object_properties_with_responses = [field for field in object_fields if field in persona_fields]
+    persona_fields = get_fields('personas')
     missing_object_fields = [
-        field for field in object_fields if field not in persona_fields and field not in unqueriable_fields
+        field for field in expected_persona_fields if field not in persona_fields
     ]
 
     if STRICT and missing_object_fields:
@@ -141,7 +150,7 @@ def build_index() -> None:
         )
 
     soup.find(id='objects').string.replace_with(build_things('objects', parse_object))
-    soup.find(id='object-properties').string.replace_with(json.dumps(object_properties_with_responses, indent=2))
+    soup.find(id='object-properties').string.replace_with(json.dumps(list(queriable_object_fields.keys()), indent=2))
     soup.find(id='personas').string.replace_with(build_things('personas', parse_persona))
 
     with open(os.path.join(HERE, 'index.html'), 'wt') as dest:
