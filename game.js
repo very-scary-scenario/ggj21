@@ -83,16 +83,24 @@ function askAboutPropertyOf(persona, object, callback) {
     event.stopPropagation()
     event.preventDefault()
     var property = event.currentTarget.getAttribute("data-property")
+    hidePropertiesOptions()
     askPersonaAbout(persona, object, property, callback)
   }
   return askAboutProperty
 }
 
-function letPlayerAskAboutProperty(persona, object) {
+function showPropertiesOptions() {
   properties.classList.add("shown")
+}
+
+function hidePropertiesOptions() {
+  properties.classList.remove("shown")
+}
+
+function letPlayerAskAboutProperty(persona, object) {
+  showPropertiesOptions()
 
   function bail() {  // this needs to be named better once we cement what's gonna happen next
-    properties.classList.remove("shown")
     alert("henlo")
   }
 
