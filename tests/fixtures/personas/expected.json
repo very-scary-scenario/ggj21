@@ -1,21 +1,21 @@
 [
     {
   "_name": "valid",
-  "_art_url": "art/valid.png",
+  "_art_url": "scaled_art/valid.png",
 	"Greeting": ["Hi", "Henlo"],
 	"ExistsPositive": ["Yes"],
 	"ExistsNegative": ["No"]
     },
     {
   "_name": "validwithextranewlines",
-  "_art_url": "art/validwithextranewlines.png",
+  "_art_url": "scaled_art/validwithextranewlines.png",
 	"Greeting": ["Hi", "Henlo"],
 	"ExistsPositive": ["Yup"],
 	"ExistsNegative": ["Nope"]
     },
     {
   "_name": "validwithparens",
-  "_art_url": "art/validwithparens.png",
+  "_art_url": "scaled_art/validwithparens.png",
 	"Greeting": ["Hi", "Henlo"],
 	"ExistsPositive": ["Aye"],
 	"ExistsNegative": ["Naw"]

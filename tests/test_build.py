@@ -27,7 +27,7 @@ def test_parse_persona(filename, expect):
     with open(f'tests/fixtures/personas/{filename}.txt', 'r') as f:
         assert parse_persona(filename, f) == {
             **expect,
-            '_name': filename, '_art_url': f'art/{filename}.png',
+            '_name': filename, '_art_url': f'scaled_art/{filename}.png',
         }
 
 
