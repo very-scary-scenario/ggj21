@@ -1,7 +1,7 @@
 #Intro1
 Hello citizen, I'm famous fashion model Helmut Kruger.
 Hello, I was wondering if you could help me tie up a loose end.
-Greetings, I neeed to find something before I make a rapid exit.
+Greetings. I need to find something before I make a rapid exit.
 
 #Intro2
 Someone has misplaced my <object> and I need to retrieve it.
