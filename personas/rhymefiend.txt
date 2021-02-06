@@ -3,7 +3,7 @@ Now that I'm at the front of the queue, I can finally say that it's nice to meet
 It's good to meet you, but my item is missing. Could you save me from all this reminiscing?
 
 #Intro2
-<object>, that's my missing possession. If it's okay with you, may I ask you a question?
+<object|sentence>, that's my missing possession. If it's okay with you, may I ask you a question?
 
 #Intro3
 Regarding this loss, please hear my plea. Is it hiding back there? Is it hiding from me?
@@ -29,11 +29,11 @@ It isn't here? Not even round back?
 It's not your fault, but that's kind of whack.
 
 #Weight
-<weight> would have to be my best guess, though I'm not not too sure I must confess. 
+<weight|sentence> would have to be my best guess, though I'm not not too sure I must confess. 
 #Size
 It's fairly <size>, that's for sure. The size of the thing was part of it's lure!
 #ColourPositive
-It's definitely <colour_1>, charming indeed. <colour_2> that colour, that much I concede.
+It's definitely <colour_1>, charming indeed. <colour_2|sentence> that colour, that much I concede.
 #ColourNegative
 No colour to speak of, not even orange.
 #FlammablePositive
@@ -59,9 +59,9 @@ You could definitely eat it, swallow it whole. It's calorie heavy though, so go 
 #EdibleNegative
 I wouldn't eat it. No, that'd be weird. Someone that attempts it is someone to be feared.
 #Value
-<value>, for sure. I'd say that's about right. I didn't pay for it though, and that's because I'm tight.
+<value|sentence>, for sure. I'd say that's about right. I didn't pay for it though, and that's because I'm tight.
 #Temperature
-It's a <temperature> item. <temperature> indeed. Yet despite that fact, it's an item I need.
+It's a <temperature> item. <temperature|sentence> indeed. Yet despite that fact, it's an item I need.
 #RecyclablePositive
 Totally recyclable, one hundred percent. It could go in as-is, then come out as a tent.
 #RecyclableNegative

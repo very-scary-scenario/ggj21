@@ -48,7 +48,7 @@ It's pretty <weight>, yeah? Like, that's what I reckon.
 #Size
 As big as another, yeah. Y'know, like, <size>.
 #ColourPositive
-It's <colour_1>, lovely that. <colour_2> that colour, lovely all the same.
+It's <colour_1>, lovely that. <colour_2|sentence> that colour, lovely all the same.
 #ColourNegative
 Hard to put a colour on it, y'know?
 #FlammablePositive

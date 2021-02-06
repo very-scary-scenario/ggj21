@@ -28,56 +28,56 @@ that is unfortunate, but thank you for attempting.
 here's my UUID should you find it.
 
 #Weight
-<object> is <weight>.
+<object|sentence> is <weight>.
 #Size
-<object> is <size>.
+<object|sentence> is <size>.
 #ColourPositive
-<object> <Colour_2> reflects <Colour_1> wavelengths.
+<object|sentence> <Colour_2> reflects <Colour_1> wavelengths.
 #ColourNegative
 the human visible spectrum does not interact with <object>.
 #FlammablePositive
-<object> is capable of combustion.
+<object|sentence> is capable of combustion.
 #FlammableNegative
-<object> is not capable of combustion.
+<object|sentence> is not capable of combustion.
 #LivingPositive
-<object> is capable of cytokinesis.
+<object|sentence> is capable of cytokinesis.
 #LivingNegative
-<object> is not capable of cytokinesis.
+<object|sentence> is not capable of cytokinesis.
 #EdgesPositive
-<object> has vertices.
+<object|sentence> has vertices.
 #EdgesNegative
-<object> does not have vertices.
+<object|sentence> does not have vertices.
 #BuoyancyPositive
-<object> is buoyant.
+<object|sentence> is buoyant.
 #BuoyancyNegative
-<object> is not buoyant.
+<object|sentence> is not buoyant.
 #Feel
 my durometer says <object> should feel <feel>.
 #EdiblePositive
-<object> can be digested by organic beings.
+<object|sentence> can be digested by organic beings.
 #EdibleNegative
-<object> can not be digested by organic beings.
+<object|sentence> can not be digested by organic beings.
 #Value
 the monetary is <value>.
 #Temperature
 my thermometer puts the object in the <temperature> range.
 #RecyclablePositive
-<object> is recycleable.
+<object|sentence> is recycleable.
 #RecyclableNegative
-<object> is not recycleable.
+<object|sentence> is not recycleable.
 #Mouthfeel
 organic beings say <object> is <mouthfeel>.
 #BlendabilityPositive
-<object> can be pulverized.
+<object|sentence> can be pulverized.
 #BlendabilityNegative
-<object> can not be pulverized.
+<object|sentence> can not be pulverized.
 #Shape
-<object> is <shape>.
+<object|sentence> is <shape>.
 #CustomsPositive
-<object> is contraband.
+<object|sentence> is contraband.
 #CustomsNegative
-<object> is not contraband.
+<object|sentence> is not contraband.
 #MagneticPositive
-<object> reacts to magnetic fields.
+<object|sentence> reacts to magnetic fields.
 #MagneticNegative
-<object> does not react to magnetic fields.
+<object|sentence> does not react to magnetic fields.

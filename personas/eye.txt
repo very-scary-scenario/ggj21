@@ -40,7 +40,7 @@ If Eye was to eyeball it, Eye'd say it was <weight>.
 #Size
 If Eye was to eyeball it, Eye'd say it was <weight>.
 #ColourPositive
-<colour_1>, but <colour_2> Eye behold them in that colour.
+<colour_1|sentence>, but <colour_2> Eye behold them in that colour.
 #ColourNegative
 Eye would say it has no colour to behold.
 #FlammablePositive
@@ -80,7 +80,7 @@ Eye do not use a Blender, but Eye should think it should blend.
 #BlendabilityNegative
 Eye do not think it to be possible to 'blend' this object.
 #Shape
-<shape>. It is most pleasing to my Eye.
+<shape|sentence>. It is most pleasing to my Eye.
 #CustomsPositive
 Eye do believe that it may result in some... questions being directed at Eye.
 #CustomsNegative

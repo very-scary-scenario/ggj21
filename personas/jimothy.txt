@@ -82,7 +82,7 @@ Yes, it's recyclable. I'd prefer you give it back to me rather than recycle it, 
 #RecyclableNegative
 No, it's not recyclable. But that shouldn't matter? Because you're giving it back to me? Please?
 #Mouthfeel
-Mouthfeel? I, uh, don't even know how to answer that. <mouthfeel>? <mouthfeel> mouthfeel, I think?
+Mouthfeel? I, uh, don't even know how to answer that. <mouthfeel|sentence>? <mouthfeel|sentence> mouthfeel, I think?
 #BlendabilityPositive
 If you had one of those fancy blenders, it'd probably blend. Please don't try.
 #BlendabilityNegative

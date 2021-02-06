@@ -5,7 +5,7 @@ What's up!
 
 #Intro2
 Crazy thing right, my <object> went missing around here. Have you got it?
-<object>. Ring any bells?
+<object|sentence>. Ring any bells?
 Can you do us a solid and see if you've got my <object>.
 
 #Intro3

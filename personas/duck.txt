@@ -61,13 +61,13 @@ Quack, Quack, Quack. Quackity. No.
 #Value
 Qua.... Quack Quack, <value>.
 #Temperature
-<temperature>
+<temperature|sentence>
 #RecyclablePositive
 Quack, Yes.
 #RecyclableNegative
 Quack, No.
 #Mouthfeel
-Quack? Quaaaaaack? Qua-Quack? <mouthfeel>?
+Quack? Quaaaaaack? Qua-Quack? <mouthfeel|sentence>?
 #BlendabilityPositive
 Quack? Quack-kwak. Blendable.
 #BlendabilityNegative

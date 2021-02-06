@@ -4,17 +4,17 @@ so... hm... he- he- hello?
 h- h- hi?
 
 #Intro2
-do you... uh... have... m- m- my <object>...?
-i- i- is... this uh... where my... <object> is?
-... <object>?
+do you... uh... have... m- m- my <object|lower>...?
+i- i- is... this uh... where my... <object|lower> is?
+... <object|lower>?
 
 #Intro3
-... <object>!
-my <object>! pl- pl- please...
-I re- re- really... need my... <object>.
+... <object|lower>!
+my <object|lower>! pl- pl- please...
+I re- re- really... need my... <object|lower>.
 
 #OutroPositive1
-m- m- my... uh... <object>!
+m- m- my... uh... <object|lower>!
 
 #OutroPositive2
 th- th- thank... you...
@@ -32,11 +32,11 @@ o- o- okay...
 th- th- thank... you... anyway...
 
 #Weight
-probably... uh... <weight>... I think... maybe?
+probably... uh... <weight|lower>... I think... maybe?
 #Size
-possibly... um... <size>...?
+possibly... um... <size|lower>...?
 #ColourPositive
-mine is... uh... <colour_1>, <colour_2>
+mine is... uh... <colour_1|lower>, <colour_2|lower>
 #ColourNegative
 um... none
 #FlammablePositive
@@ -56,27 +56,27 @@ y- y- yes...
 #BuoyancyNegative
 n- n- no...
 #Feel
-it is... uh... um... <feel>
+it is... uh... um... <feel|lower>
 #EdiblePositive
 y- y- yes...
 #EdibleNegative
 n- n- no...
 #Value
-it is... hm... uh... <value>... I think?
+it is... hm... uh... <value|lower>... I think?
 #Temperature
-maybe... uh... probably... <temperature>?
+maybe... uh... probably... <temperature|lower>?
 #RecyclablePositive
 y- y- yes...
 #RecyclableNegative
 n- n- no...
 #Mouthfeel
-it... um... is <mouthfeel>... probably?
+it... um... is <mouthfeel|lower>... probably?
 #BlendabilityPositive
 y- y- yes...
 #BlendabilityNegative
 n- n- no...
 #Shape
-um... <shape>... I guess.
+um... <shape|lower>... I guess.
 #CustomsPositive
 y- y- yes...
 #CustomsNegative
