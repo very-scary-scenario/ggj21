@@ -50,11 +50,11 @@ No, Eye do not believe it to be flammable.
 #LivingPositive
 Eye, Eye have beheld it moving.
 #LivingNegative
-Eye, Eye have behold rocks that are more alive.
+Eye, Eye have beheld rocks that were more alive.
 #EdgesPositive
 Eye, Eye believe it could put an Eye out!
 #EdgesNegative
-Eye be at not risk of putting my Eye out around this, Eye would say.
+Eye be not at risk of putting my Eye out around this, Eye would say.
 #BuoyancyPositive
 Eye think it is pretty dense.
 #BuoyancyNegative
@@ -76,7 +76,7 @@ Eye do not believe it to be recyclable.
 #Mouthfeel
 You are asking Eye about 'mouthfeel'? Eye am not an expert, but Eye would say it is probably <mouthfeel>.
 #BlendabilityPositive
-Eye do not use a Blender, but Eye should think it should blend.
+Eye do not use a blender, but Eye should think it should blend.
 #BlendabilityNegative
 Eye do not think it to be possible to 'blend' this object.
 #Shape
@@ -84,7 +84,7 @@ Eye do not think it to be possible to 'blend' this object.
 #CustomsPositive
 Eye do believe that it may result in some... questions being directed at Eye.
 #CustomsNegative
-Eye do not believe Customs to be an issue.
+Eye do not believe security would be an issue.
 #MagneticPositive
 Eye do believe this to be magnetic.
 #MagneticNegative
