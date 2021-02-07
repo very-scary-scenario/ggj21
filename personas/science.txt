@@ -87,7 +87,7 @@ No. Please don't ask me if I've tried it, though.
 #Shape
 It's <shape>-shaped.
 #CustomsPositive
-It might be a little questionable from a customs point of view, but it's extremely important for science!
+It might be a little questionable from a security point of view, but it's extremely important for science!
 #CustomsNegative
 Nope, nothing to be concerned about.
 #MagneticPositive
