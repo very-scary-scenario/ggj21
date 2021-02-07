@@ -14,7 +14,7 @@ const backRoomExit = document.getElementById("back-room-exit")
 
 const filterExp = /(?<leadingContent>[^<>]*)(?<tag><(?<name>[^>|]+)\|?(?<filter>[^>|]+)?>)?/g
 
-const obfuscationCharacter = '▞'
+const obfuscationCharacter = '▄'
 
 
 // these text things are globals so that you can, at any time, hand in a new
