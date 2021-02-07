@@ -1,6 +1,6 @@
 #Intro1 (pick one line from each Intro section at random)
 Eye be looking for a lost item.
-Is this the Lost and Found Eye and Seeing?
+Is this the Lost and Found Eye am seeing?
 
 #Intro2
 Eye lost my <object> somewhere around here...
