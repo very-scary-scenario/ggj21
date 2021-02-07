@@ -61,6 +61,13 @@ const filters = {
   sentence: (input) => input.slice(0, 1).toUpperCase() + input.slice(1),
 }
 
+function obfuscatedSpan() {
+  const span = document.createElement('span')
+  span.classList.add('obfuscated')
+  span.textContent = '-----'
+  return span
+}
+
 function format(string, repl) {
   // take a string and format <blocks> within it, and return a paragraph
   // element in which each of those blocks is wrapped in a <span> element
@@ -73,16 +80,23 @@ function format(string, repl) {
     }
     if (match.groups.name) {
       let replacement = repl(name)
-      if (match.groups.filter) {
-        if (filters[match.groups.filter]) {
-          replacement = filters[match.groups.filter](replacement)
-        } else {
-          throw "no filter exists for " + match.groups.filter
+
+      if (replacement instanceof HTMLElement) {
+        // this is a finished tag, and we should not filter it further
+        p.appendChild(replacement)
+      } else {
+        // this is just text; we can filter it however we want
+        if (match.groups.filter) {
+          if (filters[match.groups.filter]) {
+            replacement = filters[match.groups.filter](replacement)
+          } else {
+            throw "no filter exists for " + match.groups.filter
+          }
         }
+        const span = document.createElement('span')
+        span.innerText = replacement
+        p.appendChild(span)
       }
-      const span = document.createElement('span')
-      span.innerText = replacement
-      p.appendChild(span)
     }
   }
 
@@ -102,11 +116,12 @@ function askPersonaAbout(persona, object, property, callback) {
 
   function formatReplacementInResponse(name) {
     if (name === "object") {
-      return object.Object
+      return obfuscatedSpan()
     } else {
       return object[lookup]
     }
   }
+
   showTexts([format(pick(persona[lookup]), formatReplacementInResponse)], callback)
 }
 
@@ -157,9 +172,9 @@ function havePersonaVisit() {
   visitor.setAttribute("src", persona._art_url)
   const object = pick(inventory)  // there's no sense having someone show up with an object you don't have
   showTexts([
-    format(pick(persona.Intro1), () => object.Object),
-    format(pick(persona.Intro2), () => object.Object),
-    format(pick(persona.Intro3), () => object.Object),
+    format(pick(persona.Intro1), obfuscatedSpan),
+    format(pick(persona.Intro2), obfuscatedSpan),
+    format(pick(persona.Intro3), obfuscatedSpan),
   ], () => { letPlayerAskAboutProperty(persona, object) })
 }
 
