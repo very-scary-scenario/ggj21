@@ -4,9 +4,9 @@ Well, Shiver me Timbers and Sweep the Poop Deck!
 I be seeking treasure!
 
 #Intro2
-Have ye been seeing my Dubloons, I mean, me <object>?
-I be on a quest to find me my <object>.
-This spot be not an 'X' on me map, but may this be where my <object> be found?
+Have ye been seeing me Dubloons, I mean, me <object>?
+I be on a quest to find me <object>.
+This spot be not an 'X' on me map, but may this be where me <object> be found?
 
 #Intro3
 Have some scoundrel be hiding it treasure back thar?
@@ -14,9 +14,9 @@ If I don't be bringing back treasure, me Cap'n be making me walk thar plank!
 Me treasure be rarer than a Space Whale!
 
 #OutroPositive1
-Ahoy! This be my <object>!
+Ahoy! This be me <object>!
 Thar she blows! That be me <object>!
-Thar it be! It be a sight for this old sailors eyes, that's my <object>.
+Thar it be! It be a sight for this old sailors eyes, that's me <object>.
 
 #OutroPositive2
 I'll be drink'n the good Grog tonight!
@@ -24,12 +24,12 @@ I'll be given ye five dubloons out of five!
 I be thanking ye, landlubber!
 
 #OutroNegative1
-Avast, Matey - That thar ain't my treasure!
+Avast, Matey - That thar ain't me treasure!
 That not be mine, ye savvy?
 Shiver me Timbers, even a Pirate don't be wanting one of those!
 
 #OutroNegative2
-That not be my <object>, you scurvy dog!
+That not be me <object>, you scurvy dog!
 Me Cap'n will be having ye walking the Space Plank!
 Ye can shove your garbage up Davy Jones's Locker. 
 
@@ -40,7 +40,7 @@ Gar! Me <object> must be claimed by the deep by now!
 
 #OutroNoItem2
 It not be your fault though, savvy?
-I'll be guessing this just be my white whale.
+I'll be guessing this just be me white whale.
 Thanks to ye for looking.
 
 #Weight
