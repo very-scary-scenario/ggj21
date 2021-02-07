@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+boat
+#FlavourText
+Complete with paddles and an outboard motor. Someone has scribbled 'The Spirit of Waluigi' on the side of it.
+#Weight (light/medium/heavy)
+heavy
+#Size (small/medium/big)
+big
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+Silver/Sometimes
+#Flammable (Yes/No)
+No
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+Yes
+#Buoyancy (Yes/No)
+Yes
+#Feel (rough/smooth/sharp/soft/weird)
+smooth
+#Edible (Yes/No)
+No
+#Value (worthless/cheap/affordable/expensive/priceless)
+expensive
+#Temperature (freezing/cold/warm/hot/boiling)
+cold
+#Recyclable (Yes/No)
+No
+#Mouthfeel (good/bad)
+bad
+#Blendability (Yes/No)
+No
+#Shape (square/round/bumpy/abstract)
+abstract
+#Customs (Yes/No)
+No
+#Magnetic
+Yes
