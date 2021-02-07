@@ -7,7 +7,7 @@
 @keyframes obfuscated-bgs {
   000% { background-color: #a33 }
   033% { background-color: #3a3 }
-  033% { background-color: #33a }
+  066% { background-color: #33a }
   100% { background-color: #a33 }
 }
 @keyframes obfuscated-colors {
