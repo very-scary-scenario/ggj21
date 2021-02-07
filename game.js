@@ -14,6 +14,9 @@ const backRoomExit = document.getElementById("back-room-exit")
 
 const filterExp = /(?<leadingContent>[^<>]*)(?<tag><(?<name>[^>|]+)\|?(?<filter>[^>|]+)?>)?/g
 
+const obfuscationCharacter = '▞'
+
+
 // these text things are globals so that you can, at any time, hand in a new
 // set of texts to override everything and not heck everything up
 
@@ -64,7 +67,12 @@ const filters = {
 function obfuscatedSpan() {
   const span = document.createElement('span')
   span.classList.add('obfuscated')
-  span.textContent = '-----'
+  for (var i = 0; i < 5; i++) {
+    const letter = document.createElement('span')
+    letter.classList.add('letter')
+    letter.textContent = obfuscationCharacter
+    span.appendChild(letter)
+  }
   return span
 }
 

@@ -4,6 +4,19 @@
   100% { right: .9rem }
 }
 
+@keyframes obfuscated-bgs {
+  000% { background-color: #a33 }
+  033% { background-color: #3a3 }
+  033% { background-color: #33a }
+  100% { background-color: #a33 }
+}
+@keyframes obfuscated-colors {
+  000% { color: #a33; }
+  033% { color: #3a3; }
+  066% { color: #33a; }
+  100% { color: #a33; }
+}
+
 @keyframes tokimeki-memorial {
   000% { transform: translate(44px, -22px) }
   100% { transform: translate(-44px, 22px) }
@@ -105,10 +118,20 @@ html {
   width: 1em;
   text-align: center;
 }
-#text-box span {
+#text-box > p > span {
   font-weight: bold;
   color: #a33;
 }
+#text-box .obfuscated .letter {
+  color: green;
+  position: relative;
+}
+
+#text-box .obfuscated .letter:nth-child(5n+0) { animation: obfuscated-colors 2.0s linear infinite, obfuscated-bgs 1.2s linear infinite; }
+#text-box .obfuscated .letter:nth-child(5n+1) { animation: obfuscated-colors 2.5s linear infinite, obfuscated-bgs 1.0s linear infinite; }
+#text-box .obfuscated .letter:nth-child(5n+2) { animation: obfuscated-colors 3.0s linear infinite, obfuscated-bgs 0.7s linear infinite; }
+#text-box .obfuscated .letter:nth-child(5n+3) { animation: obfuscated-colors 4.5s linear infinite, obfuscated-bgs 0.9s linear infinite; }
+#text-box .obfuscated .letter:nth-child(5n+4) { animation: obfuscated-colors 6.5s linear infinite, obfuscated-bgs 0.8s linear infinite; }
 
 #properties {
   display: none;
