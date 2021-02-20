@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+fig
+#FlavourText
+I hear they're to die for.
+#Weight (light/medium/heavy)
+light
+#Size (small/medium/big)
+small
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+Purple/Often
+#Flammable (Yes/No)
+Yes
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+No
+#Buoyancy (Yes/No)
+Yes
+#Feel (rough/smooth/sharp/soft/weird)
+smooth
+#Edible (Yes/No)
+Yes
+#Value (worthless/cheap/affordable/expensive/priceless)
+affordable
+#Temperature (freezing/cold/warm/hot/boiling)
+warm
+#Recyclable (Yes/No)
+No
+#Mouthfeel (good/bad)
+good
+#Blendability (Yes/No)
+Yes
+#Shape (square/round/bumpy/abstract)
+round
+#Customs (Yes/No)
+Yes
+#Magnetic
+No
