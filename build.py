@@ -157,6 +157,7 @@ def build_index() -> None:
     soup.find(id='queriable-object-properties').string.replace_with(json.dumps(
         list(queriable_object_fields.keys()), indent=2))
     soup.find(id='personas').string.replace_with(build_things('personas', parse_persona))
+    soup.find(id='loops').string.replace_with(json.dumps(os.listdir(os.path.join(HERE, 'audio'))))
 
     with open(os.path.join(HERE, 'index.html'), 'wt') as dest:
         dest.write(str(soup))
