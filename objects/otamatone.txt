@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+Otamatone
+#FlavourText
+#NotSoWeeklyOtamatone 
+#Weight (light/medium/heavy)
+light
+#Size (small/medium/big)
+medium
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+White/Sometimes
+#Flammable (Yes/No)
+No
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+No
+#Buoyancy (Yes/No)
+No
+#Feel (rough/smooth/sharp/soft/weird)
+weird
+#Edible (Yes/No)
+No
+#Value (worthless/cheap/affordable/expensive/priceless)
+affordable
+#Temperature (freezing/cold/warm/hot/boiling)
+warm
+#Recyclable (Yes/No)
+No
+#Mouthfeel (good/bad)
+bad
+#Blendability (Yes/No)
+Yes
+#Shape (square/round/bumpy/abstract)
+abstract
+#Customs (Yes/No)
+No
+#Magnetic
+Yes
