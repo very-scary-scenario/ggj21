@@ -1,0 +1,38 @@
+#Object (simply what the item is - there will be a list of adjectives that the game will pick from to spice this up)
+skateboard
+#FlavourText
+You say train station, I say skate park. 
+#Weight (light/medium/heavy)
+medium
+#Size (small/medium/big)
+medium
+#Colour (either None or 'Colour, Rarely/Often/Sometimes/Always')	 
+Black/Often
+#Flammable (Yes/No)
+Yes
+#Living (Yes/No) 
+No
+#Edges (Yes/No)
+Yes
+#Buoyancy (Yes/No)
+No
+#Feel (rough/smooth/sharp/soft/weird)
+rough
+#Edible (Yes/No)
+No
+#Value (worthless/cheap/affordable/expensive/priceless)
+affordable
+#Temperature (freezing/cold/warm/hot/boiling)
+warm
+#Recyclable (Yes/No)
+No
+#Mouthfeel (good/bad)
+bad
+#Blendability (Yes/No)
+No
+#Shape (square/round/bumpy/abstract)
+abstract
+#Customs (Yes/No)
+No
+#Magnetic
+No
